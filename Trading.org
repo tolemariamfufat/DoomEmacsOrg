@@ -9,6 +9,7 @@
 - [[#market-structure-long-term-highlow-intermediate-term-highlow-and-short-term-highlow][Market structure: Long term high/low, Intermediate term high/low and short term high/low]]
 - [[#institutional-order-flow][Institutional order flow]]
 - [[#setup][Setup]]
+  - [[#foundation-for-setup][Foundation for setup]]
 
 * PD Array
 ** Bearish Pd Array Matrix
@@ -61,3 +62,7 @@
 => You buy in discount that is above equilibrium; you do not buy in premium, do not lose money.
 => You must place sell or buy order on a FVG; and sell or buy stop above/below the previous candle.
 => If you couldn't find FVG on Daily go to Hourly, if you couldn't find FVG on hourly go to 15M or 3 minute or 2 or 1 minute; you will get it. You should obey this rule if you do not want to lose your money.
+** Foundation for setup
+=> You have a level of relative equal highs and price is moving towards it, and small corrections, and finally it runs through those relatively highs. As soon as it goes above it, you start planning back through  all this price running there. And you should find the nearest short term low because that right there is going to be your trigger. It is not that it goes above this old relative equal high and then goes down below that. It has to go below the short term low and displacement with energetic move take out short term low. That is how you filter out these trades that  not be high probability. Until it takes that short term low, there is nothing going on, no trade, no setup there at all. Then when there is displacement that  leg and price action that right there is your foundation to the setup. Once you have that then  you can go into that area and look for the FVG. That is the logic, that is the pattern that is what you are looking for. That is if the bias is bearish. Before it ran to those relative equal highs, you have to look for down there price was trading down into that area was showing you your interest today and you are watching the price action where it was likely to go down to the low little gap so you were expecting this type of movement. So These two scenarios must be fulfilled for the setup. If there is no movement down there would be no trade that moves to old highs.
+
+=> In reverse, you can trade long positions. The logic is the same.
