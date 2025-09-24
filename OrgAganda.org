@@ -1,0 +1,18 @@
+#+title: Org Aganda
+* Table of Contents :toc:
+- [[#educational-terminologies-translation][Educational Terminologies Translation.]]
+- [[#idir-monthly][Idir Monthly]]
+- [[#staff-on-duity-report][Staff on Duity Report]]
+- [[#car-third-party-policy-renewal][Car third party policy renewal]]
+- [[#ma-exam][MA exam]]
+
+* TODO Educational Terminologies Translation.
+SCHEDULED: <2025-09-09 Tue>
+* TODO Idir Monthly
+SCHEDULED: <2025-09-06 Sat>
+* TODO Staff on Duity Report
+SCHEDULED: <2025-09-12 Fri>
+* TODO Car third party policy renewal
+SCHEDULED: <2025-09-22 Mon>
+* TODO MA exam
+SCHEDULED: <2025-09-19 Fri>
