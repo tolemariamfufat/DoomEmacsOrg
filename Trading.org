@@ -10,6 +10,7 @@
 - [[#institutional-order-flow][Institutional order flow]]
 - [[#setup][Setup]]
   - [[#foundation-for-setup-2022-ict-mentorship-episode-24][Foundation for setup (2022 ICT Mentorship, Episode 24)]]
+- [[#identifying-the-counter-trend-context][Identifying the Counter-Trend Context]]
 
 * PD Array
 ** Bearish Pd Array Matrix
@@ -66,3 +67,11 @@
 => You have a level of relative equal highs and price is moving towards it, and small corrections, and finally it runs through those relatively highs. As soon as it goes above it, you start planning back through  all this price running there. And you should find the nearest short term low because that right there is going to be your trigger. It is not that it goes above this old relative equal high and then goes down below that. It has to go below the short term low and displacement with energetic move take out short term low. That is how you filter out these trades that  not be high probability. Until it takes that short term low, there is nothing going on, no trade, no setup there at all. Then when there is displacement that  leg and price action that right there is your foundation to the setup. Once you have that then  you can go into that area and look for the FVG. That is the logic, that is the pattern that is what you are looking for. That is if the bias is bearish. Before it ran to those relative equal highs, you have to look for down there price was trading down into that area was showing you your interest today and you are watching the price action where it was likely to go down to the low little gap so you were expecting this type of movement. So These two scenarios must be fulfilled for the setup. If there is no movement down there would be no trade that moves to old highs.
 
 => In reverse, you can trade long positions. The logic is the same.
+=> Bearish: If the market runs the old high first followed by old low run, that is bearish.
+=> Bullish: If the market runs the old low first followed by old high run, that is bullish (2022 ICT Mentorship, Episode 25)
+* Identifying the Counter-Trend Context
+=> The setup is framed as a retracement of a long-term bearish move. The core logic involves taking a bullish (buy) trade on a lower time frame when the higher time frame bias is bearish.
+=> A counter-trend trade requires a clear, higher-time frame objective, referred to as the Draw on Liquidity.
+=> The entry is timed on a lower time frame using specific ICT concepts after the market drops into a "discount" area: discount zone, FVG, market structure shift
+=> If the market runs impulsively high or low without giving you the opportunity of retracement to enter, do not trade, wait for the opportunity.
+=> Notice that during New York lunch time equal highs are often produced, market rallies above which to previous highs or lows.
