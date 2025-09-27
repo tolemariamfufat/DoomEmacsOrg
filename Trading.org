@@ -11,6 +11,10 @@
 - [[#setup][Setup]]
   - [[#foundation-for-setup-2022-ict-mentorship-episode-24][Foundation for setup (2022 ICT Mentorship, Episode 24)]]
 - [[#identifying-the-counter-trend-context][Identifying the Counter-Trend Context]]
+- [[#when-to-buy][When to buy]]
+- [[#narrative][Narrative]]
+- [[#tgif-setup][T.G.I.F. Setup]]
+- [[#time-and-price][Time and Price]]
 
 * PD Array
 ** Bearish Pd Array Matrix
@@ -75,3 +79,27 @@
 => The entry is timed on a lower time frame using specific ICT concepts after the market drops into a "discount" area: discount zone, FVG, market structure shift
 => If the market runs impulsively high or low without giving you the opportunity of retracement to enter, do not trade, wait for the opportunity.
 => Notice that during New York lunch time equal highs are often produced, market rallies above which to previous highs or lows.
+* When to buy
+=> ICT advises "buy on Wednesday on New York session".
+=> Pay attention to Accumulation, Manipulation (creating low/high of the day), distribution (expansion); that is power of AMD!
+* Narrative
+
+=> Narrative explains where the market is likely to go. It is not determined by indicators, but by analysis. Where is that draw on liquidity? It is not wise for you to determine your bet, gamble or investment on what an indicator is saying versus reading price action and getting the logic behind what it's doing. Narrative is the understanding of what price should why and what things will it encounter to prove that the narrative that you are assuming in place is in fact underway. We create a fair value gap here on 15M time frame, that is our area to watch and see if price supports a run if it digs into that and starts to repel higher/lower and we take out this short term high; that is enough to set up a stage for the afternoon/morning trend. That afternoon session move or set up or price swing that is what we are looking for now because the market failed to go to an objective we are looking for it was respecting the daily fair value gap and it rallied up and what very valuable that is. Here it took out that short term high so now we have an absolute market structure shift bullish with swing high and the market comes back down in here and re balances this fvg. Now we do not look into support resistance, we are looking at the fact that we went through this short term high created an imbalance and then we treated that into that now when we get into this area here we are interested in looking at inter market relationships. We want to study real accumulation, manipulation and distribution. How do we do that? We are going to go into the lower time frame five minute chart. I want you to go back to your 15m chart, this is where the work is required on your part. This price run from where to where, you see that. Look at your chart and shade that in on a 15m time frame. And drop down into the five minute; you will see how it drops into that shaded area. So we are working from a higher time frame 15m chart into 5m chart. This is running into that fvg. Now if you are staying on one time frame or at least not carrying over higher time frame analysis, into lower time frame, you are gonna be trading blind; you have no what you are looking for. 
+
+=> If the market is bullish it is good opportunity to have midnight opening higher than 8:30 opening. And the market rallies high; before lunch it retraces and go down; and after lunch it rallies high again targeting previous days high.
+
+* T.G.I.F. Setup
+
+=> The T.G.I.F. setup in the context of ICT (Inner Circle Trader) trading stands for "Thank God It's Friday" setup.
+=> Focus on Friday: The setup targets a specific movement on Friday, often referred to as "Friday profit-taking" or a weekly retracement.
+=> Weekly Retracement: The core idea is that after a strong directional move throughout the week the price is expected to retrace a certain percentage back into the weekly trading range.
+=> Target Levels: The retracement is often expected to move back into the 20% to 30% level of the entire weekly range.
+=> Confluence with Market Structure: It's usually looked for after the market has reached a significant Higher Time Frame (HTF) objective, like a premium (overbought) or discount (oversold) level, and is often confirmed by concepts like a Judas Swing (a false move to trap traders) and a Market Structure Shift (MSS) on lower time frames.
+=> Timing: The setup is often anticipated during the New York afternoon session.
+
+* Time and Price
+=> Price is delivered by an algorithmism; there is no buying or selling pressure.
+=> Algorithmic theory is based on Time and Price.
+=> Price levels are useless until time is considered.
+=> Time is of no use unless price is at a key PD array.
+=> Blending the two yields astonishing results & precision. 

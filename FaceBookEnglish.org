@@ -14,6 +14,7 @@
 - [[#2292025][22/9/2025]]
   - [[#synonyms][Synonyms]]
   - [[#say-vs-dont-say][Say vs don't say]]
+- [[#2692025-good-to-good-for-good-at][26/9/2025 good to, good for, good at]]
 
 * 8/17/2025
 => Retreat (suba'e)
@@ -157,3 +158,8 @@
 | that's easy | that's a peace of cake |
 |-------------+------------------------|
 |             |                        |
+* 26/9/2025 good to, good for, good at
+
+=> Good to is for people, 'He is good to me.'
+=> Good for is for performance, 'Soap is good for washing ...'
+=> Good at is for skill, 'He is good at making tea.'
