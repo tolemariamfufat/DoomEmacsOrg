@@ -15,6 +15,7 @@
 - [[#narrative][Narrative]]
 - [[#tgif-setup][T.G.I.F. Setup]]
 - [[#time-and-price][Time and Price]]
+- [[#key-to-daily-bias][Key to Daily Bias]]
 
 * PD Array
 ** Bearish Pd Array Matrix
@@ -103,3 +104,9 @@
 => Price levels are useless until time is considered.
 => Time is of no use unless price is at a key PD array.
 => Blending the two yields astonishing results & precision. 
+
+* Key to Daily Bias
+=> Every day bias is unrealistic;
+=> Determine the likely weekly expansion;
+=> Look for obvious liquidity in that direction;
+=> Identify imbalances 
