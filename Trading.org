@@ -5,7 +5,7 @@
   - [[#buullish-pd-array-matrix][Buullish Pd Array Matrix]]
   - [[#intraweek-market-reversals][Intraweek Market Reversals]]
 - [[#internal-range-liquidity-and-market-structure-shift-2022-episode-3][Internal range liquidity and market structure shift (2022, episode 3)]]
-- [[#intraday-order-flow-and-understanding-the-daily-range-2022-episode-5-for-indicies][Intraday Order Flow and Understanding the Daily Range (2022, episode 5 for indicies)]]
+- [[#intraday-order-flow-and-understanding-the-daily-range-2022-episode-5-for-indices][Intraday Order Flow and Understanding the Daily Range (2022, episode 5 for indices)]]
 - [[#market-structure-long-term-highlow-intermediate-term-highlow-and-short-term-highlow][Market structure: Long term high/low, Intermediate term high/low and short term high/low]]
 - [[#institutional-order-flow][Institutional order flow]]
 - [[#setup][Setup]]
@@ -16,6 +16,7 @@
 - [[#tgif-setup][T.G.I.F. Setup]]
 - [[#time-and-price][Time and Price]]
 - [[#key-to-daily-bias][Key to Daily Bias]]
+- [[#algo][Algo]]
 
 * PD Array
 ** Bearish Pd Array Matrix
@@ -42,8 +43,8 @@
 => If the buystops of old lows are taken, market structure shift occurs;
 => If market structure occurs, order blocks of higher highs and higher lows or lower highs and loser lows will be violated;
 => Order blocks are change in a state of price delivery, hence they go in line with market structure shaft.
-* Intraday Order Flow and Understanding the Daily Range (2022, episode 5 for indicies)
-=> S&P 500 E-Mini (Sep,Dec,Marc, June), daily range = 8:30-12:00 Am and 13:00-16:30 pm, (Lunch time donor trade 12:00-13:00)
+* Intraday Order Flow and Understanding the Daily Range (2022, episode 5 for indices)
+=> S&P 500 E-Mini (Sep,Dec,Marc, June), daily range = 8:30-12:00 Am and 13:00-16:30 pm, (Lunch time do not trade 12:00-13:00)
 * Market structure: Long term high/low, Intermediate term high/low and short term high/low
 => Long term high/low is a framework it is at high time frame
 => Intermediate term high/low balances FVG of LTH/LTL
@@ -99,7 +100,7 @@
 => Timing: The setup is often anticipated during the New York afternoon session.
 
 * Time and Price
-=> Price is delivered by an algorithmism; there is no buying or selling pressure.
+=> Price is delivered by an algorthism; there is no buying or selling pressure.
 => Algorithmic theory is based on Time and Price.
 => Price levels are useless until time is considered.
 => Time is of no use unless price is at a key PD array.
@@ -110,3 +111,10 @@
 => Determine the likely weekly expansion;
 => Look for obvious liquidity in that direction;
 => Identify imbalances 
+=> Focus on the high or medium calendar event dates;
+=> Look for directional price runs in my kill zones intraday.
+=> You do not have trade every single day, there are days when you cannot trade. 
+
+
+* Algo
+=> The Algo will not allow price to drop under a FVG as it tracts the buy side liquidity which has been already taken. The price action movement is not determined by supply demand or support Resistance, it is determined by Algo. 
