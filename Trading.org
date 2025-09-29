@@ -8,9 +8,30 @@
 - [[#intraday-order-flow-and-understanding-the-daily-range-2022-episode-5-for-indices][Intraday Order Flow and Understanding the Daily Range (2022, episode 5 for indices)]]
 - [[#market-structure-long-term-highlow-intermediate-term-highlow-and-short-term-highlow][Market structure: Long term high/low, Intermediate term high/low and short term high/low]]
 - [[#institutional-order-flow][Institutional order flow]]
-- [[#setup][Setup]]
-  - [[#foundation-for-setup-2022-ict-mentorship-episode-24][Foundation for setup (2022 ICT Mentorship, Episode 24)]]
-- [[#identifying-the-counter-trend-context][Identifying the Counter-Trend Context]]
+  - [[#the-core-idea][The Core Idea]]
+  - [[#bearish-institutional-order-flow][Bearish Institutional Order Flow]]
+  -  [[#bullish-institutional-order-flow][Bullish Institutional Order Flow]]
+  -  [[#special-note-on-down-close-candles-in-bullish-moves][Special Note on Down-Close Candles in Bullish Moves]]
+  - [[#liquidity-exception][Liquidity Exception]]
+  - [[#trading-rule][Trading Rule]]
+  - [[#summary-in-plain-words][Summary in Plain Words]]
+- [[#ict-setup-model-2022-mentorship][ICT Setup Model (2022 Mentorship)]]
+  - [[#time--anchor-points][Time & Anchor Points]]
+  - [[#premium--discount-logic][Premium / Discount Logic]]
+  - [[#price-action-filtering][Price Action Filtering]]
+  - [[#execution-rule][Execution Rule]]
+  - [[#trade-management][Trade Management]]
+  - [[#core-principle-foundation][Core Principle (Foundation)]]
+  - [[#quick-bias-rule-episode-25][Quick Bias Rule (Episode 25)]]
+  - [[#summary-in-plain-words-1][Summary in Plain Words:]]
+- [[#ict-counter-trend-context-model][ICT Counter-Trend Context Model]]
+  - [[#big-picture-higher-timeframe-bias][Big Picture (Higher Timeframe Bias)]]
+  - [[#define-the-objective-draw-on-liquidity][Define the Objective (Draw on Liquidity)]]
+  -  [[#wait-for-discount-retracement-zone][Wait for Discount Retracement Zone]]
+  -  [[#execution-logic][Execution Logic]]
+  -  [[#patience-rule][Patience Rule]]
+  -  [[#time-of-day-context][Time of Day Context]]
+  - [[#summary][Summary]]
 - [[#when-to-buy][When to buy]]
 - [[#narrative][Narrative]]
 - [[#tgif-setup][T.G.I.F. Setup]]
@@ -88,34 +109,231 @@
         => The one which has Short term/low above to the right and left; this one shows the market so weak.
         => Short term high/lows are order blocks which are failed or resisted
 * Institutional order flow
-=> The idea is that when you see an imbalance get re balance, the high formed as it re balances the high shouldn't violated by price going higher than that if you are bearish or lower if you are bullish. If you blend this with an institutional order flow. What is an institutional order flow? When you are bearish all of your up closed candles should keep price from going upper than them. When you are bullish when price is moving higher, predominantly there is going to be more up closed candles; but down close candles should support price if it trades back down to them it's going to act as a support structure for an order block.
-=> Whenever we are bullish we are expecting a price swing higher generally there is not a lot of down close candles in that price swing higher but those down closed candles should support price should it trade back down into them and not see them overlapped in other words, going down blow it if it does it only permissible if there is a short term low in close proximity to it and it then like just go down and take out some sell stops if it is bullish and then re accumulate and go higher if there is no swing low, there would be no swing sell side below it so there is nothing to concern yourself with just look for down close candles to support price higher.
-=> If these set ups broken do not trade wait for more well formed setup.
 
-* Setup
-=> If you are bullish and the middle night open is (Easter or New York time zone) above the 8:30 am open, then it is in discount so it is good buying opportunity because it so cheap. This is algorithmic and it repeats but it may stop some days in some markets. You may find in fore but not in bonds or in indices. But there is a setup like this every single week. You can have a move below 8:30 and then it moves upward. That is normal.
+** The Core Idea
 
-=> If you are bearish and the midnight open candle is (eastern or New York time zone) below the 8:30 am open, then it is in premium so it is good selling opportunity because it so expensive. This is algorithmic and it repeats but it may stop some days in some markets. You may find in fore but not in bonds or in indices. But there is a setup like this every single week. You can have a move above 8:30 and then it moves down. That is normal.
+*** IOF = the direction institutions are delivering price.
 
-=> Use the setup Daily -> Hourly -> 15 Minutes -> 3 Minutes/2 Minutes/1 Minutes
-=> For entry check ICT 2022 episodes 19,20
-=> Divide the target price action into levels
-=> You sell in premium that is above equilibrium; you do not sell in discount; do not lose money.
-=> You buy in discount that is above equilibrium; you do not buy in premium, do not lose money.
-=> You must place sell or buy order on a FVG; and sell or buy stop above/below the previous candle.
-=> If you couldn't find FVG on Daily go to Hourly, if you couldn't find FVG on hourly go to 15M or 3 minute or 2 or 1 minute; you will get it. You should obey this rule if you do not want to lose your money.
-** Foundation for setup (2022 ICT Mentorship, Episode 24)
-=> You have a level of relative equal highs and price is moving towards it, and small corrections, and finally it runs through those relatively highs. As soon as it goes above it, you start planning back through  all this price running there. And you should find the nearest short term low because that right there is going to be your trigger. It is not that it goes above this old relative equal high and then goes down below that. It has to go below the short term low and displacement with energetic move take out short term low. That is how you filter out these trades that  not be high probability. Until it takes that short term low, there is nothing going on, no trade, no setup there at all. Then when there is displacement that  leg and price action that right there is your foundation to the setup. Once you have that then  you can go into that area and look for the FVG. That is the logic, that is the pattern that is what you are looking for. That is if the bias is bearish. Before it ran to those relative equal highs, you have to look for down there price was trading down into that area was showing you your interest today and you are watching the price action where it was likely to go down to the low little gap so you were expecting this type of movement. So These two scenarios must be fulfilled for the setup. If there is no movement down there would be no trade that moves to old highs.
+*** It’s read by watching how price reacts around imbalances and opposite-color candles.
 
-=> In reverse, you can trade long positions. The logic is the same.
-=> Bearish: If the market runs the old high first followed by old low run, that is bearish.
-=> Bullish: If the market runs the old low first followed by old high run, that is bullish (2022 ICT Mentorship, Episode 25)
-* Identifying the Counter-Trend Context
-=> The setup is framed as a retracement of a long-term bearish move. The core logic involves taking a bullish (buy) trade on a lower time frame when the higher time frame bias is bearish.
-=> A counter-trend trade requires a clear, higher-time frame objective, referred to as the Draw on Liquidity.
-=> The entry is timed on a lower time frame using specific ICT concepts after the market drops into a "discount" area: discount zone, FVG, market structure shift
-=> If the market runs impulsively high or low without giving you the opportunity of retracement to enter, do not trade, wait for the opportunity.
-=> Notice that during New York lunch time equal highs are often produced, market rallies above which to previous highs or lows.
+*** If price respects those “institutional footprints,” order flow is intact.
+
+*** If those structures break, the order flow is violated → don’t trade.
+
+** Bearish Institutional Order Flow
+
+*** In a bearish environment:
+
+**** Market leaves imbalances (FVGs) to the downside.
+
+**** When price retraces to rebalance those imbalances, the highs formed during that retrace should not be broken higher.
+
+**** All up-close candles in the swing act as resistance order blocks.
+
+**** If price trades above those up-close candles, IOF is broken → bias is invalid.
+
+**  Bullish Institutional Order Flow
+
+*** In a bullish environment:
+
+**** Market leaves imbalances (FVGs) to the upside.
+
+**** Price retraces into the imbalance and should respect the down-close candles (bullish OBs).
+
+**** These down-close candles act as support structures.
+
+**** If price cuts below these candles, it invalidates the order flow unless there’s a nearby swing low that must be cleared first (a sell-side liquidity raid).
+
+**  Special Note on Down-Close Candles in Bullish Moves
+
+*** In bullish swings, most candles will close up.
+
+*** The few down-close candles become very important.
+
+*** They should act as support when price retraces.
+
+*** If they are overlapped and broken, the bullish IOF is no longer clean.
+
+** Liquidity Exception
+
+*** If a down-close candle is violated only because price is taking a nearby swing low (sell-side liquidity), that’s still consistent with bullish IOF.
+
+*** After the liquidity grab, price can re-accumulate and continue higher.
+
+** Trading Rule
+
+*** Respect IOF structure.
+
+*** If the opposite-color candles (order blocks) are violated improperly, do not trade.
+
+*** Wait for a new, well-formed setup aligned with clean IOF.
+
+** Summary in Plain Words
+
+*** Bearish IOF → up-close candles = resistance. Their highs shouldn’t be broken.
+
+*** Bullish IOF → down-close candles = support. Their lows shouldn’t be broken.
+
+*** If they are broken without a liquidity reason, IOF is invalid → sit out.
+
+* ICT Setup Model (2022 Mentorship)
+** Time & Anchor Points
+
+*** Midnight Open (00:00 EST/NY time) → reference anchor.
+
+*** 8:30 AM Open (EST/NY time) → reference anchor.
+
+*** Compare these two opens:
+
+**** Bullish bias: Midnight open above 8:30 open → market is in discount → good for buys.
+
+**** Bearish bias: Midnight open below 8:30 open → market is in premium → good for sells.
+
+**** Note: This setup repeats weekly in Forex (less in bonds/indices).
+
+** Premium / Discount Logic
+
+*** Sell only in premium (above equilibrium).
+
+*** Buy only in discount (below equilibrium).
+
+*** Never flip the rule → that’s how you avoid unnecessary losses.
+
+** Price Action Filtering
+
+*** You need a liquidity run first:
+
+**** Bearish case:
+
+***** Price runs above relative equal highs (old high).
+
+***** Then displaces lower and breaks a short-term low.
+
+***** That’s your confirmation.
+
+**** Bullish case:
+
+***** Price runs below relative equal lows (old low).
+
+***** Then displaces higher and breaks a short-term high.
+
+***** That’s your confirmation.
+
+***** No displacement through a short-term high/low = no valid setup.
+
+** Execution Rule
+
+**** Entry must be on a Fair Value Gap (FVG) in the displacement leg.
+
+***** Stop placement:
+
+***** Daily → Hourly → 15M → 3M → 2M → 1M.
+
+***** There will always be an FVG at some fractal level.
+
+** Trade Management
+
+*** Target: levels of liquidity (equal highs, equal lows, or imbalance fills).
+
+*** Divide the move into levels (partials can be taken at each).
+
+*** Follow strict model → if setup breaks (order flow invalid), do not trade.
+
+** Core Principle (Foundation)
+
+**** A setup requires two conditions:
+
+**** Liquidity run (above highs or below lows).
+
+**** Displacement + break of short-term structure.
+
+**** Once both occur, you zoom in, find the FVG, and trade.
+
+** Quick Bias Rule (Episode 25)
+
+*** Bearish = Old high taken → then old low taken.
+
+*** Bullish = Old low taken → then old high taken.
+
+** Summary in Plain Words:
+*** Use the midnight and 8:30 opens to determine premium/discount. Look for liquidity raids (old highs/lows). Require displacement + short-term break to confirm bias. Enter at the FVG. Always buy in discount, sell in premium.
+
+* ICT Counter-Trend Context Model
+
+** Big Picture (Higher Timeframe Bias)
+
+*** Start with the higher timeframe (Daily or 4H).
+
+*** Confirm the market is in a long-term bearish move (downtrend).
+
+*** A counter-trend setup = looking for short-term bullish retracement trades inside that bearish trend.
+
+** Define the Objective (Draw on Liquidity)
+
+*** A counter-trend trade must aim for a clear liquidity pool above current price.
+
+**** Examples:
+
+***** Relative equal highs.
+
+***** A clean swing high.
+
+***** A daily imbalance or order block.
+
+***** If there is no higher-timeframe liquidity target, do not take a counter-trend trade.
+
+**  Wait for Discount Retracement Zone
+
+*** Drop into lower timeframes (1H, 15M).
+
+*** Watch for price to retrace into a discount area of the short-term range.
+
+*** In that discount zone, look for:
+
+*** Fair Value Gap (FVG).
+
+*** Market Structure Shift (MSS) → break of short-term high.
+
+*** Down-close order block acting as support.
+
+**  Execution Logic
+
+*** Entry: in the FVG or OB inside the discount zone.
+
+*** Stop loss: below the short-term low.
+
+*** Target: the higher-timeframe liquidity (your Draw on Liquidity).
+
+**  Patience Rule
+
+*** If price runs impulsively to the objective (liquidity) without retracing into your discount entry zone →
+*** ❌ No trade.
+
+*** Only enter when ICT rules align.
+
+**  Time of Day Context
+
+*** New York Lunch (11:30 AM – 1:30 PM NY time):
+
+*** Market often prints equal highs during this slow period.
+
+*** In counter-trend context, price may later rally through those equal highs as it seeks the higher-timeframe liquidity.
+
+** Summary
+
+*** Counter-trend = trading retracements against the big bias.
+
+*** Must have:
+
+**** Higher-timeframe bearish context.
+
+**** A clear liquidity target (draw on liquidity).
+
+**** Discount zone + FVG + MSS on lower timeframe for entry.
+
+**** Discipline to wait if no retracement forms.
+
+**** Awareness of NY Lunch equal highs as staging areas for liquidity runs.
 * When to buy
 => ICT advises "buy on Wednesday on New York session".
 => Pay attention to Accumulation, Manipulation (creating low/high of the day), distribution (expansion); that is power of AMD!
