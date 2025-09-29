@@ -17,6 +17,17 @@
 - [[#time-and-price][Time and Price]]
 - [[#key-to-daily-bias][Key to Daily Bias]]
 - [[#algo][Algo]]
+- [[#london-session][London session]]
+- [[#london-session-1][London session]]
+- [[#london-session-2][London session]]
+- [[#london-session-3][London session]]
+- [[#london-session-4][London session]]
+- [[#london-session-5][London session]]
+- [[#london-session-6][London session]]
+- [[#london-session-7][London session]]
+- [[#ict-price--time-grid-cheat-sheet][ICT Price & Time Grid Cheat Sheet]]
+  - [[#price-action-grid-where-liquidity-sits][Price Action Grid (Where Liquidity Sits)]]
+  -  [[#time-grid-when-liquidity-gets-taken][Time Grid (When Liquidity Gets Taken)]]
 
 * PD Array
 ** Bearish Pd Array Matrix
@@ -100,7 +111,7 @@
 => Timing: The setup is often anticipated during the New York afternoon session.
 
 * Time and Price
-=> Price is delivered by an algorthism; there is no buying or selling pressure.
+=> Price is delivered by an algorism; there is no buying or selling pressure.
 => Algorithmic theory is based on Time and Price.
 => Price levels are useless until time is considered.
 => Time is of no use unless price is at a key PD array.
@@ -118,3 +129,120 @@
 
 * Algo
 => The Algo will not allow price to drop under a FVG as it tracts the buy side liquidity which has been already taken. The price action movement is not determined by supply demand or support Resistance, it is determined by Algo. 
+
+* London session
+=> The EUR & GBP pairs are ideal for this time of a day.
+=> The London Open frequently setup an Optimal Trade Entry pattern that can offer a 25-50 pip scalp.
+=> The Key Times to monitor are 2:00 am to 5:00 am New York time. This is the ideal ICT London Kill zone.
+=> In London Open either price action drop down initially and then rallies up and it creates very high of the day. The day's low form down and it comes of a low and closes off the low (in London-New York overlap). The next trading day again in New York midnight (0:00), the price again rallies for the euro dollar up and creates the high and trades down to low the day later on and  goes consolidation and closes in the middle of the range.
+* London session
+=> The EUR & GBP pairs are ideal for this time of a day.
+=> The London Open frequently setup an Optimal Trade Entry pattern that can offer a 25-50 pip scalp.
+=> The Key Times to monitor are 2:00 am to 5:00 am New York time. This is the ideal ICT London Kill zone.
+=> In London Open either price action drop down initially and then rallies up and it creates very high of the day. The day's low form down and it comes of a low and closes off the low (in Londo-New York overlap).n The next trading day again in New York midnight (0:00), the price again rallies for the euro dollar up and creates the the high and trades down to low  the day later on and goes consolidation and closes in the middle of the ran
+* London session
+=> The EUR & GBP pairs are ideal for this time of a day.
+=> The London Open frequently setup an Optimal Trade Entry pattern that can offer a 25-50 pip scalp.
+=> The Key Times to monitor are 2:00 am to 5:00 am New York time. This is the ideal ICT London Kill zone.
+=> In London Open either price action drop down initially and then rallies up and it creates very high of the day. The day's low form down and it comes of a low and closes off the low (in Londo-New York overlap).n The next trading day again in New York midnight (0:00), the price again rallies for the euro dollar up and creates the the high and trades down to low  the day later on and goes consolidation and closes in the middle of the ran
+* London session
+=> The EUR & GBP pairs are ideal for this time of a day.
+=> The London Open frequently setup an Optimal Trade Entry pattern that can offer a 25-50 pip scalp.
+=> The Key Times to monitor are 2:00 am to 5:00 am New York time. This is the ideal ICT London Kill zone.
+=> In London Open either price action drop down initially and then rallies up and it creates very high of the day. The day's low form down and it comes of a low and closes off the low (in Londo-New York overlap).n The next trading day again in New York midnight (0:00), the price again rallies for the euro dollar up and creates the the high and trades down to low  the day later on and goes consolidation and closes in the middle of the ran
+* London session
+=> The EUR & GBP pairs are ideal for this time of a day.
+=> The London Open frequently setup an Optimal Trade Entry pattern that can offer a 25-50 pip scalp.
+=> The Key Times to monitor are 2:00 am to 5:00 am New York time. This is the ideal ICT London Kill zone.
+=> In London Open either price action drop down initially and then rallies up and it creates very high of the day. The day's low form down and it comes of a low and closes off the low (in Londo-New York overlap).n The next trading day again in New York midnight (0:00), the price again rallies for the euro dollar up and creates the the high and trades down to low  the day later on and goes consolidation and closes in the middle of the ran
+* London session
+=> The EUR & GBP pairs are ideal for this time of a day.
+=> The London Open frequently setup an Optimal Trade Entry pattern that can offer a 25-50 pip scalp.
+=> The Key Times to monitor are 2:00 am to 5:00 am New York time. This is the ideal ICT London Kill zone.
+=> In London Open either price action drop down initially and then rallies up and it creates very high of the day. The day's low form down and it comes of a low and closes off the low (in Londo-New York overlap).n The next trading day again in New York midnight (0:00), the price again rallies for the euro dollar up and creates the the high and trades down to low  the day later on and goes consolidation and closes in the middle of the ran
+* London session
+=> The EUR & GBP pairs are ideal for this time of a day.
+=> The London Open frequently setup an Optimal Trade Entry pattern that can offer a 25-50 pip scalp.
+=> The Key Times to monitor are 2:00 am to 5:00 am New York time. This is the ideal ICT London Kill zone.
+=> In London Open either price action drop down initially and then rallies up and it creates very high of the day. The day's low form down and it comes of a low and closes off the low (in Londo-New York overlap).n The next trading day again in New York midnight (0:00), the price again rallies for the euro dollar up and creates the the high and trades down to low  the day later on and goes consolidation and closes in the middle of the ran
+* London session
+=> The EUR & GBP pairs are ideal for this time of a day.
+=> The London Open frequently setup an Optimal Trade Entry pattern that can offer a 25-50 pip scalp.
+=> The Key Times to monitor are 2:00 am to 5:00 am New York time. This is the ideal ICT London Kill zone.
+=> In London Open either price action drop down initially and then rallies up and it creates very high of the day. The day's low form down and it comes of a low and closes off the low (in Londo-New York overlap).n The next trading day again in New York midnight (0:00), the price again rallies for the euro dollar up and creates the the high and trades down to low  the day later on and goes consolidation and closes in the middle of the range. The key take away is that London Open generally has the highest probability of creating the high or the low of the day. This is the biggest discovery because it helps you to determine where you are bearish the actual height of the day is going to form and if you can do that with a reasonable measure of accuracy or consistency just imagine if you could get three to four opportunities where you can get the high today and ride the majority of the daily range. If you could this for a few times a month you could do exceptionally well as an FX trader now. The same phenomenon occurs in other assets like crypto, commodities, index and bonds.
+=> When the market bullish the tendency is for the market to trade down creating the low of the day in the London and open ICT kill zone. Again here market trades down after midnight (0:00) New York time creates the low of the day between 2:00 and 5:00 am New York. In this case you could have taken a long from the start and place buy stops below wicks of the low. I want you to look at the relationship between one London open low and the immediate after London open low; between the two you can find the highest high of the day. That is your trading range.
+=> If London session typically creates the Low of the day when market is primarily Bullish and the High of the day when Bearish.
+=> When the market is poised to trade Higher on the Daily timeframe-we can focus on the London Session to post the Low of the Trading Day. If the Daily is poised to trade Lower-we can focus on the London Session to post the High of the Trading Day. 
+
+* ICT Price & Time Grid Cheat Sheet
+** Price Action Grid (Where Liquidity Sits)
+
+*** Old Highs → Buy stops above (liquidity).
+
+*** Old Lows → Sell stops below (liquidity).
+
+*** Liquidity Run → First raid is fake-out, second raid shows true direction.
+
+*** Displacement → Strong break of structure confirms bias.
+
+*** Order Blocks (OBs) → Last opposing candle before displacement (entry zones).
+
+*** Fair Value Gaps (FVGs) → Imbalances where price often returns for entries.
+
+➡ Sequence: Liquidity → Sweep → Displacement → OB / FVG → Expansion.
+
+**  Time Grid (When Liquidity Gets Taken)
+
+*** Daily Cycle
+
+****  Asian Range (00:00–05:00 GMT)
+Market consolidates, builds liquidity.
+
+****  London Killzone (07:00–10:00 GMT / 02:00–05:00 EST)
+Stop hunts: often takes Asia’s high/low.
+
+****  New York AM (12:00–15:00 GMT / 07:00–10:00 EST)
+Main move of the day, displacement + setups.
+
+****  New York PM (17:00–19:00 GMT / 12:00–14:00 EST)
+Reversal or continuation into close.
+
+*** Weekly Cycle
+
+**** Mon–Tue → Weekly high or low often forms.
+
+**** Wed–Thu → Expansion in real direction.
+
+**** Fri → Profit taking, reversals, consolidation.
+
+***  How to Combine Them
+
+**** Step 1: Mark old highs & lows (yesterday’s, weekly, Asia session).
+
+**** Step 2: Wait for liquidity run during killzones (London & NY).
+
+**** Step 3: Identify which liquidity gets swept first (old high or old low).
+
+**** Step 4: Confirm with displacement in opposite direction.
+
+**** Step 5: Enter on retrace to OB or FVG in killzone.
+
+***  Examples
+
+**** Bearish Day Example
+
+**** Asia consolidates.
+
+**** London takes Asia’s high (buy stops).
+
+**** NY AM breaks down through Asia/London low with displacement.
+
+**** Retrace to OB/FVG → Short.
+
+**** Bullish Week Example
+
+**** Monday sweeps previous week’s low.
+
+**** Wednesday breaks up with displacement.
+
+**** Retrace to OB/FVG → Long into Thursday.
