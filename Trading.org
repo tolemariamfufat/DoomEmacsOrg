@@ -28,6 +28,17 @@
 - [[#ict-price--time-grid-cheat-sheet][ICT Price & Time Grid Cheat Sheet]]
   - [[#price-action-grid-where-liquidity-sits][Price Action Grid (Where Liquidity Sits)]]
   -  [[#time-grid-when-liquidity-gets-taken][Time Grid (When Liquidity Gets Taken)]]
+- [[#criterion-to-determine-bias][Criterion to determine bias]]
+  -  [[#pick-your-timeframes][Pick your timeframes]]
+  -  [[#define-the-current-structure-swing-high--swing-low][Define the current structure (swing high / swing low)]]
+  -  [[#measure-candle-color-dominance-quick-bias-heuristic][Measure candle-color dominance (quick bias heuristic)]]
+  -  [[#identify-the-opposite-color-candles-the-order-blocks][Identify the opposite-color candles (the order blocks)]]
+  -  [[#mark-nearby-fair-value-gaps-fvgs--liquidity][Mark nearby Fair Value Gaps (FVGs) & liquidity]]
+  -  [[#the-validation-test--what-shouldnt-be-violated-means][The validation test — what “shouldn’t be violated” means]]
+  -  [[#how-to-watch-for-acceptable-exceptions-liquidity-grabs][How to watch for acceptable exceptions (liquidity grabs)]]
+  - [[#entries-stops-and-confirmation-rules][Entries, stops, and confirmation rules]]
+  - [[#invalidation--what-to-do-when-obs-fail][Invalidation & what to do when OBs fail]]
+  - [[#quick-practical-checklist-use-this-every-trade][Quick practical checklist (use this every trade)]]
 
 * PD Array
 ** Bearish Pd Array Matrix
@@ -246,3 +257,122 @@ Reversal or continuation into close.
 **** Wednesday breaks up with displacement.
 
 **** Retrace to OB/FVG → Long into Thursday.
+
+
+* Criterion to determine bias
+=> Nice — below is a practical, step-by-step workflow you can run on any chart to determine bias using the ICT idea that opposite-color candles become support/resistance (i.e. order blocks). Follow this exactly on your chart and you’ll get consistent, repeatable reads.
+
+**  Pick your timeframes
+
+*** Higher timeframe (HTF) = trend anchor (4H / Daily).
+
+*** Lower timeframe (LTF) = entries and order-block validation (1H / 15m).
+*** Always require HTF and LTF alignment: if HTF is bullish, prefer bullish setups on LTF.
+
+**  Define the current structure (swing high / swing low)
+
+*** Mark the most recent swing high and most recent swing low on the HTF.
+
+*** Ask: did structure break to new highs (higher highs / higher lows) or new lows (lower lows / lower highs)? That tells you the initial directional tilt.
+
+**  Measure candle-color dominance (quick bias heuristic)
+
+*** On the swing (from swing low → swing high or vice versa), count the closes of the candles:
+
+*** If majority are up-close candles (close > open) → bullish tilt.
+
+*** If majority are down-close candles (close < open) → bearish tilt.
+
+*** Give extra weight if those same-direction candles have bigger bodies and break structure (displacement).
+
+*** Rule of thumb: majority over the last 8–12 candles in the swing; if 60%+ same color and structure is in that direction, bias leans that way.
+
+**  Identify the opposite-color candles (the order blocks)
+
+*** In a bullish swing: find the last down-close candle(s) immediately before the strong bullish displacement. That is a bullish Order Block (OB) — mark the full range (high → low) of that candle (or cluster if multiple).
+
+*** In a bearish swing: find the last up-close candle(s) immediately before the strong bearish displacement. That is a bearish OB — mark its full range.
+
+*** Prefer clean single-candle OBs (no overlap by later candles). If there is a cluster of 2–3 opposite candles before the run, you can mark the cluster as the zone.
+
+**  Mark nearby Fair Value Gaps (FVGs) & liquidity
+
+*** Draw any FVGs left by the displacement — these are additional magnet zones.
+
+*** Mark obvious liquidity above old highs and below old lows (these explain temporary violations).
+
+**  The validation test — what “shouldn’t be violated” means
+
+*** Bullish scenario: price retraces into the down-close OB/FVG. The low created as it rebalances (the retracement low inside the OB/FVG) should not be closed below by price if bias remains bullish. If price closes below that low with meaningful displacement, the bullish bias is suspect/invalid.
+
+*** Bearish scenario: price retraces into the up-close OB/FVG. The high formed in that rebalance should not be closed above by price if bias remains bearish. A clean close above that high invalidates the bearish bias.
+
+*** In short: the retracement high (for bearish reads) or retracement low (for bullish reads) is the “line in the sand.”
+
+**  How to watch for acceptable exceptions (liquidity grabs)
+
+*** A temporary violation of the OB is allowed if:
+
+*** It’s a quick wick / spike that reaches a nearby swing high/low to grab stops, and
+
+*** Price reclaims the OB quickly (e.g., within a few candles and without a strong follow-through that breaks structure).
+
+*** If the violation is followed by continued closes beyond the OB and structure breaks, treat it as bias invalidation.
+
+** Entries, stops, and confirmation rules
+
+*** Entry (bullish): wait for price to retrace into the bullish OB/FVG and show a bullish rejection candle (e.g., bullish engulf, strong close back above OB, or long lower wick + bullish close). Place entry on the close above the confirmation candle or on a break of its high.
+
+*** Stop: below the OB low (or below nearby swing low for extra safety).
+
+*** Take profit: target next structure level / liquidity pool / measured move. Aim for sensible R:R (≥1.5–2:1).
+
+*** Mirror these for bearish trades (entry on bearish confirmation, stop above OB high).
+
+** Invalidation & what to do when OBs fail
+
+*** If a marked OB is overlapped / closed through by price (a full candle close beyond the OB) → immediately reassess:
+
+*** Do not add to the trade; consider bias neutral until a new clean OB + displacement forms.
+
+*** If multiple OBs fail on the same side, flip bias or wait for HTF confirmation.
+
+** Quick practical checklist (use this every trade)
+
+*** HTF trend: Bull / Bear / Neutral?
+
+*** Structure: Higher highs / Lower lows?
+
+*** Candle-color dominance in the swing (majority up/down closes)?
+
+*** Mark opposite-color OB(s) + FVGs.
+
+*** Is price retracing into OB during a killzone or session of interest? (optional)
+
+*** Look for confirmation candle inside/after OB.
+
+*** Entry, stop, TP set.
+
+*** If OB is violated by full close → stop/stand aside.
+
+*** Example (concrete)
+
+*** HTF 4H shows higher highs → HTF bullish.
+
+*** On 1H swing from 1.0900 → 1.1050: 9 of 12 candles closed bullish → bullish dominance.
+
+*** Identify the last down-close candle before the big push 1.0980–1.0990 → mark that as bullish OB (range 1.0985–1.0975).
+
+*** Price retraces to 1.0980 (inside OB) and produces a long lower wick candle that closes bullish → enter long on close above that wick’s high; stop = 1.0970 (below OB).
+
+*** If price had closed decisively below 1.0975 (OB low) → invalidate bullish bias and stand aside.
+
+*** Do’s & Don’ts (fast)
+
+*** Do require a full candle close to confirm OB invalidation — don’t react to wicks only.
+
+*** Do use HTF alignment — LTF signals are stronger when HTF agrees.
+
+*** Don’t assume a single opposite candle is always enough — context matters (swing length, nearby liquidity).
+
+*** Don’t trade broken setups; waiting for a clean OB + confirmation reduces drawdowns.
