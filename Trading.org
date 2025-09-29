@@ -39,6 +39,10 @@
   - [[#entries-stops-and-confirmation-rules][Entries, stops, and confirmation rules]]
   - [[#invalidation--what-to-do-when-obs-fail][Invalidation & what to do when OBs fail]]
   - [[#quick-practical-checklist-use-this-every-trade][Quick practical checklist (use this every trade)]]
+- [[#trading-fvg][Trading FVG]]
+  - [[#bearish-fvg-setup][Bearish FVG Setup]]
+  - [[#bullish-fvg-setup][Bullish FVG Setup]]
+  - [[#rule-of-thumb-from-ict][Rule of thumb from ICT:]]
 
 * PD Array
 ** Bearish Pd Array Matrix
@@ -376,3 +380,65 @@ Reversal or continuation into close.
 *** Don’t assume a single opposite candle is always enough — context matters (swing length, nearby liquidity).
 
 *** Don’t trade broken setups; waiting for a clean OB + confirmation reduces drawdowns.
+* Trading FVG
+** Bearish FVG Setup
+
+*** Imagine you have 3 candles in a bearish move:
+
+*** Candle 1 → large down close.
+
+*** Candle 2 → continuation down.
+
+*** Candle 3 → follows through.
+
+*** The FVG is between:
+
+**** High of Candle 3 and
+
+**** Low of Candle 1.
+
+**** Entry (short) → when price retraces back into the FVG.
+
+**** Stop loss placement (ICT rule):
+
+**** Conservatively → above the open of Candle 2.
+
+**** More aggressive → above the open of Candle 1.
+
+**** Reason: If price trades above those levels, the imbalance is “invalidated” (market may not be bearish anymore).
+
+** Bullish FVG Setup
+
+*** In a bullish move:
+
+*** Candle 1 → large up close.
+
+*** Candle 2 → continuation up.
+
+*** Candle 3 → follows through.
+
+*** The FVG is between:
+
+**** Low of Candle 3 and
+
+**** High of Candle 1.
+
+**** Entry (long) → ICT often teaches to place entry at the close of Candle 1 (the origin of the move); buy on discount and sell on premium.
+
+**** Stop loss placement → below the low of Candle 2 (sometimes Candle 1 depending on risk tolerance).
+
+**** Reason: If the market is truly bullish, price should respect the origin of the move (Candle 1 close) and not break significantly below it.
+
+*** Intuition (why this works)
+
+**** FVGs are footprints of institutional buying/selling.
+
+**** When price comes back to “rebalance,” you are basically entering with the institutions.
+
+**** Stops are placed just beyond the point where the imbalance would no longer make sense.
+
+** Rule of thumb from ICT:
+
+*** Bearish → sell from FVG retrace, stop above the Candle 2 open (sell on premium)
+
+*** Bullish → buy from FVG retrace, entry at Candle 1 close, stop below Candle 2 low (buy on discount)
