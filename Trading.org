@@ -43,6 +43,15 @@
   - [[#bearish-fvg-setup][Bearish FVG Setup]]
   - [[#bullish-fvg-setup][Bullish FVG Setup]]
   - [[#rule-of-thumb-from-ict][Rule of thumb from ICT:]]
+- [[#build-bias-ict-london-session-judas-swing-model-bearish-bias][Build Bias: ICT London Session Judas Swing Model (Bearish Bias)]]
+  - [[#define-the-previous-days-range][Define the Previous Day’s Range]]
+  - [[#mark-the-opening-price-anchor-point][Mark the Opening Price (Anchor Point)]]
+  - [[#establish-context][Establish Context]]
+  - [[#identify-liquidity-targets-in-yesterdays-range][Identify Liquidity Targets in Yesterday’s Range]]
+  -  [[#anticipate-the-judas-swing-false-move][Anticipate the Judas Swing (False Move)]]
+  - [[#trade-application][Trade Application]]
+  - [[#the-key-principle][The Key Principle]]
+  - [[#formula-in-plain-words][Formula in plain words:]]
 
 * PD Array
 ** Bearish Pd Array Matrix
@@ -442,3 +451,73 @@ Reversal or continuation into close.
 *** Bearish → sell from FVG retrace, stop above the Candle 2 open (sell on premium)
 
 *** Bullish → buy from FVG retrace, entry at Candle 1 close, stop below Candle 2 low (buy on discount)
+
+* Build Bias: ICT London Session Judas Swing Model (Bearish Bias)
+** Define the Previous Day’s Range
+
+*** Draw a rectangle covering the high and low of the previous day.
+
+**** Example:
+
+**** High = 100
+
+**** Low = 20
+
+**** Range = 80 points/pips
+
+** Mark the Opening Price (Anchor Point)
+
+*** At 2:00 AM New York time (London open), mark the opening price.
+
+*** That first 1-minute candle open is a key reference.
+
+** Establish Context
+
+*** If today’s opening price is below the previous day’s low (20 in the example) → bias is bearish.
+
+*** This signals potential continuation lower, but ICT teaches: London usually runs liquidity first.
+
+** Identify Liquidity Targets in Yesterday’s Range
+
+*** Look inside yesterday’s range (20–100).
+
+*** Find:
+
+**** Equal highs
+
+**** Or a single obvious high, especially if it’s in the lower 1/3 or 1/4 of the range.
+
+**** These are pools of buy stops that institutions may target.
+
+**  Anticipate the Judas Swing (False Move)
+
+*** Around London open, expect price to:
+
+*** Run above those equal/single highs (grab liquidity).
+
+*** Then quickly reverse back down into bearish order flow.
+
+*** Do not react impulsively to this spike. Expect it, let it happen.
+
+** Trade Application
+
+*** Aggressive scalpers: may buy the run up into the liquidity (but must be nimble — exit fast).
+
+*** Higher-probability ICT model:
+
+**** Wait for the Judas swing to finish.
+
+**** Look for confirmation to short once price rejects above those highs.
+
+**** Entry comes on retrace (OB/FVG), stop above Judas swing high, targeting liquidity lower.
+
+** The Key Principle
+
+*** London creates false breakouts.
+
+*** They’re not “real breakouts” but engineered liquidity grabs.
+
+*** Your job: wait for the trap → trade the reversal in line with bias.
+
+** Formula in plain words:
+*** If the day opens below yesterday’s low and you are bearish, then inside yesterday’s range look for highs (equal or single) in the lower portion. Around 2:00 AM NY time, anticipate price will run up into those highs (the Judas swing) and then reverse down.
