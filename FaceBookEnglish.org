@@ -74,12 +74,8 @@
   - [[#good-for-is-for-performance-soap-is-good-for-washing-][Good for is for performance, 'Soap is good for washing ...']]
   - [[#good-at-is-for-skill-he-is-good-at-making-tea][Good at is for skill, 'He is good at making tea.']]
 - [[#3092025][30/9/2025]]
-  - [[#will-you-be-long-tekoyaleh][Will you be long? (tekoyaleh)]]
-  - [[#i-wont-be-long][I won't be long.]]
-  - [[#how-long-you-gonna-be][How long you gonna be.]]
-  - [[#i-will-be-45-minutes][I will be 45 minutes.]]
-  - [[#do-not-be-long][Do not be long.]]
-  - [[#it-wont-be-long-i-start-forex-trading][It won't be long i start forex trading.]]
+  - [[#be-long][Be long]]
+  - [[#ahead-of-time][Ahead of time]]
 
 * 8/17/2025
 ** Retreat (suba'e)
@@ -230,9 +226,14 @@
 ** Good at is for skill, 'He is good at making tea.'
 
 * 30/9/2025
-** Will you be long? (tekoyaleh)
-** I won't be long.
-** How long you gonna be.
-** I will be 45 minutes.
-** Do not be long.
-** It won't be long i start forex trading. 
+** Be long
+*** Will you be long? (tekoyaleh)
+*** I won't be long.
+*** How long you gonna be.
+*** I will be 45 minutes.
+*** Do not be long.
+*** It won't be long i start forex trading.
+** Ahead of time
+*** Call me ahead of time
+*** I will tell you ahead of time
+
