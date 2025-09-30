@@ -114,6 +114,9 @@
   - [[#wick-context-premium-vs-discount-this-grading-system-is-particularly-relevant-when-the-wick-is-analyzed-within-the-context-of-the-larger-price-range][Wick Context: Premium vs. Discount: This grading system is particularly relevant when the wick is analyzed within the context of the larger price range:]]
   - [[#discount-wick-lower-wick-a-long-lower-wick-formed-when-the-price-is-in-a-discount-zone-typically-the-lower-50-of-a-swing-move-the-wick-represents-a-push-lower-to-grab-sell-side-liquidity-before-a-move-higher-you-grade-the-lower-wicks-range-to-find-potential-entry-or-stop-loss-refinement-points-for-a-long-trade][Discount Wick (Lower Wick): A long lower wick formed when the price is in a Discount Zone (typically the lower 50% of a swing move). The wick represents a push lower to grab Sell-Side Liquidity before a move higher. You grade the lower wick's range to find potential entry or stop-loss refinement points for a long trade.]]
   - [[#the-role-of-htf-wicks-in-ltf-trading][The Role of HTF Wicks in LTF Trading]]
+- [[#london-and-new-york-continuation-and-reversals][London and New York Continuation and Reversals]]
+  - [[#new-york-continuation-most-common][New York Continuation (Most Common)]]
+  - [[#new-york-reversal-less-common][New York Reversal (Less Common)]]
 
 * PD Array
 ** Bearish Pd Array Matrix
@@ -986,3 +989,28 @@ Reversal or continuation into close.
 ****** The Trade: When the price on the 1-Minute chart trades back down into the area around the Daily wick's C.E., you look for a tiny Market Structure Shift (e.g., a break of the most recent high on the 1-Minute chart) to confirm institutional buying is resuming. You enter the long trade with a tight stop-loss below the C.E. or the wick's low.
 
 ****** In short, the Daily wick gives you the conviction and the key levels, while the 1-Minute chart gives you the precision entry and risk management.
+
+* London and New York Continuation and Reversals
+** New York Continuation (Most Common)
+*** This is the most frequent scenario where the New York Open confirms and continues the direction established by London.
+
+*** London's Action (Your understanding): Price goes up to sweep liquidity/stop losses (the "Judas Swing") above the Asian session high, then distributes down for the main move.
+
+*** New York's Action (Continuation): Price will often retrace back up during the New York Open (specifically the New York Kill Zone, roughly 7:00 AM – 9:00 AM ET) to a key institutional level like a Fair Value Gap (FVG), an Order Block, or the Optimal Trade Entry (OTE) of the London move.
+
+*** The Move: Once the retracement hits this point (the manipulation of the New York session), it then continues the distribution from the London session and drops lower to target the day's main objective (e.g., sell-side liquidity).
+
+*** Pattern: Up (Retracement/Manipulation) → Down (Continuation).
+
+** New York Reversal (Less Common)
+*** This happens when the New York Open reverses the main directional move of the London session. This often occurs when the London move itself was the manipulation.
+
+*** London's Action: Price goes up to sweep liquidity (manipulation) then begins to distribute down, but this downward move fails to achieve a major objective and runs into a Higher Timeframe (HTF) level (like a Daily/Weekly Order Block or FVG) right before New York opens.
+
+*** New York's Action (Reversal): The New York Open will often make a final push down to clear liquidity below the London Low or run into that HTF level (the manipulation of the New York session).
+
+*** The Move: After clearing that final low, price immediately reverses and rallies strongly up, effectively reversing the entire London move and closing the high-to-low range of the day.
+
+*** Pattern: Down (Final Liquidity Sweep/Manipulation) → Up (Reversal).
+
+*** In summary, the New York Open always involves a manipulative move (a liquidity grab or a deep retracement into an imbalance) before the final, larger distribution move for the session. The HTF bias and the overall Daily Profile are what determine whether that final move is a continuation or a reversal.
