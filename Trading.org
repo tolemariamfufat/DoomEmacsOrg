@@ -3,18 +3,12 @@
 - [[#pd-array][PD Array]]
   - [[#bearish-pd-array-matrix][Bearish Pd Array Matrix]]
   - [[#buullish-pd-array-matrix][Buullish Pd Array Matrix]]
+- [[#ict-market-structure-and-intraweek-reversals][ICT Market Structure and Intraweek Reversals]]
   - [[#intraweek-market-reversals][Intraweek Market Reversals]]
-- [[#internal-range-liquidity-and-market-structure-shift-2022-episode-3][Internal range liquidity and market structure shift (2022, episode 3)]]
-  - [[#if-the-buystops-of-old-highs-are-taken-market-structure-shift-occurs][If the buystops of old highs are taken, market structure shift occurs;]]
-  - [[#if-the-buystops-of-old-lows-are-taken-market-structure-shift-occurs][If the buystops of old lows are taken, market structure shift occurs;]]
-  - [[#if-market-structure-occurs-order-blocks-of-higher-highs-and-higher-lows-or-lower-highs-and-loser-lows-will-be-violated][If market structure occurs, order blocks of higher highs and higher lows or lower highs and loser lows will be violated;]]
-  - [[#order-blocks-are-change-in-a-state-of-price-delivery-hence-they-go-in-line-with-market-structure-shaft][Order blocks are change in a state of price delivery, hence they go in line with market structure shaft.]]
-- [[#intraday-order-flow-and-understanding-the-daily-range-2022-episode-5-for-indices][Intraday Order Flow and Understanding the Daily Range (2022, episode 5 for indices)]]
-  - [[#sp-500-e-mini-sepdecmarc-june-daily-range--830-1200-am-and-1300-1630-pm-lunch-time-do-not-trade-1200-1300][S&P 500 E-Mini (Sep,Dec,Marc, June), daily range = 8:30-12:00 Am and 13:00-16:30 pm, (Lunch time do not trade 12:00-13:00)]]
-- [[#market-structure-long-term-highlow-intermediate-term-highlow-and-short-term-highlow][Market structure: Long term high/low, Intermediate term high/low and short term high/low]]
-  - [[#long-term-highlow-is-a-framework-it-is-at-high-time-frame][Long term high/low is a framework it is at high time frame]]
-  - [[#intermediate-term-highlow-balances-fvg-of-lthltl][Intermediate term high/low balances FVG of LTH/LTL]]
-  - [[#intermediate-term-highlow-are-two-types][Intermediate term high/low are two types:]]
+  - [[#internal-range-liquidity--market-structure-shift-mss][Internal Range Liquidity & Market Structure Shift (MSS)]]
+  - [[#intraday-order-flow--daily-range-sp-500-example][Intraday Order Flow & Daily Range (S&P 500 Example)]]
+  - [[#market-structure-hierarchy][Market Structure Hierarchy]]
+  - [[#key-takeaways][Key Takeaways]]
 - [[#institutional-order-flow][Institutional order flow]]
   - [[#the-core-idea][The Core Idea]]
   - [[#bearish-institutional-order-flow][Bearish Institutional Order Flow]]
@@ -130,23 +124,71 @@
 *** Rejection block
 *** Old low or high
 
+* ICT Market Structure and Intraweek Reversals
 ** Intraweek Market Reversals
-*** If price action moves faster than the last days of a week on Monday and Tuesday, it is going to meet price delivery and then reverses soon. Do not think that the speed of market movement as an opportunity to continue in the same bias.
-*** On Wednesday and Thursday there is monthly reversal always.
-* Internal range liquidity and market structure shift (2022, episode 3)
-** If the buystops of old highs are taken, market structure shift occurs;
-** If the buystops of old lows are taken, market structure shift occurs;
-** If market structure occurs, order blocks of higher highs and higher lows or lower highs and loser lows will be violated;
-** Order blocks are change in a state of price delivery, hence they go in line with market structure shaft.
-* Intraday Order Flow and Understanding the Daily Range (2022, episode 5 for indices)
-** S&P 500 E-Mini (Sep,Dec,Marc, June), daily range = 8:30-12:00 Am and 13:00-16:30 pm, (Lunch time do not trade 12:00-13:00)
-* Market structure: Long term high/low, Intermediate term high/low and short term high/low
-** Long term high/low is a framework it is at high time frame
-** Intermediate term high/low balances FVG of LTH/LTL
-** Intermediate term high/low are two types:
-*** The one which has Short term high/low below to the right and left; this one shows the market is strong
-*** The one which has Short term/low above to the right and left; this one shows the market so weak.
-*** Short term high/lows are order blocks which are failed or resisted
+
+*** Fast Moves Early in the Week (Mon–Tue)
+
+*** If price runs aggressively on Monday/Tuesday, it often exhausts liquidity early.
+
+*** This usually leads to a reversal midweek, so don’t assume early-week momentum will continue.
+
+*** Midweek Reversal (Wed–Thu)
+
+*** Historically, Wednesday and Thursday often produce monthly or weekly turning points.
+
+*** These days mark when the market shifts away from the earlier move, hunting liquidity in the opposite direction.
+
+** Internal Range Liquidity & Market Structure Shift (MSS)
+
+*** Liquidity Sweeps Trigger MSS
+
+*** When old highs’ buy stops or lows’ sell stops are taken, it signals a Market Structure Shift (MSS).
+
+*** Impact on Order Blocks
+
+**** An MSS invalidates previous order blocks (e.g., higher highs/lows or lower highs/lows).
+
+**** Since order blocks reflect a change in price delivery, they align with MSS events.
+
+** Intraday Order Flow & Daily Range (S&P 500 Example)
+
+*** Trading Sessions
+
+*** Active ranges:
+
+**** 8:30 – 12:00 pm (NY time) → Morning session.
+
+**** 1:00 – 4:30 pm → Afternoon session.
+
+**** 12:00 – 1:00 pm (Lunch) → Low volume, best to avoid trading.
+
+** Market Structure Hierarchy
+
+*** Long-Term High/Low (LTH/LTL)
+
+*** Higher-timeframe framework Sets the overall directional bias.
+
+*** Intermediate-Term High/Low (ITH/ITL): Acts to rebalance Fair Value Gaps (FVGs) within the long-term range.
+
+**** Two types:
+
+***** Strong Market → Short-term highs/lows appear below the ITH/ITL (shows continuation strength).
+
+***** Weak Market → Short-term highs/lows appear above the ITH/ITL (shows likely reversal).
+
+*** Short-Term High/Low (STH/STL): Often associated with failed or resisted order blocks. These are tactical levels where liquidity gets taken.
+
+** Key Takeaways
+
+*** Early-week speed often traps traders; midweek is when reversals form.
+
+*** Market Structure Shift (MSS) occurs when liquidity at old highs/lows is taken, often invalidating prior order blocks.
+
+*** S&P 500 intraday has two main tradable sessions (morning and afternoon).
+
+*** Structure exists in layers (long-term → intermediate → short-term), with intermediate highs/lows showing the strength or weakness of trend.
+
 * Institutional order flow
 
 ** The Core Idea
