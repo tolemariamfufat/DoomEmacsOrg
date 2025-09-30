@@ -5,8 +5,16 @@
   - [[#buullish-pd-array-matrix][Buullish Pd Array Matrix]]
   - [[#intraweek-market-reversals][Intraweek Market Reversals]]
 - [[#internal-range-liquidity-and-market-structure-shift-2022-episode-3][Internal range liquidity and market structure shift (2022, episode 3)]]
+  - [[#if-the-buystops-of-old-highs-are-taken-market-structure-shift-occurs][If the buystops of old highs are taken, market structure shift occurs;]]
+  - [[#if-the-buystops-of-old-lows-are-taken-market-structure-shift-occurs][If the buystops of old lows are taken, market structure shift occurs;]]
+  - [[#if-market-structure-occurs-order-blocks-of-higher-highs-and-higher-lows-or-lower-highs-and-loser-lows-will-be-violated][If market structure occurs, order blocks of higher highs and higher lows or lower highs and loser lows will be violated;]]
+  - [[#order-blocks-are-change-in-a-state-of-price-delivery-hence-they-go-in-line-with-market-structure-shaft][Order blocks are change in a state of price delivery, hence they go in line with market structure shaft.]]
 - [[#intraday-order-flow-and-understanding-the-daily-range-2022-episode-5-for-indices][Intraday Order Flow and Understanding the Daily Range (2022, episode 5 for indices)]]
+  - [[#sp-500-e-mini-sepdecmarc-june-daily-range--830-1200-am-and-1300-1630-pm-lunch-time-do-not-trade-1200-1300][S&P 500 E-Mini (Sep,Dec,Marc, June), daily range = 8:30-12:00 Am and 13:00-16:30 pm, (Lunch time do not trade 12:00-13:00)]]
 - [[#market-structure-long-term-highlow-intermediate-term-highlow-and-short-term-highlow][Market structure: Long term high/low, Intermediate term high/low and short term high/low]]
+  - [[#long-term-highlow-is-a-framework-it-is-at-high-time-frame][Long term high/low is a framework it is at high time frame]]
+  - [[#intermediate-term-highlow-balances-fvg-of-lthltl][Intermediate term high/low balances FVG of LTH/LTL]]
+  - [[#intermediate-term-highlow-are-two-types][Intermediate term high/low are two types:]]
 - [[#institutional-order-flow][Institutional order flow]]
   - [[#the-core-idea][The Core Idea]]
   - [[#bearish-institutional-order-flow][Bearish Institutional Order Flow]]
@@ -33,19 +41,37 @@
   -  [[#time-of-day-context][Time of Day Context]]
   - [[#summary][Summary]]
 - [[#when-to-buy][When to buy]]
-- [[#narrative][Narrative]]
-- [[#tgif-setup][T.G.I.F. Setup]]
+  - [[#ict-advises-buy-on-wednesday-on-new-york-session][ICT advises "buy on Wednesday on New York session".]]
+  - [[#pay-attention-to-accumulation-manipulation-creating-lowhigh-of-the-day-distribution-expansion-that-is-power-of-amd][Pay attention to Accumulation, Manipulation (creating low/high of the day), distribution (expansion); that is power of AMD!]]
+- [[#narrative-precise-explanation][Narrative (Precise Explanation)]]
+  - [[#definition-narrative-is-the-logical-expectation-of-where-price-is-likely-to-go-based-on-liquidity-and-price-action--not-indicators-it-answers-where-is-the-draw-on-liquidity][Definition: Narrative is the logical expectation of where price is likely to go, based on liquidity and price action — not indicators. It answers: “Where is the draw on liquidity?”]]
+  - [[#validation-a-narrative-is-proven-when-price-behavior-confirms-the-logic-eg-sweeping-liquidity-respecting-a-fair-value-gap-or-shifting-structure][Validation: A narrative is proven when price behavior confirms the logic (e.g., sweeping liquidity, respecting a fair value gap, or shifting structure).]]
+  - [[#process][Process:]]
+  - [[#key-principle-always-align-lower-timeframe-trading-with-higher-timeframe-context-otherwise-youre-trading-blindly][Key Principle: Always align lower-timeframe trading with higher-timeframe context; otherwise, you’re trading blindly.]]
+  - [[#key-takeaway-narrative-is-about-reading-price-behavior-logically-across-timeframes-to-anticipate-liquidity-draws-not-relying-on-indicators-or-static-supportresistance][Key takeaway: Narrative is about reading price behavior logically across timeframes to anticipate liquidity draws, not relying on indicators or static support/resistance.]]
+- [[#tgif-setup-ict-concept][T.G.I.F. Setup (ICT Concept)]]
+  - [[#meaning-thank-god-its-friday-setup--a-pattern-unique-to-friday-trading-behavior][Meaning: “Thank God It’s Friday” setup — a pattern unique to Friday trading behavior.]]
+  - [[#core-idea-after-a-strong-directional-move-during-the-week-friday-often-delivers-a-weekly-retracement][Core Idea: After a strong directional move during the week, Friday often delivers a weekly retracement.]]
+  - [[#retracement-target-typically-returns-to-2030-of-the-weekly-range][Retracement Target: Typically returns to 20%–30% of the weekly range.]]
+  - [[#context][Context:]]
+  - [[#key-takeaway-the-tgif-setup-uses-fridays-tendency-for-retracement-to-capture-a-reversal-or-pullback-after-the-weeks-main-move-especially-when-aligned-with-higher-timeframe-objectives][Key takeaway: The T.G.I.F. setup uses Friday’s tendency for retracement to capture a reversal or pullback after the week’s main move, especially when aligned with higher-timeframe objectives.]]
 - [[#time-and-price][Time and Price]]
+  - [[#price-is-delivered-by-an-algorism-there-is-no-buying-or-selling-pressure][Price is delivered by an algorism; there is no buying or selling pressure.]]
+  - [[#algorithmic-theory-is-based-on-time-and-price][Algorithmic theory is based on Time and Price.]]
+  - [[#price-levels-are-useless-until-time-is-considered][Price levels are useless until time is considered.]]
+  - [[#time-is-of-no-use-unless-price-is-at-a-key-pd-array][Time is of no use unless price is at a key PD array.]]
+  - [[#blending-the-two-yields-astonishing-results--precision][Blending the two yields astonishing results & precision.]]
 - [[#key-to-daily-bias][Key to Daily Bias]]
+  - [[#every-day-bias-is-unrealistic][Every day bias is unrealistic;]]
+  - [[#determine-the-likely-weekly-expansion][Determine the likely weekly expansion;]]
+  - [[#look-for-obvious-liquidity-in-that-direction][Look for obvious liquidity in that direction;]]
+  - [[#identify-imbalances][Identify imbalances]]
+  - [[#focus-on-the-high-or-medium-calendar-event-dates][Focus on the high or medium calendar event dates;]]
+  - [[#look-for-directional-price-runs-in-my-kill-zones-intraday][Look for directional price runs in my kill zones intraday.]]
+  - [[#you-do-not-have-trade-every-single-day-there-are-days-when-you-cannot-trade][You do not have trade every single day, there are days when you cannot trade.]]
 - [[#algo][Algo]]
-- [[#london-session][London session]]
-- [[#london-session-1][London session]]
-- [[#london-session-2][London session]]
-- [[#london-session-3][London session]]
-- [[#london-session-4][London session]]
-- [[#london-session-5][London session]]
-- [[#london-session-6][London session]]
-- [[#london-session-7][London session]]
+  - [[#the-algo-will-not-allow-price-to-drop-under-a-fvg-as-it-tracts-the-buy-side-liquidity-which-has-been-already-taken-the-price-action-movement-is-not-determined-by-supply-demand-or-support-resistance-it-is-determined-by-algo][The Algo will not allow price to drop under a FVG as it tracts the buy side liquidity which has been already taken. The price action movement is not determined by supply demand or support Resistance, it is determined by Algo.]]
+- [[#london-session-ict-perspective--simplified][London Session (ICT perspective) – Simplified]]
 - [[#ict-price--time-grid-cheat-sheet][ICT Price & Time Grid Cheat Sheet]]
   - [[#price-action-grid-where-liquidity-sits][Price Action Grid (Where Liquidity Sits)]]
   -  [[#time-grid-when-liquidity-gets-taken][Time Grid (When Liquidity Gets Taken)]]
@@ -73,41 +99,54 @@
   - [[#trade-application][Trade Application]]
   - [[#the-key-principle][The Key Principle]]
   - [[#formula-in-plain-words][Formula in plain words:]]
+- [[#pullback-and-inducement][Pullback and inducement]]
+  - [[#pullback-general-idea][Pullback (General Idea)]]
+  - [[#valid-pullback][Valid Pullback]]
+  - [[#inducement][Inducement]]
+  - [[#in-simple-terms][In simple terms:]]
+- [[#mastering-daily-candle-bias][Mastering Daily Candle Bias]]
+  - [[#core-idea][Core Idea]]
+  - [[#sell-bias--sweep-previous-high-close-below-it][Sell Bias – Sweep Previous High, Close Below It]]
+  - [[#buy-bias--close-above-previous-high][Buy Bias – Close Above Previous High]]
+  - [[#sell-bias--close-below-previous-low][Sell Bias – Close Below Previous Low]]
+  - [[#buy-bias--sweep-previous-low-close-above-it][Buy Bias – Sweep Previous Low, Close Above It]]
+  - [[#simplified-framework][Simplified Framework]]
 
 * PD Array
 ** Bearish Pd Array Matrix
-=> Old High or low
-=> Rejection block
-=> Bearish order block
-=> Fair value gap
-=> Liquidity void
-=> Bearish breaker block
-=> Bearish mitigation block
+*** Old High or low
+*** Rejection block
+*** Bearish order block
+*** Fair value gap
+*** Liquidity void
+*** Bearish breaker block
+*** Bearish mitigation block
 ** Buullish Pd Array Matrix
-=> Bullish mitigation block
-=> Bullish breaker
-=> Liquidity void
-=> Fair value gap
-=> Bullish order block
-=> Rejection block
-=> Old low or high
+*** Bullish mitigation block
+*** Bullish breaker
+*** Liquidity void
+*** Fair value gap
+*** Bullish order block
+*** Rejection block
+*** Old low or high
+
 ** Intraweek Market Reversals
-=> If price action moves faster than the last days of a week on Monday and Tuesday, it is going to meet price delivery and then reverses soon. Do not think that the speed of market movement as an opportunity to continue in the same bias.
-=> On Wednesday and Thursday there is monthly reversal always.
+*** If price action moves faster than the last days of a week on Monday and Tuesday, it is going to meet price delivery and then reverses soon. Do not think that the speed of market movement as an opportunity to continue in the same bias.
+*** On Wednesday and Thursday there is monthly reversal always.
 * Internal range liquidity and market structure shift (2022, episode 3)
-=> If the buystops of old highs are taken, market structure shift occurs;
-=> If the buystops of old lows are taken, market structure shift occurs;
-=> If market structure occurs, order blocks of higher highs and higher lows or lower highs and loser lows will be violated;
-=> Order blocks are change in a state of price delivery, hence they go in line with market structure shaft.
+** If the buystops of old highs are taken, market structure shift occurs;
+** If the buystops of old lows are taken, market structure shift occurs;
+** If market structure occurs, order blocks of higher highs and higher lows or lower highs and loser lows will be violated;
+** Order blocks are change in a state of price delivery, hence they go in line with market structure shaft.
 * Intraday Order Flow and Understanding the Daily Range (2022, episode 5 for indices)
-=> S&P 500 E-Mini (Sep,Dec,Marc, June), daily range = 8:30-12:00 Am and 13:00-16:30 pm, (Lunch time do not trade 12:00-13:00)
+** S&P 500 E-Mini (Sep,Dec,Marc, June), daily range = 8:30-12:00 Am and 13:00-16:30 pm, (Lunch time do not trade 12:00-13:00)
 * Market structure: Long term high/low, Intermediate term high/low and short term high/low
-=> Long term high/low is a framework it is at high time frame
-=> Intermediate term high/low balances FVG of LTH/LTL
-=> Intermediate term high/low are two types:
-        => The one which has Short term high/low below to the right and left; this one shows the market is strong
-        => The one which has Short term/low above to the right and left; this one shows the market so weak.
-        => Short term high/lows are order blocks which are failed or resisted
+** Long term high/low is a framework it is at high time frame
+** Intermediate term high/low balances FVG of LTH/LTL
+** Intermediate term high/low are two types:
+*** The one which has Short term high/low below to the right and left; this one shows the market is strong
+*** The one which has Short term/low above to the right and left; this one shows the market so weak.
+*** Short term high/lows are order blocks which are failed or resisted
 * Institutional order flow
 
 ** The Core Idea
@@ -335,86 +374,99 @@
 
 **** Awareness of NY Lunch equal highs as staging areas for liquidity runs.
 * When to buy
-=> ICT advises "buy on Wednesday on New York session".
-=> Pay attention to Accumulation, Manipulation (creating low/high of the day), distribution (expansion); that is power of AMD!
-* Narrative
 
-=> Narrative explains where the market is likely to go. It is not determined by indicators, but by analysis. Where is that draw on liquidity? It is not wise for you to determine your bet, gamble or investment on what an indicator is saying versus reading price action and getting the logic behind what it's doing. Narrative is the understanding of what price should why and what things will it encounter to prove that the narrative that you are assuming in place is in fact underway. We create a fair value gap here on 15M time frame, that is our area to watch and see if price supports a run if it digs into that and starts to repel higher/lower and we take out this short term high; that is enough to set up a stage for the afternoon/morning trend. That afternoon session move or set up or price swing that is what we are looking for now because the market failed to go to an objective we are looking for it was respecting the daily fair value gap and it rallied up and what very valuable that is. Here it took out that short term high so now we have an absolute market structure shift bullish with swing high and the market comes back down in here and re balances this fvg. Now we do not look into support resistance, we are looking at the fact that we went through this short term high created an imbalance and then we treated that into that now when we get into this area here we are interested in looking at inter market relationships. We want to study real accumulation, manipulation and distribution. How do we do that? We are going to go into the lower time frame five minute chart. I want you to go back to your 15m chart, this is where the work is required on your part. This price run from where to where, you see that. Look at your chart and shade that in on a 15m time frame. And drop down into the five minute; you will see how it drops into that shaded area. So we are working from a higher time frame 15m chart into 5m chart. This is running into that fvg. Now if you are staying on one time frame or at least not carrying over higher time frame analysis, into lower time frame, you are gonna be trading blind; you have no what you are looking for. 
+** ICT advises "buy on Wednesday on New York session".
+** Pay attention to Accumulation, Manipulation (creating low/high of the day), distribution (expansion); that is power of AMD!
 
-=> If the market is bullish it is good opportunity to have midnight opening higher than 8:30 opening. And the market rallies high; before lunch it retraces and go down; and after lunch it rallies high again targeting previous days high.
+* Narrative (Precise Explanation)
 
-* T.G.I.F. Setup
+** Definition: Narrative is the logical expectation of where price is likely to go, based on liquidity and price action — not indicators. It answers: “Where is the draw on liquidity?”
 
-=> The T.G.I.F. setup in the context of ICT (Inner Circle Trader) trading stands for "Thank God It's Friday" setup.
-=> Focus on Friday: The setup targets a specific movement on Friday, often referred to as "Friday profit-taking" or a weekly retracement.
-=> Weekly Retracement: The core idea is that after a strong directional move throughout the week the price is expected to retrace a certain percentage back into the weekly trading range.
-=> Target Levels: The retracement is often expected to move back into the 20% to 30% level of the entire weekly range.
-=> Confluence with Market Structure: It's usually looked for after the market has reached a significant Higher Time Frame (HTF) objective, like a premium (overbought) or discount (oversold) level, and is often confirmed by concepts like a Judas Swing (a false move to trap traders) and a Market Structure Shift (MSS) on lower time frames.
-=> Timing: The setup is often anticipated during the New York afternoon session.
+** Validation: A narrative is proven when price behavior confirms the logic (e.g., sweeping liquidity, respecting a fair value gap, or shifting structure).
+
+** Process:
+
+*** Identify higher-timeframe levels (e.g., 15M fair value gaps).
+
+*** Watch how price reacts when it trades into those areas.
+
+*** Drop to a lower timeframe (e.g., 5M) to refine entries once structure shifts or imbalances rebalance.
+
+*** Track the sequence: accumulation → manipulation → distribution.
+
+** Key Principle: Always align lower-timeframe trading with higher-timeframe context; otherwise, you’re trading blindly.
+
+*** Example (Bullish Scenario):
+
+*** Midnight opens higher than 8:30.
+
+*** Price rallies into the morning, retraces before lunch, then rallies again in the afternoon targeting the previous day’s high.
+
+** Key takeaway: Narrative is about reading price behavior logically across timeframes to anticipate liquidity draws, not relying on indicators or static support/resistance.
+
+* T.G.I.F. Setup (ICT Concept)
+
+** Meaning: “Thank God It’s Friday” setup — a pattern unique to Friday trading behavior.
+
+** Core Idea: After a strong directional move during the week, Friday often delivers a weekly retracement.
+
+** Retracement Target: Typically returns to 20%–30% of the weekly range.
+
+** Context:
+
+*** Best observed when price has already reached a higher timeframe objective (e.g., premium/discount zones).
+
+*** Confluence often comes from Judas Swings (false moves) and Market Structure Shifts (MSS) on intraday charts.
+
+*** Timing: Commonly plays out in the New York afternoon session, when profit-taking occurs.
+
+** Key takeaway: The T.G.I.F. setup uses Friday’s tendency for retracement to capture a reversal or pullback after the week’s main move, especially when aligned with higher-timeframe objectives.
 
 * Time and Price
-=> Price is delivered by an algorism; there is no buying or selling pressure.
-=> Algorithmic theory is based on Time and Price.
-=> Price levels are useless until time is considered.
-=> Time is of no use unless price is at a key PD array.
-=> Blending the two yields astonishing results & precision. 
+** Price is delivered by an algorism; there is no buying or selling pressure.
+** Algorithmic theory is based on Time and Price.
+** Price levels are useless until time is considered.
+** Time is of no use unless price is at a key PD array.
+** Blending the two yields astonishing results & precision. 
 
 * Key to Daily Bias
-=> Every day bias is unrealistic;
-=> Determine the likely weekly expansion;
-=> Look for obvious liquidity in that direction;
-=> Identify imbalances 
-=> Focus on the high or medium calendar event dates;
-=> Look for directional price runs in my kill zones intraday.
-=> You do not have trade every single day, there are days when you cannot trade. 
+** Every day bias is unrealistic;
+** Determine the likely weekly expansion;
+** Look for obvious liquidity in that direction;
+** Identify imbalances 
+** Focus on the high or medium calendar event dates;
+** Look for directional price runs in my kill zones intraday.
+** You do not have trade every single day, there are days when you cannot trade. 
 
 
 * Algo
-=> The Algo will not allow price to drop under a FVG as it tracts the buy side liquidity which has been already taken. The price action movement is not determined by supply demand or support Resistance, it is determined by Algo. 
+** The Algo will not allow price to drop under a FVG as it tracts the buy side liquidity which has been already taken. The price action movement is not determined by supply demand or support Resistance, it is determined by Algo. 
 
-* London session
-=> The EUR & GBP pairs are ideal for this time of a day.
-=> The London Open frequently setup an Optimal Trade Entry pattern that can offer a 25-50 pip scalp.
-=> The Key Times to monitor are 2:00 am to 5:00 am New York time. This is the ideal ICT London Kill zone.
-=> In London Open either price action drop down initially and then rallies up and it creates very high of the day. The day's low form down and it comes of a low and closes off the low (in London-New York overlap). The next trading day again in New York midnight (0:00), the price again rallies for the euro dollar up and creates the high and trades down to low the day later on and  goes consolidation and closes in the middle of the range.
-* London session
-=> The EUR & GBP pairs are ideal for this time of a day.
-=> The London Open frequently setup an Optimal Trade Entry pattern that can offer a 25-50 pip scalp.
-=> The Key Times to monitor are 2:00 am to 5:00 am New York time. This is the ideal ICT London Kill zone.
-=> In London Open either price action drop down initially and then rallies up and it creates very high of the day. The day's low form down and it comes of a low and closes off the low (in Londo-New York overlap).n The next trading day again in New York midnight (0:00), the price again rallies for the euro dollar up and creates the the high and trades down to low  the day later on and goes consolidation and closes in the middle of the ran
-* London session
-=> The EUR & GBP pairs are ideal for this time of a day.
-=> The London Open frequently setup an Optimal Trade Entry pattern that can offer a 25-50 pip scalp.
-=> The Key Times to monitor are 2:00 am to 5:00 am New York time. This is the ideal ICT London Kill zone.
-=> In London Open either price action drop down initially and then rallies up and it creates very high of the day. The day's low form down and it comes of a low and closes off the low (in Londo-New York overlap).n The next trading day again in New York midnight (0:00), the price again rallies for the euro dollar up and creates the the high and trades down to low  the day later on and goes consolidation and closes in the middle of the ran
-* London session
-=> The EUR & GBP pairs are ideal for this time of a day.
-=> The London Open frequently setup an Optimal Trade Entry pattern that can offer a 25-50 pip scalp.
-=> The Key Times to monitor are 2:00 am to 5:00 am New York time. This is the ideal ICT London Kill zone.
-=> In London Open either price action drop down initially and then rallies up and it creates very high of the day. The day's low form down and it comes of a low and closes off the low (in Londo-New York overlap).n The next trading day again in New York midnight (0:00), the price again rallies for the euro dollar up and creates the the high and trades down to low  the day later on and goes consolidation and closes in the middle of the ran
-* London session
-=> The EUR & GBP pairs are ideal for this time of a day.
-=> The London Open frequently setup an Optimal Trade Entry pattern that can offer a 25-50 pip scalp.
-=> The Key Times to monitor are 2:00 am to 5:00 am New York time. This is the ideal ICT London Kill zone.
-=> In London Open either price action drop down initially and then rallies up and it creates very high of the day. The day's low form down and it comes of a low and closes off the low (in Londo-New York overlap).n The next trading day again in New York midnight (0:00), the price again rallies for the euro dollar up and creates the the high and trades down to low  the day later on and goes consolidation and closes in the middle of the ran
-* London session
-=> The EUR & GBP pairs are ideal for this time of a day.
-=> The London Open frequently setup an Optimal Trade Entry pattern that can offer a 25-50 pip scalp.
-=> The Key Times to monitor are 2:00 am to 5:00 am New York time. This is the ideal ICT London Kill zone.
-=> In London Open either price action drop down initially and then rallies up and it creates very high of the day. The day's low form down and it comes of a low and closes off the low (in Londo-New York overlap).n The next trading day again in New York midnight (0:00), the price again rallies for the euro dollar up and creates the the high and trades down to low  the day later on and goes consolidation and closes in the middle of the ran
-* London session
-=> The EUR & GBP pairs are ideal for this time of a day.
-=> The London Open frequently setup an Optimal Trade Entry pattern that can offer a 25-50 pip scalp.
-=> The Key Times to monitor are 2:00 am to 5:00 am New York time. This is the ideal ICT London Kill zone.
-=> In London Open either price action drop down initially and then rallies up and it creates very high of the day. The day's low form down and it comes of a low and closes off the low (in Londo-New York overlap).n The next trading day again in New York midnight (0:00), the price again rallies for the euro dollar up and creates the the high and trades down to low  the day later on and goes consolidation and closes in the middle of the ran
-* London session
-=> The EUR & GBP pairs are ideal for this time of a day.
-=> The London Open frequently setup an Optimal Trade Entry pattern that can offer a 25-50 pip scalp.
-=> The Key Times to monitor are 2:00 am to 5:00 am New York time. This is the ideal ICT London Kill zone.
-=> In London Open either price action drop down initially and then rallies up and it creates very high of the day. The day's low form down and it comes of a low and closes off the low (in Londo-New York overlap).n The next trading day again in New York midnight (0:00), the price again rallies for the euro dollar up and creates the the high and trades down to low  the day later on and goes consolidation and closes in the middle of the range. The key take away is that London Open generally has the highest probability of creating the high or the low of the day. This is the biggest discovery because it helps you to determine where you are bearish the actual height of the day is going to form and if you can do that with a reasonable measure of accuracy or consistency just imagine if you could get three to four opportunities where you can get the high today and ride the majority of the daily range. If you could this for a few times a month you could do exceptionally well as an FX trader now. The same phenomenon occurs in other assets like crypto, commodities, index and bonds.
-=> When the market bullish the tendency is for the market to trade down creating the low of the day in the London and open ICT kill zone. Again here market trades down after midnight (0:00) New York time creates the low of the day between 2:00 and 5:00 am New York. In this case you could have taken a long from the start and place buy stops below wicks of the low. I want you to look at the relationship between one London open low and the immediate after London open low; between the two you can find the highest high of the day. That is your trading range.
-=> If London session typically creates the Low of the day when market is primarily Bullish and the High of the day when Bearish.
-=> When the market is poised to trade Higher on the Daily timeframe-we can focus on the London Session to post the Low of the Trading Day. If the Daily is poised to trade Lower-we can focus on the London Session to post the High of the Trading Day. 
+* London Session (ICT perspective) – Simplified
+
+*** Best Pairs: EUR & GBP, since they’re most active in London.
+
+*** Key Time (ICT Kill Zone): 2:00 am – 5:00 am New York time.
+
+*** Market Behavior:
+
+**** London often sets either the High of the Day (if daily trend is bearish) or the Low of the Day (if daily trend is bullish).
+
+**** Price may initially sweep one side (drop then rally, or rally then drop) to form liquidity, then reverse in the direction of the day’s bias.
+
+*** Scalping Opportunity: Frequently offers 25–50 pip setups around London Open.
+
+*** Daily Bias Connection:
+
+**** If the daily trend is bullish, expect London to post the Low of the Day.
+
+**** If the daily trend is bearish, expect London to post the High of the Day.
+
+**** Range Formation: Comparing the London low with the following swing (New York session) often defines the day’s trading range.
+
+**** Applicability: The same behavior shows up across FX, crypto, indices, commodities, and bonds.
+
+*** Key takeaway: The London session has the highest probability of forming the day’s high or low, making it a prime opportunity to align with the daily bias and capture large portions of the daily range.
 
 * ICT Price & Time Grid Cheat Sheet
 ** Price Action Grid (Where Liquidity Sits)
@@ -739,3 +791,89 @@ Reversal or continuation into close.
 
 ** Formula in plain words:
 *** If the day opens below yesterday’s low and you are bearish, then inside yesterday’s range look for highs (equal or single) in the lower portion. Around 2:00 AM NY time, anticipate price will run up into those highs (the Judas swing) and then reverse down.
+
+* Pullback and inducement
+
+** Pullback (General Idea)
+
+*** A pullback is a temporary move against the dominant trend:
+
+*** In a bullish market, the pullback is a move downward (retracement before price continues up).
+
+*** In a bearish market, the pullback is a move upward (retracement before price continues down).
+
+*** So it’s not a reversal—it’s just the market taking “a breath” before continuing.
+
+** Valid Pullback
+
+*** Not every little wick or pause is a real pullback. To be considered valid, it must show that liquidity has been taken or structure has been confirmed.
+
+*** Bullish Market: For a pullback to be valid, the low of the highest candle must be broken (swept).
+
+*** Bearish Market: For a pullback to be valid, the high of the lowest candle must be broken (swept).
+
+*** The “validation” comes from liquidity being taken (stop hunts at previous candle high/low) or a candle close beyond that level.
+
+*** Important: You don’t need the immediate next candle to do this. The confirmation can come a few candles later, as long as the prior high/low is eventually taken.
+
+** Inducement
+
+*** Inducement means the market is “tricking” traders into entering early before the real move.
+
+*** In bullish conditions: price may start to dip, forming what looks like a pullback, but hasn’t swept the required low of the highest candle yet. Traders jump in too early, thinking it’s already a pullback. The market then goes lower to induce liquidity, sweeping those premature buyers’ stops, validating the pullback, and then the real continuation begins.
+
+*** So: Inducement = false start / liquidity trap.
+
+*** Valid pullback = after liquidity sweep or structural break.
+
+** In simple terms:
+
+*** A pullback is just price going against the main trend.
+
+*** A valid pullback must sweep liquidity (previous high/low of the swing candle) or close beyond it.
+
+*** Inducement is when price fakes a pullback before sweeping the real liquidity and making a true one.
+
+* Mastering Daily Candle Bias
+** Core Idea
+
+*** Price often seeks liquidity, which usually sits around previous highs and lows (stop losses, pending orders, trapped traders). The market tends to “draw” toward these levels.
+*** You’re defining rules for bias (bullish/bearish) based on how the current daily candle interacts with the previous day’s high and low.
+
+** Sell Bias – Sweep Previous High, Close Below It
+
+*** Condition: Current daily candle trades above the previous daily high (liquidity grab), but closes below that high.
+
+*** Meaning: Buyers who entered on breakout are trapped, and liquidity above the high has been collected.
+
+*** Expectation: Next liquidity draw is to the previous daily low (downward bias).
+
+** Buy Bias – Close Above Previous High
+
+*** Condition: Current daily candle closes above the previous daily high.
+
+*** Meaning: Market shows strength and continuation after breaking resistance.
+
+*** Expectation: Next liquidity draw is to the previous daily high (bullish continuation).
+
+** Sell Bias – Close Below Previous Low
+
+*** Condition: Current daily candle closes below the previous daily low.
+
+*** Meaning: Market shows weakness and continuation after breaking support.
+
+*** Expectation: Next liquidity draw is to the previous daily low (bearish continuation).
+
+** Buy Bias – Sweep Previous Low, Close Above It
+
+*** Condition: Current daily candle trades below the previous daily low (liquidity grab), but closes above that low.
+
+*** Meaning: Sellers who entered on breakdown are trapped, and liquidity below the low has been collected.
+
+*** Expectation: Next liquidity draw is to the previous daily high (upward bias).
+
+** Simplified Framework
+
+*** Sweep but close back inside → Reversal bias
+
+*** Break and close outside → Continuation bias
