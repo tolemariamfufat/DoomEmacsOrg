@@ -1,86 +1,150 @@
 #+title: Face Book English
 * Table of Contents :toc:
 - [[#8172025][8/17/2025]]
+  - [[#retreat-subae][Retreat (suba'e)]]
+  - [[#as-far-as-i-can-tell-she-is-happy][As far as I can tell she is happy.]]
+  - [[#she-did-not-fell-the-exam-if-anything-she-scored-the-highest-point-in-the-class][She did not fell the exam, if anything she scored the highest point in the class.]]
 - [[#8182025][8/18/2025]]
+  - [[#pull-out-harkisii-baasi][Pull out (harkisii baasi)]]
+  - [[#take-out-keessaa-fuudhi][Take out (keessaa fuudhi)]]
+  - [[#put-on-uffadhu][Put on (uffadhu)]]
+  - [[#wrap-up-gabii-uffachuu][Wrap up (gabii uffachuu)]]
+  - [[#take-off-ofirraa-baasi][Take off (ofirraa baasi)]]
+  - [[#plug-in-itti-suuqi][Plug in (Itti suuqi)]]
+  - [[#hang-up-fannisi][Hang up (fannisi)]]
+  - [[#wipe-up-haxaawi][Wipe up (haxaawi)]]
+  - [[#lock-up-qollofi][Lock up (qollofi)]]
+  - [[#zip-up][Zip up]]
+  - [[#unzip][Unzip]]
+  - [[#button-up][Button up]]
+  - [[#unbutton][Unbutton]]
+  - [[#showoff-itti-agarsiisi][Showoff (Itti agarsiisi)]]
 - [[#8202025][8/20/2025]]
+  - [[#i-am-out-of-the-zone-while-we-discuss-the-issue-hey-are-you-listening-you-seem-out-of-zoneive-been-staring-at-this-spreadsheet-for-an-hour-im-completely-out-of-zone-for-thinking-about-creative-solutions][I am out of the zone while we discuss the issue; Hey, are you listening? You seem out of zone...I've been staring at this spreadsheet for an hour. I'm completely out of zone for thinking about creative solutions.]]
+  - [[#at-the-beginning-when-something-startsat-the-beginning-of-the-movie-i-saw-him-sitting-on-a-chair][At the beginning (when something starts):At the beginning of the movie I saw him sitting on a chair.]]
+  - [[#in-the-beginning-to-compare-situations-in-the-beginning-coding-was-difficult-but-after-two-weeks-i-was-good][In the beginning (to compare situations): In the beginning coding was difficult, but after two weeks I was good.]]
 - [[#8242025][8/24/2025]]
+  - [[#i-made-a-decision][I made a decision]]
+  - [[#i-made-an-appointment][I made an appointment]]
+  - [[#i-made-a-promise][I made a promise]]
+  - [[#i-made-a-choice][I made a choice]]
+  - [[#i-made-a-mistake-f][I made a mistake f]]
+  - [[#i-made-a-deal][I made a deal]]
 - [[#8262025][8/26/2025]]
+  - [[#i-am-having-my-hair--being-cut][I am having my hair  being cut]]
+  - [[#get-your-hair-done-for-a-girl][Get your hair done (for a girl)]]
+  - [[#get-your-hair-cut-for-a-man][Get your hair cut (for a man)]]
+  - [[#does-800-pm-work-for-you-are-you-free-at-800][Does 8:00 pm work for you (Are you free at 8:00)]]
+  - [[#does-monday-work-for-you][Does Monday work for you?]]
 - [[#8272025][8/27/2025]]
+  - [[#long-time-no-see][Long time no see]]
+  - [[#yeah-right][Yeah right?]]
+  - [[#i-know][I know.]]
+  - [[#tell-me-about-it][Tell me about it.]]
+  - [[#how-you-been-i-have-been-great][How you been, I have been great.]]
+  - [[#i-will-keep-you-in-my-prayer-keep-in-your-prayer][I will keep you in my prayer, keep in your prayer.]]
+  - [[#happy-to-hear-that-sorry-to-hear-that][Happy to hear that, sorry to hear that.]]
+  - [[#we-lost-touch][We lost touch]]
+  - [[#i-will-catch-up-you-will-catch-up][I will catch up, you will catch up]]
+  - [[#sometime-next-week-last-week][sometime next week, last week]]
+  - [[#sometime-next-week-lets-catch-up][sometime next week lets catch up.]]
 - [[#8282025][8/28/2025]]
+  - [[#bad-mouth-blasphemy][Bad mouth (blasphemy)]]
+  - [[#mouth-watering-yemiyasgomej][Mouth Watering (Yemiyasgomej)]]
+  - [[#it-is-on-the-tip-of-my-tongue][It is on the tip of my tongue]]
+  - [[#by-word-of-mouth][By word of mouth]]
+  - [[#do-not-stick-out-your-tongue][Do not stick out your tongue]]
 - [[#912025][9/1/2025]]
+  - [[#what-are-you-upto][What are you upto.]]
+  - [[#he-is-upto-something][He is upto something.]]
+  - [[#who-put-you-up-to-this][Who put you up to this?]]
 - [[#1592025][15/9/2025]]
+  - [[#i-dare-you-to-do-good-wondneh][I dare you to do good (wondneh)]]
+  - [[#how-dare-you-talk-to-me-like-that-indet-bitdefireny][How dare you talk to me like that (Indet bitdefireny)]]
+  - [[#do-not-you-dare-call-myname-chirash-simen-indattera][Do not you dare call myname (chirash simen indattera)]]
+  - [[#get-dressed-he-get-dressed-in-white-blue][Get dressed (he get dressed in white, blue)]]
+  - [[#get-undressed-he-got-undressed-his-suit][Get undressed (he got undressed his suit)]]
 - [[#1992025][19/9/2025]]
   - [[#speak-fast][Speak fast]]
 - [[#2292025][22/9/2025]]
   - [[#synonyms][Synonyms]]
   - [[#say-vs-dont-say][Say vs don't say]]
 - [[#2692025-good-to-good-for-good-at][26/9/2025 good to, good for, good at]]
+  - [[#good-to-is-for-people-he-is-good-to-me][Good to is for people, 'He is good to me.']]
+  - [[#good-for-is-for-performance-soap-is-good-for-washing-][Good for is for performance, 'Soap is good for washing ...']]
+  - [[#good-at-is-for-skill-he-is-good-at-making-tea][Good at is for skill, 'He is good at making tea.']]
 - [[#3092025][30/9/2025]]
+  - [[#will-you-be-long-tekoyaleh][Will you be long? (tekoyaleh)]]
+  - [[#i-wont-be-long][I won't be long.]]
+  - [[#how-long-you-gonna-be][How long you gonna be.]]
+  - [[#i-will-be-45-minutes][I will be 45 minutes.]]
+  - [[#do-not-be-long][Do not be long.]]
+  - [[#it-wont-be-long-i-start-forex-trading][It won't be long i start forex trading.]]
 
 * 8/17/2025
-=> Retreat (suba'e)
-=> As far as I can tell she is happy.
-=> She did not fell the exam, if anything she scored the highest point in the class.
+** Retreat (suba'e)
+** As far as I can tell she is happy.
+** She did not fell the exam, if anything she scored the highest point in the class.
 * 8/18/2025
-=> Pull out (harkisii baasi)
-=> Take out (keessaa fuudhi)
-=> Put on (uffadhu)
-=> Wrap up (gabii uffachuu)
-=> Take off (ofirraa baasi)
-=> Plug in (Itti suuqi)
-=> Hang up (fannisi)
-=> Wipe up (haxaawi)
-=> Lock up (qollofi)
-=> Zip up
-=> Unzip
-=> Button up
-=> Unbutton
-=> Showoff (Itti agarsiisi)
+** Pull out (harkisii baasi)
+** Take out (keessaa fuudhi)
+** Put on (uffadhu)
+** Wrap up (gabii uffachuu)
+** Take off (ofirraa baasi)
+** Plug in (Itti suuqi)
+** Hang up (fannisi)
+** Wipe up (haxaawi)
+** Lock up (qollofi)
+** Zip up
+** Unzip
+** Button up
+** Unbutton
+** Showoff (Itti agarsiisi)
 * 8/20/2025
-=> I am out of the zone while we discuss the issue; Hey, are you listening? You seem out of zone...I've been staring at this spreadsheet for an hour. I'm completely out of zone for thinking about creative solutions.
-=> At the beginning (when something starts):At the beginning of the movie I saw him sitting on a chair.
-=> In the beginning (to compare situations): In the beginning coding was difficult, but after two weeks I was good.
+** I am out of the zone while we discuss the issue; Hey, are you listening? You seem out of zone...I've been staring at this spreadsheet for an hour. I'm completely out of zone for thinking about creative solutions.
+** At the beginning (when something starts):At the beginning of the movie I saw him sitting on a chair.
+** In the beginning (to compare situations): In the beginning coding was difficult, but after two weeks I was good.
 * 8/24/2025
-=> I made a decision
-=> I made an appointment
-=> I made a promise
-=> I made a choice
-=> I made a mistake f
-=> I made a deal
+** I made a decision
+** I made an appointment
+** I made a promise
+** I made a choice
+** I made a mistake f
+** I made a deal
 * 8/26/2025
-=> I am having my hair  being cut
-=> Get your hair done (for a girl)
-=> Get your hair cut (for a man)
-=> Does 8:00 pm work for you (Are you free at 8:00)
-=> Does Monday work for you?
+** I am having my hair  being cut
+** Get your hair done (for a girl)
+** Get your hair cut (for a man)
+** Does 8:00 pm work for you (Are you free at 8:00)
+** Does Monday work for you?
 * 8/27/2025
-=> Long time no see
-=> Yeah right?
-=> I know.
-=> Tell me about it.
-=> How you been, I have been great.
-=> I will keep you in my prayer, keep in your prayer.
-=> Happy to hear that, sorry to hear that.
-=> We lost touch
-=> I will catch up, you will catch up
-=> sometime next week, last week
-=> sometime next week lets catch up.
+** Long time no see
+** Yeah right?
+** I know.
+** Tell me about it.
+** How you been, I have been great.
+** I will keep you in my prayer, keep in your prayer.
+** Happy to hear that, sorry to hear that.
+** We lost touch
+** I will catch up, you will catch up
+** sometime next week, last week
+** sometime next week lets catch up.
 * 8/28/2025
-=> Bad mouth (blasphemy)
-=> Mouth Watering (Yemiyasgomej)
-=> It is on the tip of my tongue
-=> By word of mouth
-=> Do not stick out your tongue
+** Bad mouth (blasphemy)
+** Mouth Watering (Yemiyasgomej)
+** It is on the tip of my tongue
+** By word of mouth
+** Do not stick out your tongue
 * 9/1/2025
-=> What are you upto.
-=> He is upto something.
-=> Who put you up to this?
+** What are you upto.
+** He is upto something.
+** Who put you up to this?
 * 15/9/2025
-=> I dare you to do good (wondneh)
-=> How dare you talk to me like that (Indet bitdefireny)
-=> Do not you dare call myname (chirash simen indattera)
-=> Get dressed (he get dressed in white, blue)
-=> Get undressed (he got undressed his suit)
+** I dare you to do good (wondneh)
+** How dare you talk to me like that (Indet bitdefireny)
+** Do not you dare call myname (chirash simen indattera)
+** Get dressed (he get dressed in white, blue)
+** Get undressed (he got undressed his suit)
 * 19/9/2025
 ** Speak fast
 | Do not say      | Say       |
@@ -161,14 +225,14 @@
 |             |                        |
 * 26/9/2025 good to, good for, good at
 
-=> Good to is for people, 'He is good to me.'
-=> Good for is for performance, 'Soap is good for washing ...'
-=> Good at is for skill, 'He is good at making tea.'
+** Good to is for people, 'He is good to me.'
+** Good for is for performance, 'Soap is good for washing ...'
+** Good at is for skill, 'He is good at making tea.'
 
 * 30/9/2025
-=> Will you be long? (tekoyaleh)
-=> I won't be long.
-=> How long you gonna be.
-=> I will be 45 minutes.
-=> Do not be long.
-=> It won't be long i start forex trading. 
+** Will you be long? (tekoyaleh)
+** I won't be long.
+** How long you gonna be.
+** I will be 45 minutes.
+** Do not be long.
+** It won't be long i start forex trading. 
