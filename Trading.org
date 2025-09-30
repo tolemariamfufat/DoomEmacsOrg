@@ -105,6 +105,15 @@
   - [[#sell-bias--close-below-previous-low][Sell Bias – Close Below Previous Low]]
   - [[#buy-bias--sweep-previous-low-close-above-it][Buy Bias – Sweep Previous Low, Close Above It]]
   - [[#simplified-framework][Simplified Framework]]
+- [[#ict-wick-grading-points][ICT Wick Grading Points]]
+  - [[#close-startingending-point-this-is-the-price-level-where-the-real-body-of-the-candlestick-ends-and-the-wick-begins][Close (Starting/Ending Point): This is the price level where the real body of the candlestick ends and the wick begins.]]
+  - [[#lower-quadrant-25-mark-this-is-the-level-that-represents-25-of-the-total-wick-range-measured-starting-from-the-close-toward-the-extreme-highlow][Lower Quadrant (25% Mark): This is the level that represents 25% of the total wick range, measured starting from the Close toward the extreme High/Low.]]
+  - [[#consequent-encroachment-ce---half-way-point-50-mark-the-consequent-encroachment-ce-is-the-50-midpoint-of-the-entire-wick][Consequent Encroachment (C.E.) - Half Way Point (50% Mark): The Consequent Encroachment (C.E.) is the 50% midpoint of the entire wick.]]
+  - [[#upper-quadrant-75-mark-this-is-the-level-that-represents-75-of-the-total-wick-range-measured-starting-from-the-close-toward-the-extreme-highlow][Upper Quadrant (75% Mark): This is the level that represents 75% of the total wick range, measured starting from the Close toward the extreme High/Low.]]
+  - [[#high--low-extreme-point-this-is-the-absolute-peak-or-trough-of-the-price-movement-during-the-candles-duration][High / Low (Extreme Point): This is the absolute peak or trough of the price movement during the candle's duration.]]
+  - [[#wick-context-premium-vs-discount-this-grading-system-is-particularly-relevant-when-the-wick-is-analyzed-within-the-context-of-the-larger-price-range][Wick Context: Premium vs. Discount: This grading system is particularly relevant when the wick is analyzed within the context of the larger price range:]]
+  - [[#discount-wick-lower-wick-a-long-lower-wick-formed-when-the-price-is-in-a-discount-zone-typically-the-lower-50-of-a-swing-move-the-wick-represents-a-push-lower-to-grab-sell-side-liquidity-before-a-move-higher-you-grade-the-lower-wicks-range-to-find-potential-entry-or-stop-loss-refinement-points-for-a-long-trade][Discount Wick (Lower Wick): A long lower wick formed when the price is in a Discount Zone (typically the lower 50% of a swing move). The wick represents a push lower to grab Sell-Side Liquidity before a move higher. You grade the lower wick's range to find potential entry or stop-loss refinement points for a long trade.]]
+  - [[#the-role-of-htf-wicks-in-ltf-trading][The Role of HTF Wicks in LTF Trading]]
 
 * PD Array
 ** Bearish Pd Array Matrix
@@ -919,3 +928,61 @@ Reversal or continuation into close.
 *** Sweep but close back inside → Reversal bias
 
 *** Break and close outside → Continuation bias
+
+* ICT Wick Grading Points
+
+** Close (Starting/Ending Point): This is the price level where the real body of the candlestick ends and the wick begins.
+
+=> For an upper wick, it's the top of the body; for a lower wick, it's the bottom of the body. It marks the boundary of the price that was sustained by the majority of the session's action.
+
+** Lower Quadrant (25% Mark): This is the level that represents 25% of the total wick range, measured starting from the Close toward the extreme High/Low.
+
+=> It's the first quarter of the wick. A strong reversal (rejection) will often only retrace into this first quadrant before continuing its move away from the wick's extreme.
+
+** Consequent Encroachment (C.E.) - Half Way Point (50% Mark): The Consequent Encroachment (C.E.) is the 50% midpoint of the entire wick.
+
+=> In ICT, the C.E. of any significant price range (like a wick or a Fair Value Gap) is a highly significant institutional reference point. It is often where price is expected to react or reverse upon a future retest.
+
+=> If price retests the wick and is strongly rejected at or before the C.E., it suggests the original move (that formed the wick) has strong directional conviction. A move beyond the C.E. is often viewed as a sign of weakness in the original directional bias.
+
+** Upper Quadrant (75% Mark): This is the level that represents 75% of the total wick range, measured starting from the Close toward the extreme High/Low.
+
+=> This is the final quarter of the wick before the extreme. If price retests the wick and reaches this level, it suggests that the rejection that created the wick was relatively weak, or that the market is attempting to completely "fill" the void left by the wick.
+
+** High / Low (Extreme Point): This is the absolute peak or trough of the price movement during the candle's duration.
+
+=> It represents the final point of liquidity or "stop-loss cluster" that was likely targeted by the market makers before the strong reversal (rejection) occurred. If price trades through this point, the initial wick is considered fully violated and its significance as a reference point is lost.
+
+** Wick Context: Premium vs. Discount: This grading system is particularly relevant when the wick is analyzed within the context of the larger price range:
+
+*** Premium Wick (Upper Wick): A long upper wick formed when the price is in a Premium Zone (typically the upper 50% of a swing move). The wick represents a push higher to grab Buy-Side Liquidity before a move lower. You grade the upper wick's range to find potential entry or stop-loss refinement points for a short trade.
+
+** Discount Wick (Lower Wick): A long lower wick formed when the price is in a Discount Zone (typically the lower 50% of a swing move). The wick represents a push lower to grab Sell-Side Liquidity before a move higher. You grade the lower wick's range to find potential entry or stop-loss refinement points for a long trade.
+
+*** In summary, the grading system provides a precise way to measure and anticipate price reaction to the liquidity void left behind by a significant wick, with the Consequent Encroachment (50%) being the most critical level to monitor for a reaction.
+
+** The Role of HTF Wicks in LTF Trading
+*** Higher Timeframe Wick: Context and Liquidity
+**** A long wick on an HTF candle (e.g., Daily) signifies a decisive move by institutional traders, often referred to as a Liquidity Sweep or Stop Hunt.
+
+**** The Wick's Extreme (High/Low): This is the area where the "Smart Money" likely swept stop-loss orders or pending entries before reversing the price. It marks a critical boundary that the market failed to sustain.
+
+**** The Wick's Graded Levels (C.E., Quadrants): By grading the wick (finding the 25%, Consequent Encroachment (C.E.) at 50%, and 75% levels), you are marking institutional reference points that price is likely to react to upon a future retest.
+
+*** Lower Timeframe Trading: Entry and Confirmation
+**** When the price later returns to the area of this significant HTF wick, you drop down to your LTF (e.g., 1-Minute) to watch for an entry setup.
+
+**** HTF Wick Component	LTF Interpretation and Use
+**** HTF Wick (Entire Area)	Becomes your Target Zone or Entry Zone.
+**** Consequent Encroachment (C.E.) of the Wick	This is your High-Probability Entry Level. You wait for the price to trade to or near the C.E. on the LTF.
+**** Price Action at the C.E.	You look for a Change in the LTF Market Structure (e.g., a break of a local low/high, formation of a Fair Value Gap, or an Order Block) to confirm the HTF directional bias is now active on the LTF.
+
+****** Example Scenario (Bullish Reversal)
+
+******   HTF (Daily): A Discount Wick (long lower wick) forms on the Daily chart, suggesting price was rejected from a cheap/discounted price level after sweeping sell-side liquidity.
+
+****** LTF (1-Minute): The market starts moving back up, but then begins a small retracement. You mark the C.E. (50% point) of the Daily wick.
+
+****** The Trade: When the price on the 1-Minute chart trades back down into the area around the Daily wick's C.E., you look for a tiny Market Structure Shift (e.g., a break of the most recent high on the 1-Minute chart) to confirm institutional buying is resuming. You enter the long trade with a tight stop-loss below the C.E. or the wick's low.
+
+****** In short, the Daily wick gives you the conviction and the key levels, while the 1-Minute chart gives you the precision entry and risk management.
