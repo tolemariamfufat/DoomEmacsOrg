@@ -24,6 +24,9 @@
 - [[#mohawk]["Mohawk"]]
 - [[#previous-day-high-and-low][Previous Day High and Low]]
 - [[#ict-change-in-the-state-of-delivery-cisd][ICT Change in the State of Delivery (CISD)]]
+- [[#mean-threshold][Mean Threshold]]
+- [[#consequent-encroachment-ce][Consequent Encroachment (CE)]]
+- [[#equilibrium][Equilibrium]]
 
 * PD Array
 ** Bearish Pd Array Matrix
@@ -546,3 +549,64 @@ Reversal or continuation into close.
 *** New Delivery State: The market's internal bias has flipped. Price is expected to continue moving lower as the algorithm is now programmed to deliver price more efficiently to the Sell-Side of the curve (i.e., lower prices) until it reaches the next major liquidity target or imbalance (like a Fair Value Gap or an opposing Order Block).
 *** Trading Implication: Traders using this concept would now look to sell (go short) when the price retraces back up to test the high-probability Bearish Order Block or the imbalance left by the initial move down.
 ** Enter on FVG that overlaps with the low of order block on sell delivery and on the high of previous order block on buy side delivery.
+* Mean Threshold
+** The Concept of the Mean Threshold
+*** The Mean Threshold is the 50% level of the Order Block candle's body (measuring from the Open to the Close, or High to Low, excluding the wicks in most high-probability definitions).
+*** In the context of a Bearish Order Block (the last up-close candle before a large move down):
+*** The entire candle represents a large volume of institutional selling being executed.
+*** The Mean Threshold is the 50% mark of that concentrated activity.
+** The Rule: Defense of the Mean Threshold
+*** The rule states: For a Bearish Order Block to remain valid, price must not close above the Mean Threshold (50%) on the retracement/pullback.
+*** Above 50% is considered the Premium half of the Order Block.
+*** Below 50% is considered the Discount half.
+** The Institutional Logic
+*** The Mean Threshold is viewed as a line of "defense" for the institutions who initiated the move.
+*** Maximum Concession: The Mean Threshold represents the maximum price concession that institutions are willing to allow the market to return to before continuing their sell program.
+*** Unfilled Orders: Institutions are assumed to have a significant volume of unfilled sell orders remaining at or near the Order Block area. They are expected to let the price retrace into this zone to "mitigate" (fill) those remaining orders at an advantageous price (i.e., the highest price possible, which is why a retracement is needed).
+*** Invalidation of Intent: If price not only trades above the Mean Threshold but actually closes above it, it signals that the original selling pressure was too weak to hold the center of its own price zone. It implies that a new wave of buyers (or a lack of sellers) has successfully pushed the price deep into the area of initial selling, negating the expected strong resistance.
+** What Happens if it Closes Above the Mean Threshold?
+*** If the price closes above the Mean Threshold of a Bearish Order Block, the Order Block is generally considered failed or invalidated for a high-probability trade setup.
+*** The market is likely to continue pushing higher, potentially to the high of the Order Block candle or even above it, indicating that the Change in the State of Delivery (CISD) that formed the Order Block may have been a false signal, and the original bullish trend is resuming.
+*** In short, the Mean Threshold is the critical filter that distinguishes a high-probability entry point from a potential trap. A close above it tells the ICT trader to abandon the short trade setup.
+* Consequent Encroachment (CE)
+** What is a Fair Value Gap (FVG)?
+*** First, you must understand the FVG. An FVG (also known as an Imbalance or an Inefficiency) is a three-candle price pattern where the high of the first candle and the low of the third candle do not overlap.
+*** This creates a "gap" or a void in price action, indicating that the market moved too quickly in one direction, leaving behind a zone where no counter-side orders were executed.
+*** The market is highly likely to return to this zone to "fill" or "mitigate" the imbalance, as the price delivery algorithm seeks to re-establish a fair price.
+** The Definition of Consequent Encroachment (CE)
+*** The Consequent Encroachment (CE) is the exact midpoint (50%) of the range of the FVG.
+*** You measure from the top of the FVG to the bottom of the FVG, and the 50% line is the CE.
+** The Institutional Logic: Why CE is Important
+*** Just like the Mean Threshold for an Order Block, the CE for an FVG serves as a critical filter and a high-probability entry or mitigation level.
+*** Magnet and Mitigation Point: When price returns to the FVG, it is often attracted to the CE. This midpoint acts as the true value level where institutional orders are most likely to be filled. The institutions that created the original impulsive move will often have limit orders sitting at or near the CE to complete their large position at a better price.
+*** Validation Filter: Price's reaction to the CE determines the strength of the original move:
+*** In a Bullish FVG: If price retraces into the gap, it should ideally find support and reverse before closing below the CE. A close below the CE suggests the original buying pressure is weak, and the FVG is more likely to be completely filled or even broken through.
+*** In a Bearish FVG: If price retraces into the gap, it should find resistance and reverse before closing above the CE. A close above the CE suggests the original selling pressure is weak, and the FVG is more likely to be completely filled or broken.
+** CE as a Refined Entry or Target
+*** Traders use the CE to create a higher-probability setup:
+=> Zone	Action	Rule
+=> Bullish FVG	Entry for Long	Wait for price to enter the FVG and touch or trade just below the CE before entering. This gives you a better entry price (a "discount" entry within the imbalance) 
+=> Bearish FVG	Entry for Short	Wait for price to enter the FVG and touch or trade just above the CE before entering. This gives you a better entry price (a "premium" entry within the imbalance).
+=> Target	Take Profit	The CE of a large FVG or other PD Array on a higher timeframe can be used as a high-probability take-profit target, as price often seeks out these midpoints.
+*** Summary of the 50% Rule
+=> Concept	Zone	50% Level Name	Rule (Bearish Context)
+=> Order Block (OB)	The last up-close candle	Mean Threshold (MT)	Price must not close above the Mean Threshold on the retracement.
+=> Fair Value Gap (FVG)	The price imbalance zone	Consequent Encroachment (CE)	Price must not close above the Consequent Encroachment on the retracement.
+* Equilibrium
+** Equilibrium as the 50% Midpoint
+*** In price action trading, Equilibrium is mathematically defined as the 50% level of a price swing or range.
+*** Identify a Range: This range is typically the distance between a recent Swing High and a recent Swing Low (or vice versa) on the chart.
+*** Calculate the Midpoint: The 50% mark of that distance is the Equilibrium line.
+*** The Fair Value Zone: When price is at this 50% level, it is considered to be at Fair Market Value.
+** Discount and Premium Zones
+*** The concept of Equilibrium is crucial because it divides the price range into two critical zones that guide trading decisions:
+=> Price Zone	Location	Trading Bias	Institutional Logic
+=> Premium	Above the 50% Equilibrium	Optimal to Sell (Short)	The price is considered "expensive" or overvalued for a long position. Institutions look to sell or take profit here.
+=> Discount	Below the 50% Equilibrium	Optimal to Buy (Long)	The price is considered "cheap" or undervalued for a short position. Institutions look to buy or enter long positions here.
+*** The Core Trading Rule
+*** The main principle is: Never Buy in a Premium, and Never Sell in a Discount.
+*** Institutional traders aim to buy assets when they are cheap (in the Discount zone) and sell assets when they are expensive (in the Premium zone) relative to the recent price action. Price will often move impulsively away from the Equilibrium and then retrace back toward it to seek liquidity for a better entry.
+** Equilibrium in ICT Concepts
+*** Equilibrium is applied to specific institutional price structures:
+*** Optimal Trade Entry (OTE): The OTE (usually the 62%, 70.5%, or 79% Fibonacci levels) exists in the Discount (for buys) or Premium (for sells) zone, just beyond the Equilibrium. Traders wait for price to penetrate the 50% level and enter the deeper OTE zone for the highest probability entries.
+*** Mean Threshold (MT) / Consequent Encroachment (CE): These are essentially the Equilibrium (50%) of an Order Block or a Fair Value Gap (FVG), respectively. They are used as precise confirmation levels to gauge the strength of the institutional block or gap. If price closes past the 50% mark of these zones, it often invalidates the expected reaction.
