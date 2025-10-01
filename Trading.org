@@ -2,7 +2,7 @@
 * Table of Contents :toc:
 - [[#pd-array][PD Array]]
   - [[#bearish-pd-array-matrix][Bearish Pd Array Matrix]]
-  - [[#buullish-pd-array-matrix][Buullish Pd Array Matrix]]
+  - [[#bullish-pd-array-matrix][Bullish Pd Array Matrix]]
 - [[#ict-market-structure-and-intraweek-reversals][ICT Market Structure and Intraweek Reversals]]
   - [[#intraweek-market-reversals][Intraweek Market Reversals]]
   - [[#internal-range-liquidity--market-structure-shift-mss][Internal Range Liquidity & Market Structure Shift (MSS)]]
@@ -130,7 +130,7 @@
 *** Liquidity void
 *** Bearish breaker block
 *** Bearish mitigation block
-** Buullish Pd Array Matrix
+** Bullish Pd Array Matrix
 *** Bullish mitigation block
 *** Bullish breaker
 *** Liquidity void
@@ -141,351 +141,183 @@
 
 * ICT Market Structure and Intraweek Reversals
 ** Intraweek Market Reversals
-
 *** Fast Moves Early in the Week (Mon–Tue)
-
 *** If price runs aggressively on Monday/Tuesday, it often exhausts liquidity early.
-
 *** This usually leads to a reversal midweek, so don’t assume early-week momentum will continue.
-
 *** Midweek Reversal (Wed–Thu)
-
 *** Historically, Wednesday and Thursday often produce monthly or weekly turning points.
-
 *** These days mark when the market shifts away from the earlier move, hunting liquidity in the opposite direction.
-
 ** Internal Range Liquidity & Market Structure Shift (MSS)
-
 *** Liquidity Sweeps Trigger MSS
-
 *** When old highs’ buy stops or lows’ sell stops are taken, it signals a Market Structure Shift (MSS).
-
 *** Impact on Order Blocks
-
 **** An MSS invalidates previous order blocks (e.g., higher highs/lows or lower highs/lows).
-
 **** Since order blocks reflect a change in price delivery, they align with MSS events.
-
 ** Intraday Order Flow & Daily Range (S&P 500 Example)
-
 *** Trading Sessions
-
 *** Active ranges:
-
 **** 8:30 – 12:00 pm (NY time) → Morning session.
-
 **** 1:00 – 4:30 pm → Afternoon session.
-
 **** 12:00 – 1:00 pm (Lunch) → Low volume, best to avoid trading.
-
 ** Market Structure Hierarchy
-
 *** Long-Term High/Low (LTH/LTL)
-
 *** Higher-timeframe framework Sets the overall directional bias.
-
 *** Intermediate-Term High/Low (ITH/ITL): Acts to rebalance Fair Value Gaps (FVGs) within the long-term range.
-
 **** Two types:
-
 ***** Strong Market → Short-term highs/lows appear below the ITH/ITL (shows continuation strength).
-
 ***** Weak Market → Short-term highs/lows appear above the ITH/ITL (shows likely reversal).
-
 *** Short-Term High/Low (STH/STL): Often associated with failed or resisted order blocks. These are tactical levels where liquidity gets taken.
-
 ** Key Takeaways
-
 *** Early-week speed often traps traders; midweek is when reversals form.
-
 *** Market Structure Shift (MSS) occurs when liquidity at old highs/lows is taken, often invalidating prior order blocks.
-
 *** S&P 500 intraday has two main tradable sessions (morning and afternoon).
-
 *** Structure exists in layers (long-term → intermediate → short-term), with intermediate highs/lows showing the strength or weakness of trend.
-
 * Institutional order flow
-
 ** The Core Idea
-
 *** IOF = the direction institutions are delivering price.
-
 *** It’s read by watching how price reacts around imbalances and opposite-color candles.
-
 *** If price respects those “institutional footprints,” order flow is intact.
-
 *** If those structures break, the order flow is violated → don’t trade.
-
 ** Bearish Institutional Order Flow
-
 *** In a bearish environment:
-
 **** Market leaves imbalances (FVGs) to the downside.
-
 **** When price retraces to rebalance those imbalances, the highs formed during that retrace should not be broken higher.
-
 **** All up-close candles in the swing act as resistance order blocks.
-
 **** If price trades above those up-close candles, IOF is broken → bias is invalid.
-
 **  Bullish Institutional Order Flow
-
 *** In a bullish environment:
-
 **** Market leaves imbalances (FVGs) to the upside.
-
 **** Price retraces into the imbalance and should respect the down-close candles (bullish OBs).
-
 **** These down-close candles act as support structures.
-
 **** If price cuts below these candles, it invalidates the order flow unless there’s a nearby swing low that must be cleared first (a sell-side liquidity raid).
-
 **  Special Note on Down-Close Candles in Bullish Moves
-
 *** In bullish swings, most candles will close up.
-
 *** The few down-close candles become very important.
-
 *** They should act as support when price retraces.
-
 *** If they are overlapped and broken, the bullish IOF is no longer clean.
-
 ** Liquidity Exception
-
 *** If a down-close candle is violated only because price is taking a nearby swing low (sell-side liquidity), that’s still consistent with bullish IOF.
-
 *** After the liquidity grab, price can re-accumulate and continue higher.
-
 ** Trading Rule
-
 *** Respect IOF structure.
-
 *** If the opposite-color candles (order blocks) are violated improperly, do not trade.
-
 *** Wait for a new, well-formed setup aligned with clean IOF.
-
 ** Summary in Plain Words
-
 *** Bearish IOF → up-close candles = resistance. Their highs shouldn’t be broken.
-
 *** Bullish IOF → down-close candles = support. Their lows shouldn’t be broken.
-
 *** If they are broken without a liquidity reason, IOF is invalid → sit out.
-
 * ICT Setup Model (2022 Mentorship)
 ** Time & Anchor Points
-
 *** Midnight Open (00:00 EST/NY time) → reference anchor.
-
 *** 8:30 AM Open (EST/NY time) → reference anchor.
-
 *** Compare these two opens:
-
 **** Bullish bias: Midnight open above 8:30 open → market is in discount → good for buys.
-
 **** Bearish bias: Midnight open below 8:30 open → market is in premium → good for sells.
-
 **** Note: This setup repeats weekly in Forex (less in bonds/indices).
-
 ** Premium / Discount Logic
-
 *** Sell only in premium (above equilibrium).
-
 *** Buy only in discount (below equilibrium).
-
 *** Never flip the rule → that’s how you avoid unnecessary losses.
-
 ** Price Action Filtering
-
 *** You need a liquidity run first:
-
 **** Bearish case:
-
 ***** Price runs above relative equal highs (old high).
-
 ***** Then displaces lower and breaks a short-term low.
-
 ***** That’s your confirmation.
-
 **** Bullish case:
-
 ***** Price runs below relative equal lows (old low).
-
 ***** Then displaces higher and breaks a short-term high.
-
 ***** That’s your confirmation.
-
 ***** No displacement through a short-term high/low = no valid setup.
-
 ** Execution Rule
-
 **** Entry must be on a Fair Value Gap (FVG) in the displacement leg.
-
 ***** Stop placement:
-
 ***** Daily → Hourly → 15M → 3M → 2M → 1M.
-
 ***** There will always be an FVG at some fractal level.
-
 ** Trade Management
-
 *** Target: levels of liquidity (equal highs, equal lows, or imbalance fills).
-
 *** Divide the move into levels (partials can be taken at each).
-
 *** Follow strict model → if setup breaks (order flow invalid), do not trade.
-
 ** Core Principle (Foundation)
-
 **** A setup requires two conditions:
-
 **** Liquidity run (above highs or below lows).
-
 **** Displacement + break of short-term structure.
-
 **** Once both occur, you zoom in, find the FVG, and trade.
-
 ** Quick Bias Rule (Episode 25)
-
 *** Bearish = Old high taken → then old low taken.
-
 *** Bullish = Old low taken → then old high taken.
-
 ** Summary in Plain Words:
 *** Use the midnight and 8:30 opens to determine premium/discount. Look for liquidity raids (old highs/lows). Require displacement + short-term break to confirm bias. Enter at the FVG. Always buy in discount, sell in premium.
-
 * ICT Counter-Trend Context Model
-
 ** Big Picture (Higher Timeframe Bias)
-
 *** Start with the higher timeframe (Daily or 4H).
-
 *** Confirm the market is in a long-term bearish move (downtrend).
-
 *** A counter-trend setup = looking for short-term bullish retracement trades inside that bearish trend.
-
 ** Define the Objective (Draw on Liquidity)
-
 *** A counter-trend trade must aim for a clear liquidity pool above current price.
-
 **** Examples:
-
 ***** Relative equal highs.
-
 ***** A clean swing high.
-
 ***** A daily imbalance or order block.
-
 ***** If there is no higher-timeframe liquidity target, do not take a counter-trend trade.
-
 **  Wait for Discount Retracement Zone
-
 *** Drop into lower timeframes (1H, 15M).
-
 *** Watch for price to retrace into a discount area of the short-term range.
-
 *** In that discount zone, look for:
-
 *** Fair Value Gap (FVG).
-
 *** Market Structure Shift (MSS) → break of short-term high.
-
 *** Down-close order block acting as support.
-
 **  Execution Logic
-
 *** Entry: in the FVG or OB inside the discount zone.
-
 *** Stop loss: below the short-term low.
-
 *** Target: the higher-timeframe liquidity (your Draw on Liquidity).
-
 **  Patience Rule
-
 *** If price runs impulsively to the objective (liquidity) without retracing into your discount entry zone →
 *** ❌ No trade.
-
 *** Only enter when ICT rules align.
-
 **  Time of Day Context
-
 *** New York Lunch (11:30 AM – 1:30 PM NY time):
-
 *** Market often prints equal highs during this slow period.
-
 *** In counter-trend context, price may later rally through those equal highs as it seeks the higher-timeframe liquidity.
-
 ** Summary
-
 *** Counter-trend = trading retracements against the big bias.
-
 *** Must have:
-
 **** Higher-timeframe bearish context.
-
 **** A clear liquidity target (draw on liquidity).
-
 **** Discount zone + FVG + MSS on lower timeframe for entry.
-
 **** Discipline to wait if no retracement forms.
-
 **** Awareness of NY Lunch equal highs as staging areas for liquidity runs.
 * When to buy
-
 ** ICT advises "buy on Wednesday on New York session".
 ** Pay attention to Accumulation, Manipulation (creating low/high of the day), distribution (expansion); that is power of AMD!
-
 * Narrative (Precise Explanation)
-
 ** Definition: Narrative is the logical expectation of where price is likely to go, based on liquidity and price action — not indicators. It answers: “Where is the draw on liquidity?”
-
 ** Validation: A narrative is proven when price behavior confirms the logic (e.g., sweeping liquidity, respecting a fair value gap, or shifting structure).
-
 ** Process:
-
 *** Identify higher-timeframe levels (e.g., 15M fair value gaps).
-
 *** Watch how price reacts when it trades into those areas.
-
 *** Drop to a lower timeframe (e.g., 5M) to refine entries once structure shifts or imbalances rebalance.
-
 *** Track the sequence: accumulation → manipulation → distribution.
-
 ** Key Principle: Always align lower-timeframe trading with higher-timeframe context; otherwise, you’re trading blindly.
-
 *** Example (Bullish Scenario):
-
 *** Midnight opens higher than 8:30.
-
 *** Price rallies into the morning, retraces before lunch, then rallies again in the afternoon targeting the previous day’s high.
-
 ** Key takeaway: Narrative is about reading price behavior logically across timeframes to anticipate liquidity draws, not relying on indicators or static support/resistance.
-
 * T.G.I.F. Setup (ICT Concept)
-
 ** Meaning: “Thank God It’s Friday” setup — a pattern unique to Friday trading behavior.
-
 ** Core Idea: After a strong directional move during the week, Friday often delivers a weekly retracement.
-
 ** Retracement Target: Typically returns to 20%–30% of the weekly range.
-
 ** Context:
-
 *** Best observed when price has already reached a higher timeframe objective (e.g., premium/discount zones).
-
 *** Confluence often comes from Judas Swings (false moves) and Market Structure Shifts (MSS) on intraday charts.
-
 *** Timing: Commonly plays out in the New York afternoon session, when profit-taking occurs.
-
 ** Key takeaway: The T.G.I.F. setup uses Friday’s tendency for retracement to capture a reversal or pullback after the week’s main move, especially when aligned with higher-timeframe objectives.
-
 * Time and Price
 ** Price is delivered by an algorism; there is no buying or selling pressure.
 ** Algorithmic theory is based on Time and Price.
 ** Price levels are useless until time is considered.
 ** Time is of no use unless price is at a key PD array.
 ** Blending the two yields astonishing results & precision. 
-
 * Key to Daily Bias
 ** Every day bias is unrealistic;
 ** Determine the likely weekly expansion;
@@ -494,562 +326,299 @@
 ** Focus on the high or medium calendar event dates;
 ** Look for directional price runs in my kill zones intraday.
 ** You do not have trade every single day, there are days when you cannot trade. 
-
-
 * Algo
 ** The Algo will not allow price to drop under a FVG as it tracts the buy side liquidity which has been already taken. The price action movement is not determined by supply demand or support Resistance, it is determined by Algo. 
-
 * London Session (ICT perspective) – Simplified
-
 *** Best Pairs: EUR & GBP, since they’re most active in London.
-
 *** Key Time (ICT Kill Zone): 2:00 am – 5:00 am New York time.
-
 *** Market Behavior:
-
 **** London often sets either the High of the Day (if daily trend is bearish) or the Low of the Day (if daily trend is bullish).
-
 **** Price may initially sweep one side (drop then rally, or rally then drop) to form liquidity, then reverse in the direction of the day’s bias.
-
 *** Scalping Opportunity: Frequently offers 25–50 pip setups around London Open.
-
 *** Daily Bias Connection:
-
 **** If the daily trend is bullish, expect London to post the Low of the Day.
-
 **** If the daily trend is bearish, expect London to post the High of the Day.
-
 **** Range Formation: Comparing the London low with the following swing (New York session) often defines the day’s trading range.
-
 **** Applicability: The same behavior shows up across FX, crypto, indices, commodities, and bonds.
-
 *** Key takeaway: The London session has the highest probability of forming the day’s high or low, making it a prime opportunity to align with the daily bias and capture large portions of the daily range.
-
 * ICT Price & Time Grid Cheat Sheet
 ** Price Action Grid (Where Liquidity Sits)
-
 *** Old Highs → Buy stops above (liquidity).
-
 *** Old Lows → Sell stops below (liquidity).
-
 *** Liquidity Run → First raid is fake-out, second raid shows true direction.
-
 *** Displacement → Strong break of structure confirms bias.
-
 *** Order Blocks (OBs) → Last opposing candle before displacement (entry zones).
-
 *** Fair Value Gaps (FVGs) → Imbalances where price often returns for entries.
-
 ➡ Sequence: Liquidity → Sweep → Displacement → OB / FVG → Expansion.
-
 **  Time Grid (When Liquidity Gets Taken)
-
 *** Daily Cycle
-
 ****  Asian Range (00:00–05:00 GMT)
 Market consolidates, builds liquidity.
-
 ****  London Killzone (07:00–10:00 GMT / 02:00–05:00 EST)
 Stop hunts: often takes Asia’s high/low.
-
 ****  New York AM (12:00–15:00 GMT / 07:00–10:00 EST)
 Main move of the day, displacement + setups.
-
 ****  New York PM (17:00–19:00 GMT / 12:00–14:00 EST)
 Reversal or continuation into close.
-
 *** Weekly Cycle
-
 **** Mon–Tue → Weekly high or low often forms.
-
 **** Wed–Thu → Expansion in real direction.
-
 **** Fri → Profit taking, reversals, consolidation.
-
 ***  How to Combine Them
-
 **** Step 1: Mark old highs & lows (yesterday’s, weekly, Asia session).
-
 **** Step 2: Wait for liquidity run during killzones (London & NY).
-
 **** Step 3: Identify which liquidity gets swept first (old high or old low).
-
 **** Step 4: Confirm with displacement in opposite direction.
-
 **** Step 5: Enter on retrace to OB or FVG in killzone.
-
 ***  Examples
-
 **** Bearish Day Example
-
 **** Asia consolidates.
-
 **** London takes Asia’s high (buy stops).
-
 **** NY AM breaks down through Asia/London low with displacement.
-
 **** Retrace to OB/FVG → Short.
-
 **** Bullish Week Example
-
 **** Monday sweeps previous week’s low.
-
 **** Wednesday breaks up with displacement.
-
 **** Retrace to OB/FVG → Long into Thursday.
-
-
 * Criterion to determine bias
 => Nice — below is a practical, step-by-step workflow you can run on any chart to determine bias using the ICT idea that opposite-color candles become support/resistance (i.e. order blocks). Follow this exactly on your chart and you’ll get consistent, repeatable reads.
-
 **  Pick your timeframes
-
 *** Higher timeframe (HTF) = trend anchor (4H / Daily).
-
 *** Lower timeframe (LTF) = entries and order-block validation (1H / 15m).
 *** Always require HTF and LTF alignment: if HTF is bullish, prefer bullish setups on LTF.
-
 **  Define the current structure (swing high / swing low)
-
 *** Mark the most recent swing high and most recent swing low on the HTF.
-
 *** Ask: did structure break to new highs (higher highs / higher lows) or new lows (lower lows / lower highs)? That tells you the initial directional tilt.
-
 **  Measure candle-color dominance (quick bias heuristic)
-
 *** On the swing (from swing low → swing high or vice versa), count the closes of the candles:
-
 *** If majority are up-close candles (close > open) → bullish tilt.
-
 *** If majority are down-close candles (close < open) → bearish tilt.
-
 *** Give extra weight if those same-direction candles have bigger bodies and break structure (displacement).
-
 *** Rule of thumb: majority over the last 8–12 candles in the swing; if 60%+ same color and structure is in that direction, bias leans that way.
-
 **  Identify the opposite-color candles (the order blocks)
-
 *** In a bullish swing: find the last down-close candle(s) immediately before the strong bullish displacement. That is a bullish Order Block (OB) — mark the full range (high → low) of that candle (or cluster if multiple).
-
 *** In a bearish swing: find the last up-close candle(s) immediately before the strong bearish displacement. That is a bearish OB — mark its full range.
-
 *** Prefer clean single-candle OBs (no overlap by later candles). If there is a cluster of 2–3 opposite candles before the run, you can mark the cluster as the zone.
-
 **  Mark nearby Fair Value Gaps (FVGs) & liquidity
-
 *** Draw any FVGs left by the displacement — these are additional magnet zones.
-
 *** Mark obvious liquidity above old highs and below old lows (these explain temporary violations).
-
 **  The validation test — what “shouldn’t be violated” means
-
 *** Bullish scenario: price retraces into the down-close OB/FVG. The low created as it rebalances (the retracement low inside the OB/FVG) should not be closed below by price if bias remains bullish. If price closes below that low with meaningful displacement, the bullish bias is suspect/invalid.
-
 *** Bearish scenario: price retraces into the up-close OB/FVG. The high formed in that rebalance should not be closed above by price if bias remains bearish. A clean close above that high invalidates the bearish bias.
-
 *** In short: the retracement high (for bearish reads) or retracement low (for bullish reads) is the “line in the sand.”
-
 **  How to watch for acceptable exceptions (liquidity grabs)
-
 *** A temporary violation of the OB is allowed if:
-
 *** It’s a quick wick / spike that reaches a nearby swing high/low to grab stops, and
-
 *** Price reclaims the OB quickly (e.g., within a few candles and without a strong follow-through that breaks structure).
-
 *** If the violation is followed by continued closes beyond the OB and structure breaks, treat it as bias invalidation.
-
 ** Entries, stops, and confirmation rules
-
 *** Entry (bullish): wait for price to retrace into the bullish OB/FVG and show a bullish rejection candle (e.g., bullish engulf, strong close back above OB, or long lower wick + bullish close). Place entry on the close above the confirmation candle or on a break of its high.
-
 *** Stop: below the OB low (or below nearby swing low for extra safety).
-
 *** Take profit: target next structure level / liquidity pool / measured move. Aim for sensible R:R (≥1.5–2:1).
-
 *** Mirror these for bearish trades (entry on bearish confirmation, stop above OB high).
-
 ** Invalidation & what to do when OBs fail
-
 *** If a marked OB is overlapped / closed through by price (a full candle close beyond the OB) → immediately reassess:
-
 *** Do not add to the trade; consider bias neutral until a new clean OB + displacement forms.
-
 *** If multiple OBs fail on the same side, flip bias or wait for HTF confirmation.
-
 ** Quick practical checklist (use this every trade)
-
 *** HTF trend: Bull / Bear / Neutral?
-
 *** Structure: Higher highs / Lower lows?
-
 *** Candle-color dominance in the swing (majority up/down closes)?
-
 *** Mark opposite-color OB(s) + FVGs.
-
 *** Is price retracing into OB during a killzone or session of interest? (optional)
-
 *** Look for confirmation candle inside/after OB.
-
 *** Entry, stop, TP set.
-
 *** If OB is violated by full close → stop/stand aside.
-
 *** Example (concrete)
-
 *** HTF 4H shows higher highs → HTF bullish.
-
 *** On 1H swing from 1.0900 → 1.1050: 9 of 12 candles closed bullish → bullish dominance.
-
 *** Identify the last down-close candle before the big push 1.0980–1.0990 → mark that as bullish OB (range 1.0985–1.0975).
-
 *** Price retraces to 1.0980 (inside OB) and produces a long lower wick candle that closes bullish → enter long on close above that wick’s high; stop = 1.0970 (below OB).
-
 *** If price had closed decisively below 1.0975 (OB low) → invalidate bullish bias and stand aside.
-
 *** Do’s & Don’ts (fast)
-
 *** Do require a full candle close to confirm OB invalidation — don’t react to wicks only.
-
 *** Do use HTF alignment — LTF signals are stronger when HTF agrees.
-
 *** Don’t assume a single opposite candle is always enough — context matters (swing length, nearby liquidity).
-
 *** Don’t trade broken setups; waiting for a clean OB + confirmation reduces drawdowns.
 * Trading FVG
 ** Bearish FVG Setup
-
 *** Imagine you have 3 candles in a bearish move:
-
 *** Candle 1 → large down close.
-
 *** Candle 2 → continuation down.
-
 *** Candle 3 → follows through.
-
 *** The FVG is between:
-
 **** High of Candle 3 and
-
 **** Low of Candle 1.
-
 **** Entry (short) → when price retraces back into the FVG.
-
 **** Stop loss placement (ICT rule):
-
 **** Conservatively → above the open of Candle 2.
-
 **** More aggressive → above the open of Candle 1.
-
 **** Reason: If price trades above those levels, the imbalance is “invalidated” (market may not be bearish anymore).
-
 ** Bullish FVG Setup
-
 *** In a bullish move:
-
 *** Candle 1 → large up close.
-
 *** Candle 2 → continuation up.
-
 *** Candle 3 → follows through.
-
 *** The FVG is between:
-
 **** Low of Candle 3 and
-
 **** High of Candle 1.
-
 **** Entry (long) → ICT often teaches to place entry at the close of Candle 1 (the origin of the move); buy on discount and sell on premium.
-
 **** Stop loss placement → below the low of Candle 2 (sometimes Candle 1 depending on risk tolerance).
-
 **** Reason: If the market is truly bullish, price should respect the origin of the move (Candle 1 close) and not break significantly below it.
-
 *** Intuition (why this works)
-
 **** FVGs are footprints of institutional buying/selling.
-
 **** When price comes back to “rebalance,” you are basically entering with the institutions.
-
 **** Stops are placed just beyond the point where the imbalance would no longer make sense.
-
 ** Rule of thumb from ICT:
-
 *** Bearish → sell from FVG retrace, stop above the Candle 2 open (sell on premium)
-
 *** Bullish → buy from FVG retrace, entry at Candle 1 close, stop below Candle 2 low (buy on discount)
-
 * Build Bias: ICT London Session Judas Swing Model (Bearish Bias)
 ** Define the Previous Day’s Range
-
 *** Draw a rectangle covering the high and low of the previous day.
-
 **** Example:
-
 **** High = 100
-
 **** Low = 20
-
 **** Range = 80 points/pips
-
 ** Mark the Opening Price (Anchor Point)
-
 *** At 2:00 AM New York time (London open), mark the opening price.
-
 *** That first 1-minute candle open is a key reference.
-
 ** Establish Context
-
 *** If today’s opening price is below the previous day’s low (20 in the example) → bias is bearish.
-
 *** This signals potential continuation lower, but ICT teaches: London usually runs liquidity first.
-
 ** Identify Liquidity Targets in Yesterday’s Range
-
 *** Look inside yesterday’s range (20–100).
-
 *** Find:
-
 **** Equal highs
-
 **** Or a single obvious high, especially if it’s in the lower 1/3 or 1/4 of the range.
-
 **** These are pools of buy stops that institutions may target.
-
 **  Anticipate the Judas Swing (False Move)
-
 *** Around London open, expect price to:
-
 *** Run above those equal/single highs (grab liquidity).
-
 *** Then quickly reverse back down into bearish order flow.
-
 *** Do not react impulsively to this spike. Expect it, let it happen.
-
 ** Trade Application
-
 *** Aggressive scalpers: may buy the run up into the liquidity (but must be nimble — exit fast).
-
 *** Higher-probability ICT model:
-
 **** Wait for the Judas swing to finish.
-
 **** Look for confirmation to short once price rejects above those highs.
-
 **** Entry comes on retrace (OB/FVG), stop above Judas swing high, targeting liquidity lower.
-
 ** The Key Principle
-
 *** London creates false breakouts.
-
 *** They’re not “real breakouts” but engineered liquidity grabs.
-
 *** Your job: wait for the trap → trade the reversal in line with bias.
-
 ** Formula in plain words:
 *** If the day opens below yesterday’s low and you are bearish, then inside yesterday’s range look for highs (equal or single) in the lower portion. Around 2:00 AM NY time, anticipate price will run up into those highs (the Judas swing) and then reverse down.
-
 * Pullback and inducement
-
 ** Pullback (General Idea)
-
 *** A pullback is a temporary move against the dominant trend:
-
 *** In a bullish market, the pullback is a move downward (retracement before price continues up).
-
 *** In a bearish market, the pullback is a move upward (retracement before price continues down).
-
 *** So it’s not a reversal—it’s just the market taking “a breath” before continuing.
-
 ** Valid Pullback
-
 *** Not every little wick or pause is a real pullback. To be considered valid, it must show that liquidity has been taken or structure has been confirmed.
-
 *** Bullish Market: For a pullback to be valid, the low of the highest candle must be broken (swept).
-
 *** Bearish Market: For a pullback to be valid, the high of the lowest candle must be broken (swept).
-
 *** The “validation” comes from liquidity being taken (stop hunts at previous candle high/low) or a candle close beyond that level.
-
 *** Important: You don’t need the immediate next candle to do this. The confirmation can come a few candles later, as long as the prior high/low is eventually taken.
-
 ** Inducement
-
 *** Inducement means the market is “tricking” traders into entering early before the real move.
-
 *** In bullish conditions: price may start to dip, forming what looks like a pullback, but hasn’t swept the required low of the highest candle yet. Traders jump in too early, thinking it’s already a pullback. The market then goes lower to induce liquidity, sweeping those premature buyers’ stops, validating the pullback, and then the real continuation begins.
-
 *** So: Inducement = false start / liquidity trap.
-
 *** Valid pullback = after liquidity sweep or structural break.
-
 ** In simple terms:
-
 *** A pullback is just price going against the main trend.
-
 *** A valid pullback must sweep liquidity (previous high/low of the swing candle) or close beyond it.
-
 *** Inducement is when price fakes a pullback before sweeping the real liquidity and making a true one.
-
 * Mastering Daily Candle Bias
 ** Core Idea
-
 *** Price often seeks liquidity, which usually sits around previous highs and lows (stop losses, pending orders, trapped traders). The market tends to “draw” toward these levels.
 *** You’re defining rules for bias (bullish/bearish) based on how the current daily candle interacts with the previous day’s high and low.
-
 ** Sell Bias – Sweep Previous High, Close Below It
-
 *** Condition: Current daily candle trades above the previous daily high (liquidity grab), but closes below that high.
-
 *** Meaning: Buyers who entered on breakout are trapped, and liquidity above the high has been collected.
-
 *** Expectation: Next liquidity draw is to the previous daily low (downward bias).
-
 ** Buy Bias – Close Above Previous High
-
 *** Condition: Current daily candle closes above the previous daily high.
-
 *** Meaning: Market shows strength and continuation after breaking resistance.
-
 *** Expectation: Next liquidity draw is to the previous daily high (bullish continuation).
-
 ** Sell Bias – Close Below Previous Low
-
 *** Condition: Current daily candle closes below the previous daily low.
-
 *** Meaning: Market shows weakness and continuation after breaking support.
-
 *** Expectation: Next liquidity draw is to the previous daily low (bearish continuation).
-
 ** Buy Bias – Sweep Previous Low, Close Above It
-
 *** Condition: Current daily candle trades below the previous daily low (liquidity grab), but closes above that low.
-
 *** Meaning: Sellers who entered on breakdown are trapped, and liquidity below the low has been collected.
-
 *** Expectation: Next liquidity draw is to the previous daily high (upward bias).
-
 ** Simplified Framework
-
 *** Sweep but close back inside → Reversal bias
-
 *** Break and close outside → Continuation bias
-
 * ICT Wick Grading Points
-
 ** Close (Starting/Ending Point): This is the price level where the real body of the candlestick ends and the wick begins.
-
 => For an upper wick, it's the top of the body; for a lower wick, it's the bottom of the body. It marks the boundary of the price that was sustained by the majority of the session's action.
-
 ** Lower Quadrant (25% Mark): This is the level that represents 25% of the total wick range, measured starting from the Close toward the extreme High/Low.
-
 => It's the first quarter of the wick. A strong reversal (rejection) will often only retrace into this first quadrant before continuing its move away from the wick's extreme.
-
 ** Consequent Encroachment (C.E.) - Half Way Point (50% Mark): The Consequent Encroachment (C.E.) is the 50% midpoint of the entire wick.
-
 => In ICT, the C.E. of any significant price range (like a wick or a Fair Value Gap) is a highly significant institutional reference point. It is often where price is expected to react or reverse upon a future retest.
-
 => If price retests the wick and is strongly rejected at or before the C.E., it suggests the original move (that formed the wick) has strong directional conviction. A move beyond the C.E. is often viewed as a sign of weakness in the original directional bias.
-
 ** Upper Quadrant (75% Mark): This is the level that represents 75% of the total wick range, measured starting from the Close toward the extreme High/Low.
-
 => This is the final quarter of the wick before the extreme. If price retests the wick and reaches this level, it suggests that the rejection that created the wick was relatively weak, or that the market is attempting to completely "fill" the void left by the wick.
-
 ** High / Low (Extreme Point): This is the absolute peak or trough of the price movement during the candle's duration.
-
 => It represents the final point of liquidity or "stop-loss cluster" that was likely targeted by the market makers before the strong reversal (rejection) occurred. If price trades through this point, the initial wick is considered fully violated and its significance as a reference point is lost.
-
 ** Wick Context: Premium vs. Discount: This grading system is particularly relevant when the wick is analyzed within the context of the larger price range:
-
 *** Premium Wick (Upper Wick): A long upper wick formed when the price is in a Premium Zone (typically the upper 50% of a swing move). The wick represents a push higher to grab Buy-Side Liquidity before a move lower. You grade the upper wick's range to find potential entry or stop-loss refinement points for a short trade.
-
 ** Discount Wick (Lower Wick): A long lower wick formed when the price is in a Discount Zone (typically the lower 50% of a swing move). The wick represents a push lower to grab Sell-Side Liquidity before a move higher. You grade the lower wick's range to find potential entry or stop-loss refinement points for a long trade.
-
 *** In summary, the grading system provides a precise way to measure and anticipate price reaction to the liquidity void left behind by a significant wick, with the Consequent Encroachment (50%) being the most critical level to monitor for a reaction.
-
 ** The Role of HTF Wicks in LTF Trading
 *** Higher Timeframe Wick: Context and Liquidity
 **** A long wick on an HTF candle (e.g., Daily) signifies a decisive move by institutional traders, often referred to as a Liquidity Sweep or Stop Hunt.
-
 **** The Wick's Extreme (High/Low): This is the area where the "Smart Money" likely swept stop-loss orders or pending entries before reversing the price. It marks a critical boundary that the market failed to sustain.
-
 **** The Wick's Graded Levels (C.E., Quadrants): By grading the wick (finding the 25%, Consequent Encroachment (C.E.) at 50%, and 75% levels), you are marking institutional reference points that price is likely to react to upon a future retest.
-
 *** Lower Timeframe Trading: Entry and Confirmation
 **** When the price later returns to the area of this significant HTF wick, you drop down to your LTF (e.g., 1-Minute) to watch for an entry setup.
-
 **** HTF Wick Component	LTF Interpretation and Use
 **** HTF Wick (Entire Area)	Becomes your Target Zone or Entry Zone.
 **** Consequent Encroachment (C.E.) of the Wick	This is your High-Probability Entry Level. You wait for the price to trade to or near the C.E. on the LTF.
 **** Price Action at the C.E.	You look for a Change in the LTF Market Structure (e.g., a break of a local low/high, formation of a Fair Value Gap, or an Order Block) to confirm the HTF directional bias is now active on the LTF.
-
 ****** Example Scenario (Bullish Reversal)
-
 ******   HTF (Daily): A Discount Wick (long lower wick) forms on the Daily chart, suggesting price was rejected from a cheap/discounted price level after sweeping sell-side liquidity.
-
 ****** LTF (1-Minute): The market starts moving back up, but then begins a small retracement. You mark the C.E. (50% point) of the Daily wick.
-
 ****** The Trade: When the price on the 1-Minute chart trades back down into the area around the Daily wick's C.E., you look for a tiny Market Structure Shift (e.g., a break of the most recent high on the 1-Minute chart) to confirm institutional buying is resuming. You enter the long trade with a tight stop-loss below the C.E. or the wick's low.
-
 ****** In short, the Daily wick gives you the conviction and the key levels, while the 1-Minute chart gives you the precision entry and risk management.
-
 * London and New York Continuation and Reversals
 ** New York Continuation (Most Common)
 *** This is the most frequent scenario where the New York Open confirms and continues the direction established by London.
-
 *** London's Action (Your understanding): Price goes up to sweep liquidity/stop losses (the "Judas Swing") above the Asian session high, then distributes down for the main move.
-
 *** New York's Action (Continuation): Price will often retrace back up during the New York Open (specifically the New York Kill Zone, roughly 7:00 AM – 9:00 AM ET) to a key institutional level like a Fair Value Gap (FVG), an Order Block, or the Optimal Trade Entry (OTE) of the London move.
-
 *** The Move: Once the retracement hits this point (the manipulation of the New York session), it then continues the distribution from the London session and drops lower to target the day's main objective (e.g., sell-side liquidity).
-
 *** Pattern: Up (Retracement/Manipulation) → Down (Continuation).
-
 ** New York Reversal (Less Common)
 *** This happens when the New York Open reverses the main directional move of the London session. This often occurs when the London move itself was the manipulation.
-
 *** London's Action: Price goes up to sweep liquidity (manipulation) then begins to distribute down, but this downward move fails to achieve a major objective and runs into a Higher Timeframe (HTF) level (like a Daily/Weekly Order Block or FVG) right before New York opens.
-
 *** New York's Action (Reversal): The New York Open will often make a final push down to clear liquidity below the London Low or run into that HTF level (the manipulation of the New York session).
-
 *** The Move: After clearing that final low, price immediately reverses and rallies strongly up, effectively reversing the entire London move and closing the high-to-low range of the day.
-
 *** Pattern: Down (Final Liquidity Sweep/Manipulation) → Up (Reversal).
-
 *** In summary, the New York Open always involves a manipulative move (a liquidity grab or a deep retracement into an imbalance) before the final, larger distribution move for the session. The HTF bias and the overall Daily Profile are what determine whether that final move is a continuation or a reversal.
-
 * 01/10/2025
 ** "Mohawk"
-
 *** In the context of ICT trading (Inner Circle Trader), a "Mohawk" generally refers to a specific type of price action that is considered a slight deviation or an allowance for a small false move outside of a key anticipated price level or area.
-
 *** Here's a breakdown based on the common usage within the ICT community:
-
 **** A Small Deviation: It's used to describe a price movement that momentarily pushes just outside the boundary of an area a trader is watching (like an order block or a volume imbalance), but then quickly reverses.
-
 **** Candlestick Appearance: On a lower timeframe chart (e.g., a one-minute chart), this move might look like a few small candle bodies pushing out. However, when viewed on a slightly higher timeframe (e.g., a five-minute chart), this price action often consolidates into just a long wick or "shadow" on a single candle, with the body closing back within the anticipated range.
-
 **** Liquidity Grab: It often represents a very quick liquidity grab or a "stop hunt" by large institutional players (the "smart money") that runs slightly past a previous high or low to trigger stop-loss orders before the price reverses and continues in the expected direction.
-
 **** Trader Expectation: The concept suggests that a skilled ICT trader should anticipate and allow for this slight "Mohawk" move without being stopped out or losing confidence in their trade idea, understanding that a perfect reversal right at the line is rare.
-
 **** In essence, the term "Mohawk" helps describe a type of brief, manipulative excursion of price that is common in the market, often resulting in a noticeable wick on a higher-timeframe chart, and it's something ICT traders factor into their entry and stop-loss placement.
-
 ** Previous Day High and Low
 *** Liquidity Pools (The "Draw on Liquidity")
 **** In the ICT framework, price is drawn to areas where large amounts of buy and sell orders are clustered. The PDH and PDL are prime examples of this:
 **** PDH (Buy-Side Liquidity): A large number of buy-stop orders (from short sellers wanting to limit their loss) and buy-limit orders (from breakout traders) are placed just above the previous day's high. Price is often drawn to this level to "sweep" or "run" that liquidity.
 **** PDL (Sell-Side Liquidity): A large number of sell-stop orders (from long buyers wanting to limit their loss) and sell-limit orders (from breakout traders) are placed just below the previous day's low. Price is often drawn to this level to "sweep" or "run" that liquidity.
 **** The institutional traders ("Smart Money") need this clustered liquidity to fill their massive orders without moving the price against themselves. Therefore, price movements during the day are often framed around reaching and clearing one of these two external liquidity targets.
-
 *** Determining Intraday Bias
 **** The market's reaction to the PDH and PDL provides a strong indication of the current day's directional bias:
 **** Bullish Bias: If price sweeps the PDL and then quickly reverses and closes back inside the previous day's range, it suggests the sell-side liquidity was taken to fuel a move higher. The low has been put in.
 **** Bearish Bias: If price sweeps the PDH and then quickly reverses and closes back inside the previous day's range, it suggests the buy-side liquidity was taken to fuel a move lower. The high has been put in.
 **** Continuation Bias: If price breaks and holds convincingly above the PDH or below the PDL, it signals a strong trending day is likely underway, and the previously broken level will often act as the first area of support/resistance on a pullback.
-
 *** High/Low of the Day Formation
-
 **** According to ICT principles, the high or low of the day is often formed immediately after one of the major liquidity pools (like the PDH or PDL) is run, particularly during key Kill Zones (like the London Open or New York Open).
 **** The Hunt: Institutions will push price to the PDH or PDL (a "liquidity hunt").
 **** The Reversal: Once the stops are cleared, they often execute their true directional trade, causing a sharp reversal. This reversal point, which is just beyond the previous day's extreme, then becomes the high or low of the current trading day.
