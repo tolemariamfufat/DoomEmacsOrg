@@ -117,6 +117,9 @@
 - [[#london-and-new-york-continuation-and-reversals][London and New York Continuation and Reversals]]
   - [[#new-york-continuation-most-common][New York Continuation (Most Common)]]
   - [[#new-york-reversal-less-common][New York Reversal (Less Common)]]
+- [[#01102025][01/10/2025]]
+  - [[#mohawk]["Mohawk"]]
+  - [[#previous-day-high-and-low][Previous Day High and Low]]
 
 * PD Array
 ** Bearish Pd Array Matrix
@@ -1014,3 +1017,42 @@ Reversal or continuation into close.
 *** Pattern: Down (Final Liquidity Sweep/Manipulation) → Up (Reversal).
 
 *** In summary, the New York Open always involves a manipulative move (a liquidity grab or a deep retracement into an imbalance) before the final, larger distribution move for the session. The HTF bias and the overall Daily Profile are what determine whether that final move is a continuation or a reversal.
+
+* 01/10/2025
+** "Mohawk"
+
+*** In the context of ICT trading (Inner Circle Trader), a "Mohawk" generally refers to a specific type of price action that is considered a slight deviation or an allowance for a small false move outside of a key anticipated price level or area.
+
+*** Here's a breakdown based on the common usage within the ICT community:
+
+**** A Small Deviation: It's used to describe a price movement that momentarily pushes just outside the boundary of an area a trader is watching (like an order block or a volume imbalance), but then quickly reverses.
+
+**** Candlestick Appearance: On a lower timeframe chart (e.g., a one-minute chart), this move might look like a few small candle bodies pushing out. However, when viewed on a slightly higher timeframe (e.g., a five-minute chart), this price action often consolidates into just a long wick or "shadow" on a single candle, with the body closing back within the anticipated range.
+
+**** Liquidity Grab: It often represents a very quick liquidity grab or a "stop hunt" by large institutional players (the "smart money") that runs slightly past a previous high or low to trigger stop-loss orders before the price reverses and continues in the expected direction.
+
+**** Trader Expectation: The concept suggests that a skilled ICT trader should anticipate and allow for this slight "Mohawk" move without being stopped out or losing confidence in their trade idea, understanding that a perfect reversal right at the line is rare.
+
+**** In essence, the term "Mohawk" helps describe a type of brief, manipulative excursion of price that is common in the market, often resulting in a noticeable wick on a higher-timeframe chart, and it's something ICT traders factor into their entry and stop-loss placement.
+
+** Previous Day High and Low
+*** Liquidity Pools (The "Draw on Liquidity")
+**** In the ICT framework, price is drawn to areas where large amounts of buy and sell orders are clustered. The PDH and PDL are prime examples of this:
+**** PDH (Buy-Side Liquidity): A large number of buy-stop orders (from short sellers wanting to limit their loss) and buy-limit orders (from breakout traders) are placed just above the previous day's high. Price is often drawn to this level to "sweep" or "run" that liquidity.
+**** PDL (Sell-Side Liquidity): A large number of sell-stop orders (from long buyers wanting to limit their loss) and sell-limit orders (from breakout traders) are placed just below the previous day's low. Price is often drawn to this level to "sweep" or "run" that liquidity.
+**** The institutional traders ("Smart Money") need this clustered liquidity to fill their massive orders without moving the price against themselves. Therefore, price movements during the day are often framed around reaching and clearing one of these two external liquidity targets.
+
+*** Determining Intraday Bias
+**** The market's reaction to the PDH and PDL provides a strong indication of the current day's directional bias:
+**** Bullish Bias: If price sweeps the PDL and then quickly reverses and closes back inside the previous day's range, it suggests the sell-side liquidity was taken to fuel a move higher. The low has been put in.
+**** Bearish Bias: If price sweeps the PDH and then quickly reverses and closes back inside the previous day's range, it suggests the buy-side liquidity was taken to fuel a move lower. The high has been put in.
+**** Continuation Bias: If price breaks and holds convincingly above the PDH or below the PDL, it signals a strong trending day is likely underway, and the previously broken level will often act as the first area of support/resistance on a pullback.
+
+*** High/Low of the Day Formation
+
+**** According to ICT principles, the high or low of the day is often formed immediately after one of the major liquidity pools (like the PDH or PDL) is run, particularly during key Kill Zones (like the London Open or New York Open).
+**** The Hunt: Institutions will push price to the PDH or PDL (a "liquidity hunt").
+**** The Reversal: Once the stops are cleared, they often execute their true directional trade, causing a sharp reversal. This reversal point, which is just beyond the previous day's extreme, then becomes the high or low of the current trading day.
+**** By marking the PDH and PDL, an ICT trader is essentially identifying the two most likely targets for institutional manipulation and the most probable candidates for the eventual high or low of the day.
+
+
