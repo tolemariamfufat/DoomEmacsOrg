@@ -23,6 +23,7 @@
 - [[#london-and-new-york-continuation-and-reversals][London and New York Continuation and Reversals]]
 - [[#mohawk]["Mohawk"]]
 - [[#previous-day-high-and-low][Previous Day High and Low]]
+- [[#ict-change-in-the-state-of-delivery-cisd][ICT Change in the State of Delivery (CISD)]]
 
 * PD Array
 ** Bearish Pd Array Matrix
@@ -525,5 +526,23 @@ Reversal or continuation into close.
 *** The Hunt: Institutions will push price to the PDH or PDL (a "liquidity hunt").
 *** The Reversal: Once the stops are cleared, they often execute their true directional trade, causing a sharp reversal. This reversal point, which is just beyond the previous day's extreme, then becomes the high or low of the current trading day.
 *** By marking the PDH and PDL, an ICT trader is essentially identifying the two most likely targets for institutional manipulation and the most probable candidates for the eventual high or low of the day.
-
-
+* ICT Change in the State of Delivery (CISD)
+** Bullish Candle Sweeps Liquidity (The Trap)
+*** Event: "In bullish order block, if the last of the three candles sweep on liquidity..."
+*** Last Candle: This is the last up-close (bullish/green) candle in the series, which is the potential Bearish Order Block candidate.
+*** Sweep Liquidity: This candle pushes price above a previous high, a process often referred to as a Buy-Side Liquidity (BSL) Sweep or "Stop Hunt."
+*** Institutional Action: Smart Money/institutions push the price just high enough to trigger the stop-loss orders of existing short traders and the buy-stop orders of breakout traders.
+*** This executed liquidity provides the smart money with the necessary large volume of contracts to take their new short (sell) positions. This move completes the buying phase of their plan.
+** The Change in the State of Delivery (The Confirmation)
+*** Event: "...and the next candle moves below the open of the previous high candle, the market starts delivering sell side price."
+*** The Next Candle: This is a down-close (bearish/red) candle that immediately follows the liquidity-sweeping candle.
+*** Moves Below the Open: This bearish candle trades (and ideally closes) below the open of the previous bullish candle (the one that swept liquidity).
+*** This specific price action—a move below the open of the last up-close candle—is the Change in the State of Delivery (CISD).
+*** The last bullish candle was the "support" for the current buying campaign. By moving below its open, the market has symbolically invalidated that support.
+*** It signifies that the aggressive selling from institutions (who just absorbed the liquidity from the sweep) is now overpowering the prior buying pressure.
+** The Result: Sell-Side Price Delivery
+*** Once the CISD is confirmed, the market is now in a sell-side delivery state.
+*** The Bearish Order Block (B-OB): The last up-close candle that swept liquidity is now validated as a Bearish Order Block. This candle represents the point where significant institutional selling was injected into the market.
+*** New Delivery State: The market's internal bias has flipped. Price is expected to continue moving lower as the algorithm is now programmed to deliver price more efficiently to the Sell-Side of the curve (i.e., lower prices) until it reaches the next major liquidity target or imbalance (like a Fair Value Gap or an opposing Order Block).
+*** Trading Implication: Traders using this concept would now look to sell (go short) when the price retraces back up to test the high-probability Bearish Order Block or the imbalance left by the initial move down.
+** Enter on FVG that overlaps with the low of order block on sell delivery and on the high of previous order block on buy side delivery.

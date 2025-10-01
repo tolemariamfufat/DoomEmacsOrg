@@ -76,6 +76,12 @@
 - [[#3092025][30/9/2025]]
   - [[#be-long][Be long]]
   - [[#ahead-of-time][Ahead of time]]
+- [[#01102025][01/10/2025]]
+  - [[#mourning-house-lekso-bet][Mourning house (lekso bet)]]
+  - [[#my-deepest-condolence-to-you-and-your-family][My deepest condolence to you and your family]]
+  - [[#burial][Burial]]
+  - [[#funeral][Funeral]]
+  - [[#grief][Grief]]
 
 * 8/17/2025
 ** Retreat (suba'e)
@@ -236,4 +242,9 @@
 ** Ahead of time
 *** Call me ahead of time
 *** I will tell you ahead of time
-
+* 01/10/2025
+** Mourning house (lekso bet)
+** My deepest condolence to you and your family
+** Burial
+** Funeral
+** Grief
