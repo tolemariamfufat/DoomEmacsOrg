@@ -27,6 +27,7 @@
 - [[#mean-threshold][Mean Threshold]]
 - [[#consequent-encroachment-ce][Consequent Encroachment (CE)]]
 - [[#equilibrium][Equilibrium]]
+- [[#regular-trading-hour-rth-and-electronic-trading-hour-eth][Regular Trading Hour (RTH) and Electronic Trading Hour (ETH)]]
 
 * PD Array
 ** Bearish Pd Array Matrix
@@ -610,3 +611,17 @@ Reversal or continuation into close.
 *** Equilibrium is applied to specific institutional price structures:
 *** Optimal Trade Entry (OTE): The OTE (usually the 62%, 70.5%, or 79% Fibonacci levels) exists in the Discount (for buys) or Premium (for sells) zone, just beyond the Equilibrium. Traders wait for price to penetrate the 50% level and enter the deeper OTE zone for the highest probability entries.
 *** Mean Threshold (MT) / Consequent Encroachment (CE): These are essentially the Equilibrium (50%) of an Order Block or a Fair Value Gap (FVG), respectively. They are used as precise confirmation levels to gauge the strength of the institutional block or gap. If price closes past the 50% mark of these zones, it often invalidates the expected reaction.
+* Regular Trading Hour (RTH) and Electronic Trading Hour (ETH)
+** This is the primary US session. You will see high volume, tighter spreads, and the most significant price moves, especially when major economic news is released.
+** ETH (Extended/Electronic Trading Hours) is the overnight, Asian, and European sessions. You will generally see lower volume, wider spreads, and choppy or quiet price action. Volatility can spike briefly, especially after major Asian or European news.
+*** The price movement during the period outside of RTH—specifically from 4:00 PM (16:00) ET to 9:30 AM ET the next day—is what creates the potential RTH gap.
+*** RTH open at 9:30 ET with opening price of the high-volume cash market. 
+*** RTH Close at 4:00 PM ET; The closing price of the high-volume cash market session.
+*** ETH/Overnight Session from 4:00 PM ET to 9:30 AM ET; The low-volume trading that occurs while the cash market is closed. Price discovery here is "less liquid."
+** The gap is the difference between the RTH Close (4:00 PM) and the RTH Open (9:30 AM)
+** The Role of RTH Price Action
+*** Re-testing/Filling ETH Gaps: The ETH gap represents a low-volume, potentially inefficient move. When the high-volume RTH opens, the market may see the gap area as a zone of imbalance (or Fair Value Gap/FVG) that needs to be traded through or "filled" to achieve greater efficiency before continuing the original move. This is a key trading principle for many strategies.
+*** Addressing Liquidity Pools: Liquidity pools (often located just above significant swing highs/double tops or below significant swing lows/double bottoms) represent concentrated resting orders (stop-losses or pending orders). RTH price action is frequently driven by large institutions looking to "sweep" or "run" these liquidity pools to fuel their own large entries or exits.
+*** Reacting to News of the Day: Economic data releases (e.g., CPI, FOMC minutes, NFP), earnings reports, and geopolitical events are typically released either before the RTH open or during the RTH session. These announcements are the primary fundamental catalysts that provide the necessary energy and institutional conviction to drive price through established support/resistance levels and, importantly, confirm or reject the direction of the overnight ETH move.
+*** Imbalances and Fair Value Gaps (FVG): Fair Value Gaps (FVG) and other imbalances are specific footprints of institutional participation. During RTH, the high volume provides the market structure to either immediately close an FVG (an efficient move) or to create a new, larger FVG (a strong directional conviction). The RTH is the most reliable time to trade these institutional concepts.
+*** In essence, the ETH gap sets the stage, while liquidity, fundamental news, and institutional imbalances (FVG) provide the engine and the targets for the ensuing price action during the RTH.
