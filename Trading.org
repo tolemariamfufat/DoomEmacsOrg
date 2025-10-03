@@ -28,6 +28,7 @@
 - [[#consequent-encroachment-ce][Consequent Encroachment (CE)]]
 - [[#equilibrium][Equilibrium]]
 - [[#regular-trading-hour-rth-and-electronic-trading-hour-eth][Regular Trading Hour (RTH) and Electronic Trading Hour (ETH)]]
+- [[#ict-one-trade-setup-for-life-liquidity-based-outline][ICT One Trade Setup for Life (Liquidity-Based Outline)]]
 
 * PD Array
 ** Bearish Pd Array Matrix
@@ -625,3 +626,47 @@ Reversal or continuation into close.
 *** Reacting to News of the Day: Economic data releases (e.g., CPI, FOMC minutes, NFP), earnings reports, and geopolitical events are typically released either before the RTH open or during the RTH session. These announcements are the primary fundamental catalysts that provide the necessary energy and institutional conviction to drive price through established support/resistance levels and, importantly, confirm or reject the direction of the overnight ETH move.
 *** Imbalances and Fair Value Gaps (FVG): Fair Value Gaps (FVG) and other imbalances are specific footprints of institutional participation. During RTH, the high volume provides the market structure to either immediately close an FVG (an efficient move) or to create a new, larger FVG (a strong directional conviction). The RTH is the most reliable time to trade these institutional concepts.
 *** In essence, the ETH gap sets the stage, while liquidity, fundamental news, and institutional imbalances (FVG) provide the engine and the targets for the ensuing price action during the RTH.
+* ICT One Trade Setup for Life (Liquidity-Based Outline)
+** Core Principle: Draw on Liquidity
+*** Main driving force of the market: Liquidity.
+*** Two types of liquidity pools:
+**** Sell-Side Liquidity (SSL): Stops resting below old lows, support zones, and session range lows.
+**** Buy-Side Liquidity (BSL): Stops resting above old highs, resistance zones, and session range highs.
+*** Price is constantly seeking these pools, sweeping one side to fuel moves to the opposite side.
+** Daily PM Session Range (1:30–4:00 PM NY Local Time)
+*** Define the range: Highest high and lowest low between 1:30–4:00 PM.
+*** Bullish day logic:
+**** First, target Sell-Side Liquidity (SSL) → sweep the lows.
+**** Then, expand higher toward Buy-Side Liquidity (BSL) → target the highs.
+*** PM range acts as a roadmap for the following trading sessions.
+** London Session Raid (2:00–5:00 AM Local Time)
+*** Identify London session high/low (liquidity zones).
+*** At NY Open (9:30 AM):
+**** If NY open is above London’s BSL, then target London SSL (downside raid).
+**** If NY open is below London’s SSL, then target London BSL (upside raid).
+*** This creates the AM directional bias into RTH.
+** Regular Trading Hours (RTH) (4:14–9:30 AM NY Local Time)
+*** RTH logic revolves around the closing gap (prior day’s close vs. RTH open).
+**** If price opens below closing gap and sweeps Sell-Side Liquidity,
+**** In the afternoon, expect price to rally into Buy-Side Liquidity.
+**** If price opens above closing gap and sweeps Buy-Side Liquidity,
+**** In the afternoon, expect price to fall into Sell-Side Liquidity.
+** New York Lunch Raid (12:00–1:30 PM)
+*** Lunch session is a liquidity trap zone.
+*** Logic:
+**** If price is below SSL, target BSL.
+**** If price is above BSL, target SSL.
+**** Bearish day filter:
+**** Wait for a run up into the Opening Gap.
+**** Hunt Lunch Buy-Side Liquidity, then shift bias toward Sell-Side Liquidity below.
+** AM Session Ranges (9:30 AM–12:00 Noon NY Local Time)
+*** AM session targets the previous high or low of AM or PM ranges.
+*** RTH levels are respected — next day’s price action often raids the prior day’s AM/PM session liquidity.
+*** If AM is choppy or directionless, do not force trades.
+*** Instead, wait for PM session at 1:30 PM for clearer setups.
+** Trade Filtering Logic (One Trade a Day)
+*** London Bias: Define raid direction (BSL or SSL).
+*** NY AM Session: Confirm by sweep + structure shift.
+*** RTH / Lunch / PM Range: Execute on the cleanest liquidity raid that aligns with the higher bias.
+*** Risk Management: Stop beyond raid extreme; target opposite liquidity pool.
+*** Only one trade needed per day if following liquidity path from session to session.
