@@ -673,3 +673,4 @@ Reversal or continuation into close.
 *** Only one trade needed per day if following liquidity path from session to session.
 * Suspension block is an isolated candlestic that algorism letter comes to it.
 ** It is an isolated candlestic which has volume imbalance (fvg) below it and volume imbalance (fvg) above it. 
+----
