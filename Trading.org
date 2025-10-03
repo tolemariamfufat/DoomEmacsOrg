@@ -29,6 +29,7 @@
 - [[#equilibrium][Equilibrium]]
 - [[#regular-trading-hour-rth-and-electronic-trading-hour-eth][Regular Trading Hour (RTH) and Electronic Trading Hour (ETH)]]
 - [[#ict-one-trade-setup-for-life-liquidity-based-outline][ICT One Trade Setup for Life (Liquidity-Based Outline)]]
+- [[#suspension-block-is-an-isolated-candlestic-that-algorism-letter-comes-to-it][Suspension block is an isolated candlestic that algorism letter comes to it.]]
 
 * PD Array
 ** Bearish Pd Array Matrix
@@ -670,3 +671,5 @@ Reversal or continuation into close.
 *** RTH / Lunch / PM Range: Execute on the cleanest liquidity raid that aligns with the higher bias.
 *** Risk Management: Stop beyond raid extreme; target opposite liquidity pool.
 *** Only one trade needed per day if following liquidity path from session to session.
+* Suspension block is an isolated candlestic that algorism letter comes to it.
+** It is an isolated candlestic which has volume imbalance (fvg) below it and volume imbalance (fvg) above it. 
