@@ -41,7 +41,11 @@
 *** Liquidity void
 *** Bearish breaker block
 *** Bearish mitigation block
+*** Suspension Block
+*** Long wicks
 ** Bullish Pd Array Matrix
+*** Long wicks
+*** Suspension Block
 *** Bullish mitigation block
 *** Bullish breaker
 *** Liquidity void
@@ -148,11 +152,22 @@
 *** Target: levels of liquidity (equal highs, equal lows, or imbalance fills).
 *** Divide the move into levels (partials can be taken at each).
 *** Follow strict model → if setup breaks (order flow invalid), do not trade.
-** Core Principle (Foundation)
-**** A setup requires two conditions:
-**** Liquidity run (above highs or below lows).
-**** Displacement + break of short-term structure.
-**** Once both occur, you zoom in, find the FVG, and trade.
+** Core Principle (Foundation): a setup requires two conditions:
+*** Liquidity Run
+***** The market doesn’t move randomly; it seeks liquidity.
+***** Liquidity usually rests above old highs (buy stops) or below old lows (sell stops).
+***** A “liquidity run” means price has reached above a prior high or below a prior low, triggering stop orders.
+*** Displacement + Break of Short-Term Structure
+**** Displacement = a strong, impulsive move in one direction (fast, wide-bodied candles). It shows intent by “smart money.”
+**** After displacement, you want to see a short-term structure break:
+**** If liquidity was swept above highs, you want to see a sharp move down breaking a recent low → bearish setup.
+**** If liquidity was swept below lows, you want to see a sharp move up breaking a recent high → bullish setup.
+**** This structure break confirms the liquidity grab wasn’t just a continuation but the start of a reversal.
+*** Putting It Together
+**** A valid setup = liquidity run + displacement with structure break.
+**** Without the liquidity run → you don’t know where stops were taken.
+**** Without the displacement + BOS → the market hasn’t confirmed intent.
+**** So this “core principle” is basically the foundation for finding high-probability reversals.
 ** Quick Bias Rule (Episode 25)
 *** Bearish = Old high taken → then old low taken.
 *** Bullish = Old low taken → then old high taken.
