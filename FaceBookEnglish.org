@@ -82,6 +82,61 @@
   - [[#burial][Burial]]
   - [[#funeral][Funeral]]
   - [[#grief][Grief]]
+- [[#phrases][Phrases]]
+  - [[#i-am-not-afraid-of-you][I am not afraid of you.]]
+  - [[#do-you-think-i-am-afraid-of-you][Do you think i am afraid of you?]]
+  - [[#i-fear-no-one][I fear no one.]]
+  - [[#you-better-not-mess-with-me-ke-ine-gar-batisafet-yishalal][You better not mess with me (ke ine gar batisafet yishalal)]]
+  - [[#take-care-i-am-gonna-hurt-you][Take care I am gonna hurt you.]]
+  - [[#back-off-natti-hin-siiqin][Back off (natti hin siiqin)]]
+  - [[#get-lost-badi-asii][Get lost (badi asii)]]
+  - [[#step-aside-deem-asii][Step aside (deem asii)]]
+  - [[#you-cannot-fool-a-fooler-gowwaakee-barbaadi][You cannot fool a fooler (gowwaakee barbaadi)]]
+  - [[#i-was-not-born-yesterday-mucaa-na-seete][I was not born yesterday (Mucaa na seete?)]]
+  - [[#you-think-you-are-smart-gamna-tauu-kee-ti][You think you are smart (Gamna ta'uu kee ti?)]]
+  - [[#be-a-man-dhiira-tai][Be a man (Dhiira ta'i)]]
+  - [[#dont-be-soft-hin-laafin][Don't be soft (Hin laafin)]]
+  - [[#tough-enough-jabaadhu][Tough enough (jabaadhu)]]
+  - [[#you-do-not-have-the-gut-garaa-hinqabdu][You do not have the gut (garaa hinqabdu)]]
+  - [[#do-not-be-chiken-heart-hin-boqoboamiin][Do not be chiken heart (hin boqoboamiin)]]
+  - [[#i-wish-i-could-take-back-what-i-said-osoo-akkas-hinjenne-tae][I wish i could take back what i said (Osoo akkas hinjenne ta'e)]]
+  - [[#i-shouldnt-have-listened-to-you-siin-dhagau-hinqabun-ture][I shouldn't have listened to you (siin dhaga'u hinqabun ture)]]
+  - [[#i-never-thought-i-would-end-end-like-this-carraankoo-akka-kanaa-taa-hinseene][I never thought I would end end like this (Carraankoo akka kanaa ta'a hinseene)]]
+  - [[#you-ruined-my-life-jireenya-koo-balleessite][YOu ruined my life (Jireenya koo balleessite)]]
+  - [[#i-hate-the-day-i-met-youguyyaan-siin-waliin-wal-bare-nan-abaaraa][I hate the day i met you(Guyyaan siin waliin wal bare nan abaaraa)]]
+  - [[#what-you-may-call-it-maal-jedhama][What you may call it (maal jedhama?)]]
+  - [[#you-took-the-right-word-out-of-my-moth-afaan-koo-irraa-fudhatte][You took the right word out of my moth (Afaan koo irraa fudhatte)]]
+  - [[#it-is-on-the-tip-of-my-tongue-afaan-koorra-jira][It is on the tip of my tongue (Afaan koorra jira)]]
+  - [[#sorry-slip-of-tongue][Sorry, slip of tongue]]
+  - [[#it-is-difficult-to-take-infudhachuuf-namatti-ulfaata-what-you-may-call-it-maal-jedhama][It is difficult to take in(fudhachuuf namatti ulfaata** What you may call it (maal jedhama?)]]
+  - [[#you-took-the-right-word-out-of-my-moth-afaan-koo-irraa-fudhatte-1][You took the right word out of my moth (Afaan koo irraa fudhatte)]]
+  - [[#it-is-on-the-tip-of-my-tongue-afaan-koorra-jira-1][It is on the tip of my tongue (Afaan koorra jira)]]
+  - [[#sorry-slip-of-tongue-1][Sorry, slip of tongue]]
+  - [[#it-is-difficult-to-take-infudhachuuf-namatti-ulfaat-what-you-may-call-it-maal-jedhama][It is difficult to take in(fudhachuuf namatti ulfaat** What you may call it (maal jedhama?)]]
+  - [[#you-took-the-right-word-out-of-my-moth-afaan-koo-irraa-fudhatte-2][You took the right word out of my moth (Afaan koo irraa fudhatte)]]
+  - [[#it-is-on-the-tip-of-my-tongue-afaan-koorra-jira-2][It is on the tip of my tongue (Afaan koorra jira)]]
+  - [[#sorry-slip-of-tongue-2][Sorry, slip of tongue]]
+  - [[#it-is-difficult-to-take-infudhachuuf-namatti-ulfaat-what-you-may-call-it-maal-jedhama-1][It is difficult to take in(fudhachuuf namatti ulfaat** What you may call it (maal jedhama?)]]
+  - [[#you-took-the-right-word-out-of-my-moth-afaan-koo-irraa-fudhatte-3][You took the right word out of my moth (Afaan koo irraa fudhatte)]]
+  - [[#it-is-on-the-tip-of-my-tongue-afaan-koorra-jira-3][It is on the tip of my tongue (Afaan koorra jira)]]
+  - [[#sorry-slip-of-tongue-3][Sorry, slip of tongue]]
+  - [[#it-is-difficult-to-take-infudhachuuf-namatti-ulfaat-what-you-may-call-it-maal-jedhama-2][It is difficult to take in(fudhachuuf namatti ulfaat** What you may call it (maal jedhama?)]]
+  - [[#you-took-the-right-word-out-of-my-moth-afaan-koo-irraa-fudhatte-4][You took the right word out of my moth (Afaan koo irraa fudhatte)]]
+  - [[#it-is-on-the-tip-of-my-tongue-afaan-koorra-jira-4][It is on the tip of my tongue (Afaan koorra jira)]]
+  - [[#sorry-slip-of-tongue-4][Sorry, slip of tongue]]
+  - [[#it-is-difficult-to-take-infudhachuuf-namatti-ulfaat-what-you-may-call-it-maal-jedhama-3][It is difficult to take in(fudhachuuf namatti ulfaat** What you may call it (maal jedhama?)]]
+  - [[#you-took-the-right-word-out-of-my-moth-afaan-koo-irraa-fudhatte-5][You took the right word out of my moth (Afaan koo irraa fudhatte)]]
+  - [[#it-is-on-the-tip-of-my-tongue-afaan-koorra-jira-5][It is on the tip of my tongue (Afaan koorra jira)]]
+  - [[#sorry-slip-of-tongue-5][Sorry, slip of tongue]]
+  - [[#it-is-difficult-to-take-infudhachuuf-namatti-ulfaat-what-you-may-call-it-maal-jedhama-4][It is difficult to take in(fudhachuuf namatti ulfaat** What you may call it (maal jedhama?)]]
+  - [[#you-took-the-right-word-out-of-my-moth-afaan-koo-irraa-fudhatte-6][You took the right word out of my moth (Afaan koo irraa fudhatte)]]
+  - [[#it-is-on-the-tip-of-my-tongue-afaan-koorra-jira-6][It is on the tip of my tongue (Afaan koorra jira)]]
+  - [[#sorry-slip-of-tongue-6][Sorry, slip of tongue]]
+  - [[#it-is-difficult-to-take-infudhachuuf-namatti-ulfaat-what-you-may-call-it-maal-jedhama-5][It is difficult to take in(fudhachuuf namatti ulfaat** What you may call it (maal jedhama?)]]
+  - [[#you-took-the-right-word-out-of-my-moth-afaan-koo-irraa-fudhatte-7][You took the right word out of my moth (Afaan koo irraa fudhatte)]]
+  - [[#it-is-on-the-tip-of-my-tongue-afaan-koorra-jira-7][It is on the tip of my tongue (Afaan koorra jira)]]
+  - [[#sorry-slip-of-tongue-7][Sorry, slip of tongue]]
+  - [[#it-is-difficult-to-take-infudhachuuf-namatti-ulfaata][It is difficult to take in(fudhachuuf namatti ulfaata)))))))]]
 
 * 8/17/2025
 ** Retreat (suba'e)
@@ -248,3 +303,59 @@
 ** Burial
 ** Funeral
 ** Grief
+04/10/2025
+* Phrases
+** I am not afraid of you.
+** Do you think i am afraid of you?
+** I fear no one.
+** You better not mess with me (ke ine gar batisafet yishalal)
+** Take care I am gonna hurt you.
+** Back off (natti hin siiqin)
+** Get lost (badi asii)
+** Step aside (deem asii)
+** You cannot fool a fooler (gowwaakee barbaadi)
+** I was not born yesterday (Mucaa na seete?)
+** You think you are smart (Gamna ta'uu kee ti?)
+** Be a man (Dhiira ta'i)
+** Don't be soft (Hin laafin)
+** Tough enough (jabaadhu)
+** You do not have the gut (garaa hinqabdu)
+** Do not be chiken heart (hin boqoboamiin)
+** I wish i could take back what i said (Osoo akkas hinjenne ta'e)
+** I shouldn't have listened to you (siin dhaga'u hinqabun ture)
+** I never thought I would end end like this (Carraankoo akka kanaa ta'a hinseene)
+** YOu ruined my life (Jireenya koo balleessite)
+** I hate the day i met you(Guyyaan siin waliin wal bare nan abaaraa)
+** What you may call it (maal jedhama?)
+** You took the right word out of my moth (Afaan koo irraa fudhatte)
+** It is on the tip of my tongue (Afaan koorra jira)
+** Sorry, slip of tongue
+** It is difficult to take in(fudhachuuf namatti ulfaata** What you may call it (maal jedhama?)
+** You took the right word out of my moth (Afaan koo irraa fudhatte)
+** It is on the tip of my tongue (Afaan koorra jira)
+** Sorry, slip of tongue
+** It is difficult to take in(fudhachuuf namatti ulfaat** What you may call it (maal jedhama?)
+** You took the right word out of my moth (Afaan koo irraa fudhatte)
+** It is on the tip of my tongue (Afaan koorra jira)
+** Sorry, slip of tongue
+** It is difficult to take in(fudhachuuf namatti ulfaat** What you may call it (maal jedhama?)
+** You took the right word out of my moth (Afaan koo irraa fudhatte)
+** It is on the tip of my tongue (Afaan koorra jira)
+** Sorry, slip of tongue
+** It is difficult to take in(fudhachuuf namatti ulfaat** What you may call it (maal jedhama?)
+** You took the right word out of my moth (Afaan koo irraa fudhatte)
+** It is on the tip of my tongue (Afaan koorra jira)
+** Sorry, slip of tongue
+** It is difficult to take in(fudhachuuf namatti ulfaat** What you may call it (maal jedhama?)
+** You took the right word out of my moth (Afaan koo irraa fudhatte)
+** It is on the tip of my tongue (Afaan koorra jira)
+** Sorry, slip of tongue
+** It is difficult to take in(fudhachuuf namatti ulfaat** What you may call it (maal jedhama?)
+** You took the right word out of my moth (Afaan koo irraa fudhatte)
+** It is on the tip of my tongue (Afaan koorra jira)
+** Sorry, slip of tongue
+** It is difficult to take in(fudhachuuf namatti ulfaat** What you may call it (maal jedhama?)
+** You took the right word out of my moth (Afaan koo irraa fudhatte)
+** It is on the tip of my tongue (Afaan koorra jira)
+** Sorry, slip of tongue
+** It is difficult to take in(fudhachuuf namatti ulfaata)))))))

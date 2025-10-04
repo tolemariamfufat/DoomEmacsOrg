@@ -1,6 +1,48 @@
-#+title: Trading
 
+#+TITLE: Trading
 * Table of Contents :TOC_1_gh:
+- [[#introduction][Introduction]]
+- [[#strategy][Strategy]]
+- [[#pd-array][PD Array]]
+- [[#ict-market-structure-and-intraweek-reversals][ICT Market Structure and Intraweek Reversals]]
+- [[#institutional-order-flow][Institutional order flow]]
+- [[#ict-setup-model-2022-mentorship][ICT Setup Model (2022 Mentorship)]]
+- [[#ict-counter-trend-context-model][ICT Counter-Trend Context Model]]
+- [[#when-to-buy][When to buy]]
+- [[#narrative-precise-explanation][Narrative (Precise Explanation)]]
+- [[#tgif-setup-ict-concept][T.G.I.F. Setup (ICT Concept)]]
+- [[#time-and-price][Time and Price]]
+- [[#key-to-daily-bias][Key to Daily Bias]]
+- [[#algo][Algo]]
+- [[#london-session-ict-perspective--simplified][London Session (ICT perspective) – Simplified]]
+- [[#ict-price--time-grid-cheat-sheet][ICT Price & Time Grid Cheat Sheet]]
+- [[#criterion-to-determine-bias][Criterion to determine bias]]
+- [[#trading-fvg][Trading FVG]]
+- [[#build-bias-ict-london-session-judas-swing-model-bearish-bias][Build Bias: ICT London Session Judas Swing Model (Bearish Bias)]]
+- [[#pullback-and-inducement][Pullback and inducement]]
+- [[#mastering-daily-candle-bias][Mastering Daily Candle Bias]]
+- [[#ict-wick-grading-points][ICT Wick Grading Points]]
+- [[#london-and-new-york-continuation-and-reversals][London and New York Continuation and Reversals]]
+- [[#mohawk]["Mohawk"]]
+- [[#previous-day-high-and-low][Previous Day High and Low]]
+- [[#ict-change-in-the-state-of-delivery-cisd][ICT Change in the State of Delivery (CISD)]]
+- [[#mean-threshold][Mean Threshold]]
+- [[#consequent-encroachment-ce][Consequent Encroachment (CE)]]
+- [[#equilibrium][Equilibrium]]
+- [[#regular-trading-hour-rth-and-electronic-trading-hour-eth][Regular Trading Hour (RTH) and Electronic Trading Hour (ETH)]]
+- [[#ict-one-trade-setup-for-life-liquidity-based-outline][ICT One Trade Setup for Life (Liquidity-Based Outline)]]
+- [[#suspension-block-is-an-isolated-candlestic-that-algorism-letter-comes-to-it][Suspension block is an isolated candlestic that algorism letter comes to it.]]
+- [[#wicks][Wicks]]
+
+* Introduction
+Some intro text.
+
+* Strategy
+** Entry
+Details about entry.
+
+** Exit
+Details about exit.
 - [[#pd-array][PD Array]]
 - [[#ict-market-structure-and-intraweek-reversals][ICT Market Structure and Intraweek Reversals]]
 - [[#institutional-order-flow][Institutional order flow]]
