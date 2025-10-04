@@ -174,8 +174,8 @@
 ** Summary in Plain Words:
 *** Use the midnight and 8:30 opens to determine premium/discount. Look for liquidity raids (old highs/lows). Require displacement + short-term break to confirm bias. Enter at the FVG. Always buy in discount, sell in premium.
 * ICT Counter-Trend Context Model
-** Big Picture (Higher Timeframe Bias)
-*** Start with the higher timeframe (Daily or 4H).
+** Big Picture (Higher Time frame Bias)
+*** Start with the higher time frame (Daily or 4H).
 *** Confirm the market is in a long-term bearish move (downtrend).
 *** A counter-trend setup = looking for short-term bullish retracement trades inside that bearish trend.
 ** Define the Objective (Draw on Liquidity)
@@ -184,9 +184,9 @@
 ***** Relative equal highs.
 ***** A clean swing high.
 ***** A daily imbalance or order block.
-***** If there is no higher-timeframe liquidity target, do not take a counter-trend trade.
+***** If there is no higher-time frame liquidity target, do not take a counter-trend trade.
 **  Wait for Discount Retracement Zone
-*** Drop into lower timeframes (1H, 15M).
+*** Drop into lower time frames (1H, 15M).
 *** Watch for price to retrace into a discount area of the short-term range.
 *** In that discount zone, look for:
 *** Fair Value Gap (FVG).
