@@ -1,8 +1,6 @@
 
 #+TITLE: Trading
 * Table of Contents :TOC_1_gh:
-- [[#introduction][Introduction]]
-- [[#strategy][Strategy]]
 - [[#pd-array][PD Array]]
 - [[#ict-market-structure-and-intraweek-reversals][ICT Market Structure and Intraweek Reversals]]
 - [[#institutional-order-flow][Institutional order flow]]
@@ -31,48 +29,8 @@
 - [[#equilibrium][Equilibrium]]
 - [[#regular-trading-hour-rth-and-electronic-trading-hour-eth][Regular Trading Hour (RTH) and Electronic Trading Hour (ETH)]]
 - [[#ict-one-trade-setup-for-life-liquidity-based-outline][ICT One Trade Setup for Life (Liquidity-Based Outline)]]
-- [[#suspension-block-is-an-isolated-candlestic-that-algorism-letter-comes-to-it][Suspension block is an isolated candlestic that algorism letter comes to it.]]
-- [[#wicks][Wicks]]
-
-* Introduction
-Some intro text.
-
-* Strategy
-** Entry
-Details about entry.
-
-** Exit
-Details about exit.
-- [[#pd-array][PD Array]]
-- [[#ict-market-structure-and-intraweek-reversals][ICT Market Structure and Intraweek Reversals]]
-- [[#institutional-order-flow][Institutional order flow]]
-- [[#ict-setup-model-2022-mentorship][ICT Setup Model (2022 Mentorship)]]
-- [[#ict-counter-trend-context-model][ICT Counter-Trend Context Model]]
-- [[#when-to-buy][When to buy]]
-- [[#narrative-precise-explanation][Narrative (Precise Explanation)]]
-- [[#tgif-setup-ict-concept][T.G.I.F. Setup (ICT Concept)]]
-- [[#time-and-price][Time and Price]]
-- [[#key-to-daily-bias][Key to Daily Bias]]
-- [[#algo][Algo]]
-- [[#london-session-ict-perspective--simplified][London Session (ICT perspective) – Simplified]]
-- [[#ict-price--time-grid-cheat-sheet][ICT Price & Time Grid Cheat Sheet]]
-- [[#criterion-to-determine-bias][Criterion to determine bias]]
-- [[#trading-fvg][Trading FVG]]
-- [[#build-bias-ict-london-session-judas-swing-model-bearish-bias][Build Bias: ICT London Session Judas Swing Model (Bearish Bias)]]
-- [[#pullback-and-inducement][Pullback and inducement]]
-- [[#mastering-daily-candle-bias][Mastering Daily Candle Bias]]
-- [[#ict-wick-grading-points][ICT Wick Grading Points]]
-- [[#london-and-new-york-continuation-and-reversals][London and New York Continuation and Reversals]]
-- [[#mohawk]["Mohawk"]]
-- [[#previous-day-high-and-low][Previous Day High and Low]]
-- [[#ict-change-in-the-state-of-delivery-cisd][ICT Change in the State of Delivery (CISD)]]
-- [[#mean-threshold][Mean Threshold]]
-- [[#consequent-encroachment-ce][Consequent Encroachment (CE)]]
-- [[#equilibrium][Equilibrium]]
-- [[#regular-trading-hour-rth-and-electronic-trading-hour-eth][Regular Trading Hour (RTH) and Electronic Trading Hour (ETH)]]
-- [[#ict-one-trade-setup-for-life-liquidity-based-outline][ICT One Trade Setup for Life (Liquidity-Based Outline)]]
-- [[#suspension-block-is-an-isolated-candlestic-that-algorism-letter-comes-to-it][Suspension block is an isolated candlestic that algorism letter comes to it.]]
-- [[#wicks][Wicks]]
+- [[#suspension-block][Suspension Block]]
+- [[#long-wicks][Long Wicks]]
 
 * PD Array
 ** Bearish Pd Array Matrix
@@ -714,10 +672,24 @@ Reversal or continuation into close.
 *** RTH / Lunch / PM Range: Execute on the cleanest liquidity raid that aligns with the higher bias.
 *** Risk Management: Stop beyond raid extreme; target opposite liquidity pool.
 *** Only one trade needed per day if following liquidity path from session to session.
-* Suspension block is an isolated candlestic that algorism letter comes to it.
-** It is an isolated candlestic which has volume imbalance (fvg) below it and volume imbalance (fvg) above it.
-
-* Wicks
-** The algorithm sees wick as gaps and treat it as a gap.
-** When you see long wick that created a turning point a lot of folks look at if they are bullish, they are going to see that low is support and that support is broken.
-** Look as half of that wick and the upper quadrant; those are the most sensitive price points when you are bullish. The opposite true for wicks of bearish. 
+* Suspension Block
+** “Isolated candlestick” → This means the candle is standing apart contextually (it’s not part of a cluster, and it has a distinct role).
+** If there’s an FVG on both sides of the candle, that candle becomes “suspended” between two gaps.
+** Algorithm letter comes to it → That’s your way of saying the algorithm recognizes it as a reference point. Price might return to it because it is balanced between inefficiencies.
+** A single candle positioned between an FVG above and an FVG below, acting as a reference point where price may gravitate back because it represents a balanced or suspended state in an otherwise imbalanced structure.
+*** Think of it like this:
+*** The market leaves inefficiencies both ways.
+*** The isolated candle becomes the anchor between them.
+*** When algorithms “read” this, they might treat that block as a temporary equilibrium level that price later revisits.
+* Long Wicks
+** Wicks represent unfilled or imbalanced trading.
+*** A wick (upper or lower shadow of a candle) shows that price moved into that area but didn’t stay there.
+*** The body of the candle closed away from that wick, which suggests there wasn’t enough buying/selling pressure to hold price there.
+** Algorithms treat that as unfinished business (like a gap).
+*** Just like a “fair value gap” (FVG) marks an imbalance in trading (where one side dominated), wicks also show imbalance.
+*** So to the algorithm, a long wick = an area where price didn’t get properly traded/auctioned.
+*** In other words, price “skipped over” that zone quickly, almost like a small gap in liquidity.
+** Practical meaning for traders:
+*** Algorithms (and traders who follow them) may expect price to revisit those wick areas to “rebalance” liquidity.
+**** A long downside wick might later get filled as price trades back down.
+**** A long upside wick might get revisited from above.
