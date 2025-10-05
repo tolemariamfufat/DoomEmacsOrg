@@ -1,4 +1,3 @@
-
 #+TITLE: Trading
 * Table of Contents :TOC_1_gh:
 - [[#pd-array][PD Array]]
@@ -31,6 +30,8 @@
 - [[#ict-one-trade-setup-for-life-liquidity-based-outline][ICT One Trade Setup for Life (Liquidity-Based Outline)]]
 - [[#suspension-block][Suspension Block]]
 - [[#long-wicks][Long Wicks]]
+- [[#the-ict-breaker-block-is-primarily-known-as-a-reversal-pattern-but-it-can-also-be-used-in-a-continuation-context-especially-when-viewed-across-multiple-timeframes][The ICT Breaker Block is primarily known as a reversal pattern, but it can also be used in a continuation context, especially when viewed across multiple timeframes.]]
+- [[#key-components-of-the-ict-unicorn-model][Key Components of the ICT Unicorn Model]]
 
 * PD Array
 ** Bearish Pd Array Matrix
@@ -708,3 +709,23 @@ Reversal or continuation into close.
 *** Algorithms (and traders who follow them) may expect price to revisit those wick areas to “rebalance” liquidity.
 **** A long downside wick might later get filled as price trades back down.
 **** A long upside wick might get revisited from above.
+* The ICT Breaker Block is primarily known as a reversal pattern, but it can also be used in a continuation context, especially when viewed across multiple timeframes.
+** Primarily a Reversal Pattern (Market Structure Shift)
+*** The classic Breaker setup signals a change in the intermediate or short-term trend, which is why it is famous as a reversal pattern:
+*** The Setup: A Breaker is created when a swing point (which was initially a valid Order Block) fails to hold price and is broken through, causing a Market Structure Shift (MSS).
+** The Reversal: The price action confirms a reversal. For instance, in a bullish breaker, the market fails to make a new lower low after running liquidity, reverses, and breaks a previous swing high, indicating the sellers are now trapped and the trend has flipped to the upside.
+*** Key Concept: The Breaker block zone (the failed Order Block) acts as the entry point for the new direction, which is a reversal of the recent swing.
+** Can Act as a Continuation Tool (High-Timeframe Context)
+*** While the Breaker itself causes a reversal of the immediate price swing, it often serves as a continuation or re-entry point in the context of the higher-timeframe trend or a larger overall bias.
+*** Continuation Example: Imagine the Daily chart is clearly in a strong uptrend.
+*** Price starts a healthy correction (a pullback on the 4H chart).
+*** This pullback on the 4H chart creates a setup where a Bullish Breaker forms (e.g., a small stop run below an old low, followed by a Market Structure Shift back up).
+*** When the 4H Breaker is traded, you are entering the market as a reversal of the recent 4-hour pullback, but a continuation of the long-term Daily uptrend.
+*** In summary:
+**** The Breaker is a Reversal of the immediate, local price swing that created it (e.g., reversing the move that swept the liquidity).
+**** The Breaker is a Continuation if that reversal aligns with and continues the dominant trend observed on a higher timeframe.
+* Key Components of the ICT Unicorn Model
+** Breaker Block (BB): A former Order Block that failed to hold as support/resistance and was broken through, now expected to serve the opposite role. For example, a broken bullish order block becomes a bearish breaker block.
+** Fair Value Gap (FVG): A three-candle pattern that shows a price imbalance where the first and third candles' wicks don't overlap. Price is often expected to return to this "gap" to fill the inefficiency.
+** Unicorn Zone: The area of overlap where the Breaker Block and Fair Value Gap coincide. This confluence is what makes the setup a "Unicorn" (a rare, high-quality entry).
+** The setup is usually sought after a shift in market structure, and the trading entry is typically placed when the price returns (retests) this "Unicorn Zone" of confluence.
