@@ -786,12 +786,12 @@ Reversal or continuation into close.
 * ICT Propulsion Block
 ** The Core Structure (Order Block Interaction)
 *** A Propulsion Block is characterized by its interaction with a prior Order Block (OB). It's a single candlestick that performs a quick retest of the Order Block and then drives the price with momentum in the opposite direction.
-** Bullish Propulsion Block (PB$^+$) 🟢
+** Bullish Propulsion Block
 *** A bullish PB is the last bearish (down-closed) candlestick in a strong uptrend that:
 **** Trades into an existing Bullish Order Block.
 **** Immediately triggers a strong upward price movement (displacement), confirming the Order Block's validity.
 **** Trading use: When price later retraces back to this specific bullish candlestick, it is expected to act as a highly sensitive support zone, causing a sharp reversal to the upside.
-** Bearish Propulsion Block (PB$^-$) 🔴
+** Bearish Propulsion Block
 *** A bearish PB is the last bullish (up-closed) candlestick in a strong downtrend that:
 **** Trades into an existing Bearish Order Block.
 **** Immediately triggers a strong downward price movement (displacement), confirming the Order Block's validity.
