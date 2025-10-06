@@ -33,6 +33,7 @@
 - [[#the-ict-breaker-block-is-primarily-known-as-a-reversal-pattern-but-it-can-also-be-used-in-a-continuation-context-especially-when-viewed-across-multiple-timeframes][The ICT Breaker Block is primarily known as a reversal pattern, but it can also be used in a continuation context, especially when viewed across multiple timeframes.]]
 - [[#key-components-of-the-ict-unicorn-model][Key Components of the ICT Unicorn Model]]
 - [[#reason-for-market-movement][Reason for Market Movement]]
+- [[#equilibrium-1][Equilibrium]]
 
 * PD Array
 ** Bearish Pd Array Matrix
@@ -751,3 +752,25 @@ Reversal or continuation into close.
 *** Hunt liquidity → create liquidity: These are the most aggressive moves by smart money to fill orders.
 *** Rebalance inefficiencies → rebalance equilibrium: These are more corrective moves to ensure smooth market flow and fair pricing.
 *** All together: Price is rarely random. Smart money orchestrates moves that hunt liquidity, create liquidity, and correct inefficiencies while keeping equilibrium as the “center of gravity.”
+
+* Equilibrium
+** Equilibrium as a Midway Point
+*** Definition: The equilibrium is the midpoint of the price range defined by the most recent Swing Low and the most recent Swing High.
+*** Significance: It serves as a dividing line for value.
+*** In a bullish trend, the area above equilibrium (50%) is considered the Premium zone (expensive for buyers), and the area below equilibrium is the Discount zone (cheap for buyers).
+*** Traders following this approach wait for the price to retrace (pull back) into the Discount zone (below the 50% Equilibrium level) during an uptrend to look for a buy entry. The market is considered "fair value" at the equilibrium line itself.
+** Determining the Swing High and The Setup
+*** The strategy uses a specific, four-candle pattern to confirm the formation of the Swing High that marks the end of the initial rally and the start of the pullback (retracement).
+*** The setup for confirming a Swing High is:
+**** Candle 1 (Left): A candle with a high price.
+**** Candle 2 (Center/Highest): The candle with the absolute highest high price in the immediate sequence. This candle forms the Swing High peak.
+**** Candle 3 (Right): A candle with a lower high than the center candle.
+**** Candle 4 (Confirmation): A final candle that confirms the shift in momentum by showing price going lower (a lower close/body, or a definitive drop from the high).
+**** Once this four-candle swing high is formed, it establishes the top of your price range (the "Swing High" point) for measuring the Equilibrium. This is a common method in technical analysis to objectively define a swing point, regardless of the time frame.
+** The Trading Principle
+*** After identifying the Swing Low and Swing High of the most recent price move, the strategy follows these steps:
+*** Initial Rally: The price moves from a low point and rallies up, forming the Swing High using the four-candle confirmation pattern.
+*** Wait for Retracement: The rally ends, and the price begins to retrace (pull back/come down).
+*** Target Entry Zone: The trader waits for the price to drop back to or below the Equilibrium (50%) level into the Discount zone. This area is considered a favorable price to buy for a continuation of the bullish trend, as the price is "cheap" relative to the full move.
+*** Buy: Once the price reaches the equilibrium or the Discount zone, the trader looks for a confirmation (like a bullish candlestick or other technical signal) to enter a long (buy) position, anticipating the trend will resume and push the price to new highs.
+**   The same process holds for bearish setup
