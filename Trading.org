@@ -15,6 +15,7 @@
 - [[#ict-price--time-grid-cheat-sheet][ICT Price & Time Grid Cheat Sheet]]
 - [[#criterion-to-determine-bias][Criterion to determine bias]]
 - [[#trading-fvg][Trading FVG]]
+- [[#inversion-fvg][Inversion FVG]]
 - [[#build-bias-ict-london-session-judas-swing-model-bearish-bias][Build Bias: ICT London Session Judas Swing Model (Bearish Bias)]]
 - [[#pullback-and-inducement][Pullback and inducement]]
 - [[#mastering-daily-candle-bias][Mastering Daily Candle Bias]]
@@ -400,6 +401,13 @@ Reversal or continuation into close.
 ** Rule of thumb from ICT:
 *** Bearish → sell from FVG retrace, stop above the Candle 2 open (sell on premium)
 *** Bullish → buy from FVG retrace, entry at Candle 1 close, stop below Candle 2 low (buy on discount)
+* Inversion FVG
+*** Price Violates the FVG: Price moves through the Fair Value Gap with strong momentum instead of respecting it.
+*** Role Reversal: The original FVG is no longer an area of expected support or resistance for a retracement; it becomes a new support or resistance level for the new, opposite directional move.
+** Reclaimed (inverse) FVG
+*** Original FVG Creation: A strong move (e.g., a rapid increase in a bullish trend) creates a Bullish FVG (expected to act as support when price returns).
+*** Mitigation and Breakthrough (Reclaiming): Price returns to the Bullish FVG but, instead of finding support and reversing to continue the rally, it breaks down decisively through the entire gap and continues to move lower, suggesting a shift to a bearish market structure.
+*** The Reclaimed Test: The market then retraces back up to the same zone (the previous Bullish FVG) which it has now successfully broken. The zone, which was expected to be support, is now "reclaimed" by the opposite side and is expected to act as a new resistance level.
 * Build Bias: ICT London Session Judas Swing Model (Bearish Bias)
 ** Define the Previous Day’s Range
 *** Draw a rectangle covering the high and low of the previous day.
