@@ -35,6 +35,7 @@
 - [[#key-components-of-the-ict-unicorn-model][Key Components of the ICT Unicorn Model]]
 - [[#reason-for-market-movement][Reason for Market Movement]]
 - [[#equilibrium-1][Equilibrium]]
+- [[#ict-propulsion-block][ICT Propulsion Block]]
 
 * PD Array
 ** Bearish Pd Array Matrix
@@ -782,3 +783,21 @@ Reversal or continuation into close.
 *** Target Entry Zone: The trader waits for the price to drop back to or below the Equilibrium (50%) level into the Discount zone. This area is considered a favorable price to buy for a continuation of the bullish trend, as the price is "cheap" relative to the full move.
 *** Buy: Once the price reaches the equilibrium or the Discount zone, the trader looks for a confirmation (like a bullish candlestick or other technical signal) to enter a long (buy) position, anticipating the trend will resume and push the price to new highs.
 **   The same process holds for bearish setup
+* ICT Propulsion Block
+** The Core Structure (Order Block Interaction)
+*** A Propulsion Block is characterized by its interaction with a prior Order Block (OB). It's a single candlestick that performs a quick retest of the Order Block and then drives the price with momentum in the opposite direction.
+** Bullish Propulsion Block (PB$^+$) 🟢
+*** A bullish PB is the last bearish (down-closed) candlestick in a strong uptrend that:
+**** Trades into an existing Bullish Order Block.
+**** Immediately triggers a strong upward price movement (displacement), confirming the Order Block's validity.
+**** Trading use: When price later retraces back to this specific bullish candlestick, it is expected to act as a highly sensitive support zone, causing a sharp reversal to the upside.
+** Bearish Propulsion Block (PB$^-$) 🔴
+*** A bearish PB is the last bullish (up-closed) candlestick in a strong downtrend that:
+**** Trades into an existing Bearish Order Block.
+**** Immediately triggers a strong downward price movement (displacement), confirming the Order Block's validity.
+**** Trading use: When price later retraces back to this specific bearish candlestick, it is expected to act as a highly sensitive resistance zone, causing a sharp reversal to the downside.
+** Key Validation Criteria (Mean Threshold)
+*** For a Propulsion Block to be considered valid, its Mean Threshold (MT) is a critical factor:
+*** The Mean Threshold is the 50% retracement level of the Propulsion Block candlestick's body or range (from high to low/low to high).
+*** During the retest of the Propulsion Block, the price should not close beyond the Mean Threshold of the Propulsion Block candle. If price breaks or closes past this 50% mark, the block's integrity is compromised, and it is no longer considered a high-probability trade setup.
+*** By respecting the Mean Threshold, the Propulsion Block acts as a tighter, more precise entry point than the entire Order Block zone, allowing traders to execute trades with minimal drawdown and a small stop-loss, which results in a high reward-to-risk ratio.
