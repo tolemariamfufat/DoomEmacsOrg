@@ -36,6 +36,8 @@
 - [[#reason-for-market-movement][Reason for Market Movement]]
 - [[#equilibrium-1][Equilibrium]]
 - [[#ict-propulsion-block][ICT Propulsion Block]]
+- [[#the-logic-of-the-reclaimed-order-block-and-dealing-range][The Logic of the Reclaimed Order Block and Dealing Range]]
+- [[#the-logic-of-inversionreclaimed-fair-value-gap-ifvg][The Logic of Inversion/Reclaimed Fair Value Gap (IFVG)]]
 
 * PD Array
 ** Bearish Pd Array Matrix
@@ -801,3 +803,19 @@ Reversal or continuation into close.
 *** The Mean Threshold is the 50% retracement level of the Propulsion Block candlestick's body or range (from high to low/low to high).
 *** During the retest of the Propulsion Block, the price should not close beyond the Mean Threshold of the Propulsion Block candle. If price breaks or closes past this 50% mark, the block's integrity is compromised, and it is no longer considered a high-probability trade setup.
 *** By respecting the Mean Threshold, the Propulsion Block acts as a tighter, more precise entry point than the entire Order Block zone, allowing traders to execute trades with minimal drawdown and a small stop-loss, which results in a high reward-to-risk ratio.
+* The Logic of the Reclaimed Order Block and Dealing Range
+*** Reclaimed Order Block (OB) Definition: A Reclaimed OB is an Order Block that was initially violated or "broken" by price, appearing to be invalidated. However, price then returns to the zone, respects it, and continues in the original direction, reclaiming the zone as a valid Point of Interest (POI). This often suggests institutional traders have accumulated or distributed orders in that zone.
+*** The Dealing Range: In the ICT methodology, the Dealing Range is the current, active Swing High and Swing Low. The market is expected to move from one side of the range (a discount/premium Price Delivery Array) to the other (liquidity at the opposite swing high/low).
+** The High/Low Not Taken Condition (Liquidity):
+*** If the price does not take out the high or low of the current dealing range before returning to the broken Order Block, it means the liquidity at that high or low is still intact.
+*** This intact liquidity becomes the primary target for the move after the order block is reclaimed.
+** Conclusion
+*** A Reclaimed Order Block is often a more powerful setup when the Dealing Range high (in a bullish scenario) or low (in a bearish scenario) has not been taken.
+*** This leaves a clean, uncleared liquidity pool (an external liquidity target) for the market to move toward, giving the trade a high-probability target and clear objective.
+*** The market has completed the institutional accumulation phase (the reclaim) and is now poised to run to the next major area of liquidity (the dealing range high/low).
+* The Logic of Inversion/Reclaimed Fair Value Gap (IFVG)
+** The concept of a "reclaimed" FVG aligns with the Inversion Fair Value Gap (IFVG).
+*** An IFVG occurs when price violates an existing FVG by trading and closing completely through it. This suggests a shift in market momentum.
+*** The former FVG then "flips" its role: a violated bullish FVG becomes new resistance (bearish IFVG), and a violated bearish FVG becomes new support (bullish IFVG).
+*** The relationship to the dealing range is often used to give context to this shift. For a true shift in market structure and a highly probable trade setup, the FVG inversion is often accompanied by or occurs shortly after a liquidity sweep (taking a swing high or low).
+** So the logic of reclaimed fvg is different from reclaimed ob.
