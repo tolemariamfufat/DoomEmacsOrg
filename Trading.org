@@ -38,6 +38,7 @@
 - [[#ict-propulsion-block][ICT Propulsion Block]]
 - [[#the-logic-of-the-reclaimed-order-block-and-dealing-range][The Logic of the Reclaimed Order Block and Dealing Range]]
 - [[#the-logic-of-inversionreclaimed-fair-value-gap-ifvg][The Logic of Inversion/Reclaimed Fair Value Gap (IFVG)]]
+- [[#consolidation-and-key-mid-point-concepts][Consolidation and Key Mid-Point Concepts]]
 
 * PD Array
 ** Bearish Pd Array Matrix
@@ -819,3 +820,15 @@ Reversal or continuation into close.
 *** The former FVG then "flips" its role: a violated bullish FVG becomes new resistance (bearish IFVG), and a violated bearish FVG becomes new support (bullish IFVG).
 *** The relationship to the dealing range is often used to give context to this shift. For a true shift in market structure and a highly probable trade setup, the FVG inversion is often accompanied by or occurs shortly after a liquidity sweep (taking a swing high or low).
 ** So the logic of reclaimed fvg is different from reclaimed ob.
+* Consolidation and Key Mid-Point Concepts 
+** Equilibrium (EQ)
+*** Definition: The 50% mark of any defined Dealing Range (the swing high to swing low of a major move or a consolidation range).
+*** Role in Consolidation: Price often enters a period of consolidation, or a holding pattern, precisely around the Equilibrium of a larger range. This is the Fair Value of that range, where institutional participants accumulate or distribute orders before expanding the range toward the next liquidity objective (the high or low).
+** Consequent Encroachment (CE)
+*** Definition: The 50% mark of a Fair Value Gap (FVG).
+*** Role in Consolidation/Reaction: While CE is most often used as a high-probability entry level for a re-tracement before price expands, price can also consolidate around it. If price returns to the FVG but lacks the momentum for a full mitigation, it may pause and consolidate around the CE—the fair value of that inefficiency—before the next move.
+** Mean Threshold (MT)
+*** Definition: The 50% mark of an Order Block (OB) or Breaker Block.
+*** Role in Consolidation/Reaction: Similar to CE, the MT is the equilibrium of the Order Block. When price revisits an OB, institutions may not need to fill the entire block. Price frequently reacts, or pauses/consolidates, around the Mean Threshold as it's the fair price within that institutional footprint. Consolidation here can indicate that buy or sell limit orders are being absorbed
+**** In short, any 50% mark of a major price array or range (Dealing Range, FVG, Order Block) is an Equilibrium point. Since consolidation is a market state where buyers and sellers are balanced, it frequently occurs at these mid-point levels as the market searches for fair value before deciding on the next direction.
+
