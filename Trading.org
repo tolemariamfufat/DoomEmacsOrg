@@ -1,5 +1,6 @@
 #+TITLE: Trading
 * Table of Contents :TOC_1_gh:
+- [[#top-5-ict-concepts][Top 5 ICT Concepts]]
 - [[#pd-array][PD Array]]
 - [[#ict-market-structure-and-intraweek-reversals][ICT Market Structure and Intraweek Reversals]]
 - [[#institutional-order-flow][Institutional order flow]]
@@ -40,6 +41,12 @@
 - [[#the-logic-of-inversionreclaimed-fair-value-gap-ifvg][The Logic of Inversion/Reclaimed Fair Value Gap (IFVG)]]
 - [[#consolidation-and-key-mid-point-concepts][Consolidation and Key Mid-Point Concepts]]
 
+* Top 5 ICT Concepts
+** Liquidity
+** Dealing Range
+** Fair Value Gap
+** PD Array
+** The Power of 3 (Consolidation, Manipulation and Distribution)
 * PD Array
 ** Bearish Pd Array Matrix
 *** Old High or low
