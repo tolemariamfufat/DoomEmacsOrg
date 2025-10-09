@@ -44,6 +44,7 @@
 - [[#regular-trading-hours-rth-and-electronic-trading-hours-eth-summary][Regular Trading Hours (RTH) and Electronic Trading Hours (ETH) Summary]]
 - [[#entry-models][Entry Models]]
 - [[#major-vs-minor-buysidesellside-liquidity-pools][Major vs Minor Buyside/Sellside Liquidity Pools]]
+- [[#trade-in-each-60-minute-interval][Trade in Each 60 Minute Interval]]
 
 * Top 5 ICT Concepts
 ** Liquidity
@@ -911,9 +912,20 @@ Reversal or continuation into close.
 **** Price is always drawn toward the nearest significant liquidity pool.
 **** Institutions may first sweep Minor Liquidity (a short-term "stop hunt" or Inducement) to gather contracts, and then continue the overall move toward the Major Liquidity target.
 **** A price reversal after sweeping a Major Liquidity level is considered a much higher-probability trade setup.
-
-
-
+* Trade in Each 60 Minute Interval
+** Targeting Liquidity Pools (The "Spool" and Run)
+*** This is a move specifically aimed at gathering resting orders (liquidity) before the market moves into the intended direction.
+**** To a Short-Term Low (Sell-Side Liquidity): The price sharply drops to a recent short-term low. Just below these lows, a large concentration of sell stop orders (from traders in long positions) and buy limit orders (from traders looking to enter long positions) is typically clustered.
+**** Action: The smart money drives the price down to "sweep" or "tap into" this Sell-Side Liquidity (SSL). This fills their large buy orders by triggering the stop-losses of sellers and matching the pending buy limits.
+**** Result: With their buy orders filled, the market has the fuel to then reverse and move higher, often leading to a Liquidity Run in the opposite direction.
+**** To a Short-Term High (Buy-Side Liquidity): The price sharply rises to a recent short-term high. Just above these highs, a large concentration of buy stop orders (from traders in short positions) and sell limit orders (from traders looking to enter short positions) is typically clustered.
+**** Action: The smart money drives the price up to "sweep" or "tap into" this Buy-Side Liquidity (BSL). This fills their large sell orders by triggering the stop-losses of buyers and matching the pending sell limits.
+**** Result: With their sell orders filled, the market has the fuel to then reverse and move lower.
+** Trading to Inefficiency (The Setup Before the Spool)
+*** This objective describes a preparatory move that serves as a high-probability entry point for traders who are aware of the institutional logic.
+**** Inefficiency (often called a Fair Value Gap or FVG in ICT concepts) refers to an area on the chart where price moved very fast in one direction, leaving a gap where only one side of the market (buy or sell) was active. This is considered an imbalance that the market needs to re-balance.
+**** Action: Before the market "spools" (makes its big run) to the external liquidity (the short-term high or low), it may first trade back to an internal inefficiency or Fair Value Gap.
+**** Result: This movement back into the FVG is an invitation for smart money (and the retail traders who follow their concepts) to enter their positions at a better price. Once their orders are filled at this more favorable imbalance, the market then has the impetus to make the final "spool" move towards the primary liquidity target (the short-term high or low) to complete its objective.
 
 
 
