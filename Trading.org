@@ -41,6 +41,7 @@
 - [[#the-logic-of-inversionreclaimed-fair-value-gap-ifvg][The Logic of Inversion/Reclaimed Fair Value Gap (IFVG)]]
 - [[#consolidation-and-key-mid-point-concepts][Consolidation and Key Mid-Point Concepts]]
 - [[#dealing-range-phases][Dealing Range Phases]]
+- [[#regular-trading-hours-rth-and-electronic-trading-hours-eth-summary][Regular Trading Hours (RTH) and Electronic Trading Hours (ETH) Summary]]
 
 * Top 5 ICT Concepts
 ** Liquidity
@@ -843,3 +844,13 @@ Reversal or continuation into close.
 ** Consolidation: 
 ** Expansion/Retracement
 ** Reversal
+* Regular Trading Hours (RTH) and Electronic Trading Hours (ETH) Summary 
+|--------------------------------+------------------------+-----------------|
+| Session Type                   | Open Time (ET)         | Close Time (ET) |
+|--------------------------------+------------------------+-----------------|
+| Electronic Trading Hours (ETH) | 6:00 PM (Previous Day) | 5:00 PM         |
+|--------------------------------+------------------------+-----------------|
+| Regular Trading Hours (RTH)    | 9:30 AM                | ≈4:15 PM        |
+|--------------------------------+------------------------+-----------------|
+
+*** The New Day Opening Gap High and Low are derived from the 4:59 p.m. (prior day's close) and 6:00 p.m. (new day's open) prices, and are specifically associated with the New Trading Day they precede.
