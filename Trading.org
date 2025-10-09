@@ -42,6 +42,7 @@
 - [[#consolidation-and-key-mid-point-concepts][Consolidation and Key Mid-Point Concepts]]
 - [[#dealing-range-phases][Dealing Range Phases]]
 - [[#regular-trading-hours-rth-and-electronic-trading-hours-eth-summary][Regular Trading Hours (RTH) and Electronic Trading Hours (ETH) Summary]]
+- [[#entry-models][Entry Models]]
 
 * Top 5 ICT Concepts
 ** Liquidity
@@ -854,3 +855,54 @@ Reversal or continuation into close.
 |--------------------------------+------------------------+-----------------|
 
 *** The New Day Opening Gap High and Low are derived from the 4:59 p.m. (prior day's close) and 6:00 p.m. (new day's open) prices, and are specifically associated with the New Trading Day they precede.
+* Entry Models
+** ICT 2022
+*** The ICT 2022 Model is a structured, high-probability price action entry strategy designed to capture market reversals or continuations after a liquidity grab. It is built on four core phases:
+*** Liquidity Sweep: Price moves beyond a previous high (buy-side liquidity) or low (sell-side liquidity) to trigger stop-loss orders and trap retail traders, completing the "manipulation" phase.
+*** Market Structure Shift (MSS): After the liquidity sweep, the price rapidly breaks a recent minor swing high (for a long setup) or swing low (for a short setup) in the opposite direction of the sweep, signaling a change in the immediate market bias.
+*** Displacement + Entry: The shift in structure must occur with displacement, a strong, fast move that leaves behind an Imbalance or Fair Value Gap (FVG). The entry is taken on a subsequent retracement back into this FVG or an Order Block (OB).
+*** Exit at Liquidity: The trade's target is a pre-determined liquidity pool, such as a major previous high/low or an area of old consolidation.
+** MMXM (Market Maker Model)
+*** The MMXM (Market Maker Buy Model or Market Maker Sell Model) is a concept that maps out the complete cyclical movement of price, driven by "Smart Money" (institutional traders). It describes how institutions accumulate positions, manipulate price to create liquidity, and then distribute or liquidate those positions.
+*** The cycle typically involves:
+**** Consolidation (Accumulation): Price moves sideways as institutions quietly build their positions.
+**** Manipulation (Smart Money Reversal - SMR): A sharp move in the opposite direction of the intended trend, often sweeping key highs/lows (ERL) to trigger stops and create liquidity.
+**** Distribution: The market moves strongly in the direction of the institutional position, driving price to a higher-timeframe target.
+**** A trade entry often seeks to capitalize on the start of the Distribution phase, following the Manipulation/SMR.
+*** IFVG (Inverse Fair Value Gap)
+**** An IFVG is an Inverse Fair Value Gap (sometimes called an Inversion FVG). It is a standard Fair Value Gap (FVG) that has been traded through and failed to act as support or resistance, but subsequently reverses its role and becomes a point of support (if broken to the upside) or resistance (if broken to the downside) for a trend continuation.
+**** Setup: A price gap forms (the FVG). Price then trades through the FVG, effectively "invalidating" its original intent.
+**** Entry: When price retraces back to the now-inverted FVG, the IFVG acts as a strong support or resistance zone in line with the new, established trend. Traders use the retest of the IFVG as a high-probability entry point.
+** PO3 (Power of 3)
+*** The PO3 (Power of 3) is a daily price action framework that breaks the trading day's activity into three essential parts, similar to the MMXM, but often applied to a single daily candle's formation:
+*** Accumulation: The market opens and consolidates around the opening price, with institutions building their positions (often during low-volume sessions like Asia).
+*** Manipulation: Price moves to take liquidity (sweep highs/lows) before the real move, often during a high-volatility session (like London or New York open), trapping traders on the wrong side.
+*** Distribution: Price expands strongly in the intended direction for the day, driven by the institutional flow.
+*** An entry model based on PO3 typically waits for the Manipulation phase to complete and enters as the Distribution phase begins, trading in the direction of the distribution toward the Daily Range objectives.
+** CRT (Candlestick Range Theory)
+*** CRT (Candlestick Range Theory) is a concept that views a single higher-timeframe candlestick as containing the full Power of 3 (PO3) sequence on a lower timeframe.
+*** Concept: The range (high-to-low) of a high-timeframe candle (e.g., a 4-hour candle) represents the market's activity for that period.
+*** Application: By zooming into a lower timeframe (e.g., a 15-minute chart), a trader can observe the price action within the higher-timeframe candle's range. The lower-timeframe movement will often show:
+**** Accumulation (at the open/close level).
+**** Manipulation (the high/low wick that sweeps liquidity).
+**** Distribution (the main body move).
+**** Entry: The CRT model encourages traders to enter near the low/high of the manipulation wick on the lower timeframe, anticipating the higher-timeframe candle will close strongly in the opposite direction (the distribution).
+** IRL (Internal Range Liquidity)
+*** Definition: Liquidity that resides within the current established dealing range (between the most recent swing high and swing low).
+*** Examples: Fair Value Gaps (FVG), Order Blocks, and minor, internal swing highs/lows.
+*** Function: Price typically targets IRL for rebalancing (filling gaps) or retesting institutional levels before moving to the ERL.
+** ERL (External Range Liquidity)
+*** Definition: Liquidity that resides outside the current established dealing range, typically at the most significant swing high or swing low of the range.
+*** Examples: Major swing highs (Buy-Side Liquidity) and major swing lows (Sell-Side Liquidity).
+*** Function: ERL is the ultimate target for a major price move. It represents where the stops of large groups of traders are clustered, making it the "Draw on Liquidity."
+
+
+
+
+
+
+
+
+
+
+
