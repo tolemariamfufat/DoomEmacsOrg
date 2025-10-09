@@ -43,6 +43,7 @@
 - [[#dealing-range-phases][Dealing Range Phases]]
 - [[#regular-trading-hours-rth-and-electronic-trading-hours-eth-summary][Regular Trading Hours (RTH) and Electronic Trading Hours (ETH) Summary]]
 - [[#entry-models][Entry Models]]
+- [[#major-vs-minor-buysidesellside-liquidity-pools][Major vs Minor Buyside/Sellside Liquidity Pools]]
 
 * Top 5 ICT Concepts
 ** Liquidity
@@ -895,11 +896,21 @@ Reversal or continuation into close.
 *** Definition: Liquidity that resides outside the current established dealing range, typically at the most significant swing high or swing low of the range.
 *** Examples: Major swing highs (Buy-Side Liquidity) and major swing lows (Sell-Side Liquidity).
 *** Function: ERL is the ultimate target for a major price move. It represents where the stops of large groups of traders are clustered, making it the "Draw on Liquidity."
-
-
-
-
-
+* Major vs Minor Buyside/Sellside Liquidity Pools
+** Major liquidity pool
+*** Major Liquidity is found at highly significant, well-established highs or lows that are visible across higher timeframes (HTFs). Sweeping a Major Liquidity zone often precedes a large, sustained move in the opposite direction.
+*** It represents the largest pools of stop-losses.It's Timeframe is Daily, Weekly, Monthly, or Quarterly charts.
+*** It is located at Previous Day's High/Low (PDH/PDL), Previous Week's High/Low (PWH/PWL), Equal Highs/Lows (EQH/EQL) on a daily chart.
+** Minor Liquidity
+*** Minor Liquidity is found at the highs or lows of smaller, short-term swings, typically on lower timeframes (LTFs). Sweeping Minor Liquidity often occurs within a larger move and can serve as inducement or a point for a short-term correction before continuing toward a Major Liquidity target.
+*** It has low significance and represents smaller, short-term pools of stop-losses.
+*** Its timeframe is 5-minute (M5), 15-minute (M15), or 1-hour (H1) charts.
+*** It is located at session of Highs/Lows (e.g., Asia, London, or New York Session swings) or internal swing points within a large daily candle.
+** The Relationship in Trading
+*** ICT traders use this hierarchy to determine the most likely price targets:
+**** Price is always drawn toward the nearest significant liquidity pool.
+**** Institutions may first sweep Minor Liquidity (a short-term "stop hunt" or Inducement) to gather contracts, and then continue the overall move toward the Major Liquidity target.
+**** A price reversal after sweeping a Major Liquidity level is considered a much higher-probability trade setup.
 
 
 
