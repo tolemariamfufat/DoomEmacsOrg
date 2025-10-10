@@ -50,6 +50,8 @@
 - [[#new-york-lunch-macro][New York Lunch Macro]]
 - [[#rule-of-low-resistance-liquidity-run][Rule of Low Resistance Liquidity Run]]
 - [[#high-resistance-liquidity-run][High resistance liquidity run]]
+- [[#original-consolidation][Original Consolidation]]
+- [[#step-by-step-how-model-5-works][Step-by-Step: How Model 5 Works]]
 
 * Top 5 ICT Concepts
 ** Liquidity
@@ -1025,3 +1027,22 @@ Reversal or continuation into close.
 ** Algorithmic Meaning: The algorithm is rebalancing inefficiencies, not seeking new highs/lows. Indicates a potential reversal, retracement, or range-bound condition.
 ** Visual Signature: No clean displacement. Price delivery looks “heavy” or slow, with constant pullbacks and overlap.
 ** Trader Implication: Avoid expecting continuation after such moves. Treat it as exhaustion, rebalancing, or distribution area.
+* Original Consolidation
+** Range Box Becomes Reference Structure
+*** The top and bottom bounds of this consolidation box are critical levels.
+*** After the liquidity sweep / expansion, price often retests back into this original consolidation range (“box”) to confirm direction.
+*** The consolidation box is sometimes called the “original consolidation range / original box.” 
+** Order Blocks & FVGs in Context
+*** The order blocks (areas of institutional interest) and fair value gaps left during or after the consolidation are aligned relative to this box.
+*** When price breaks from the consolidation, these structures become important for entries on retests.
+** Role in the ICT “5-Box” / Entry Models
+*** In ICT’s Model 5 (5-Box Setup), the original consolidation is step 2: after identifying the HTF POI, you observe price consolidating to form the box. 
+*** Steps proceed: consolidation → liquidity sweep (aggressive move out) → retest of box → trade execution.
+*** The original consolidation provides the reference box that defines the structural bounds for the entry logic.
+* Step-by-Step: How Model 5 Works
+**  HTF POI (Point of Interest): Identify a strong higher-timeframe level (swing high/low, order block, liquidity level); This is your anchor level — price is expected to respect or react around it.                     
+**  Original Consolidation (the “Box”): As price approaches the POI, it often moves sideways, forming a range (box); Mark the high and low of that range. This box contains liquidity (stops above/below).            
+** Liquidity Sweep / Aggressive Move: Price pushes outside the box — takes out stop orders above or below the box; This move is sharp, fast, and may intrude beyond the box edges to grab liquidity.                
+**  Reversal / Retest into the Box: After the sweep, price often reverses and returns to retest the box area;The retest is critical — the swept edge of the box usually becomes a key support/resistance.     
+** Entry & Targeting: Enter on the retest, with predefined stop and target zones; Stop beyond the liquidity sweep; targets at the opposite side of the box, or further HTF levels. |
+
