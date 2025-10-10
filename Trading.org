@@ -45,6 +45,9 @@
 - [[#entry-models][Entry Models]]
 - [[#major-vs-minor-buysidesellside-liquidity-pools][Major vs Minor Buyside/Sellside Liquidity Pools]]
 - [[#trade-in-each-60-minute-interval][Trade in Each 60 Minute Interval]]
+- [[#macros-when-there-is-no-economic-calendar-event][Macros (When there is no economic calendar event)]]
+- [[#scalping][Scalping]]
+- [[#new-york-lunch-macro][New York Lunch Macro]]
 
 * Top 5 ICT Concepts
 ** Liquidity
@@ -926,6 +929,41 @@ Reversal or continuation into close.
 **** Inefficiency (often called a Fair Value Gap or FVG in ICT concepts) refers to an area on the chart where price moved very fast in one direction, leaving a gap where only one side of the market (buy or sell) was active. This is considered an imbalance that the market needs to re-balance.
 **** Action: Before the market "spools" (makes its big run) to the external liquidity (the short-term high or low), it may first trade back to an internal inefficiency or Fair Value Gap.
 **** Result: This movement back into the FVG is an invitation for smart money (and the retail traders who follow their concepts) to enter their positions at a better price. Once their orders are filled at this more favorable imbalance, the market then has the impetus to make the final "spool" move towards the primary liquidity target (the short-term high or low) to complete its objective.
-
-
-
+* Macros (When there is no economic calendar event)
+** What the ICT Macro Represents
+*** In ICT terminology, the "Macro" is essentially a scheduled time slot where traders following this methodology expect increased market activity and potential trade setups due to the release of economic news, institutional order flow, or systematic market manipulation.
+*** The Window: The Macro exists 10 minutes before and 10 minutes after every single hour (e.g., 8:50 to 9:10, 9:50 to 10:10, etc.). This makes it a 20-minute period.
+*** Significance: ICT followers believe that institutions or "smart money" often execute significant order flow, manipulate price, or trigger pre-planned moves during these specific times, making them important times to be attentive to the charts.
+*** The "Something Important": This "something important" is typically a setup or a move that aligns with the current market direction, such as:
+**** Liquidity grabs: Price moving quickly to "sweep" or clear out stop-loss orders above or below a recent high or low.
+**** Fair Value Gap (FVG) or Inversion FVG entries: Price re-visiting an inefficiency in the chart to continue a trend.
+**** Reversal points: Price hitting a key level (like a high or low of the day) and reversing course.
+** Contextualizing the Macro
+*** While the Macro exists every hour, its relevance is generally heightened during specific, high-impact trading sessions or when coinciding with the release of major economic data.
+*** Key Sessions: The Macro is most closely watched during the London Open, the New York Open, and sometimes the London Close or New York Close, as these are periods of high liquidity and institutional participation.
+*** Not a Guarantee: It's important to understand that the ICT Macro is a time-based hypothesis or a model, not a guaranteed trading signal. It merely suggests a higher probability window for a significant price move to occur, prompting traders to look for their specific ICT setup (like an OTE, FVG, etc.) during that time.
+* Scalping 
+** Definition: Scalping is a trading strategy that aims to profit from very small price changes (or "pips") in a financial asset.
+** The Timeframe is Key
+*** The most defining characteristic of scalping is the extremely short duration of the trade.
+*** In and Out Quickly: A scalper is typically in a trade for anywhere from a few seconds to a few minutes.
+*** Maximum Hold Time: The 30-minute limit is a very conservative maximum for what a dedicated scalper would consider, as it approaches the timeframe of a regular day trade. A true scalper rarely lets a trade run that long.
+*** High Frequency: Because the profit target per trade is very small (e.g., just a few pips), the strategy requires executing a very high volume of trades throughout the day—often dozens or even hundreds—to let the small gains accumulate into a substantial daily profit.
+** The Core Goal
+*** The scalper's philosophy is based on the belief that small moves are easier to capture and occur more frequently than large, sustained moves.
+*** Small Profit, High Volume: The trader is content with just "scalping" a tiny piece of the price movement and then quickly closing the position.
+** Minimizing Risk Exposure: By holding a trade for only a few minutes or seconds, the scalper significantly reduces the risk of being caught by a sudden, large adverse move in the market.
+** Key Requirements for a Scalper
+*** Due to the ultra-short time frame, scalping requires:
+**** Intense Focus: The trader must be glued to the screen, watching the very smallest time charts (like the 1-minute or 5-minute charts).
+**** Discipline: A strict exit strategy (both profit-taking and stop-loss) is vital, as one large loss can easily wipe out the gains from many small profitable trades.
+**** Fast Execution: The broker platform must be fast and reliable, as even a second's delay can cost the scalper the small edge they are looking for.
+* New York Lunch Macro
+** Mark 9:30 AM and 10:00 AM (opening range).
+*** Observe the direction from 9:30–10:00 AM (bullish or bearish impulse).
+*** If price moves one direction strongly and doesn’t run counter-side liquidity, expect retracement.
+** After 10:00 AM:
+*** Mark the first high (if drop) or first low (if rally).
+*** Watch for the swing low/high to hold.
+*** If it holds → expect retracement into premium (if bearish morning) or discount (if bullish morning) PD arrays.
+*** Target → that first high/low after 10:00 AM, or the first FVG in the opening range.
