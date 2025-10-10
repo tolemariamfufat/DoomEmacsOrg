@@ -48,6 +48,7 @@
 - [[#macros-when-there-is-no-economic-calendar-event][Macros (When there is no economic calendar event)]]
 - [[#scalping][Scalping]]
 - [[#new-york-lunch-macro][New York Lunch Macro]]
+- [[#rule-of-low-resistance-liquidity-run][Rule of Low Resistance Liquidity Run]]
 
 * Top 5 ICT Concepts
 ** Liquidity
@@ -967,3 +968,50 @@ Reversal or continuation into close.
 *** Watch for the swing low/high to hold.
 *** If it holds → expect retracement into premium (if bearish morning) or discount (if bullish morning) PD arrays.
 *** Target → that first high/low after 10:00 AM, or the first FVG in the opening range.
+** Key Time Window (10:30–11:30 AM New York Time)
+*** This hour usually forms the intermediate-term higher low of the morning session.
+*** It sets the stage for the New York Lunch Macro, which defines the market’s order flow direction for the next 2 hours (≈ 11:00 AM to 1:30 PM).
+** Algorithm’s Role
+*** The algorithm computes the range high and range low of the session.
+*** It establishes the midpoint (equilibrium) — this is where balance exists between buyers and sellers.
+*** Once equilibrium is defined, the algorithm determines which side of the market to target next (buy-side or sell-side).
+** Price Behavior Below Equilibrium (Around 10:30 AM)
+*** When price trades below equilibrium, the algorithm starts looking for sell-side liquidity (stops under lows).
+*** Traders who are profitable from earlier moves become targets — the market often runs their stops during the lunch macro.
+** Two Typical Scenarios During Lunch Macro
+*** Shallow Liquidity Run Scenario:
+*** Price dips to take the first pool of liquidity.
+*** Then it consolidates for the rest of the day without making new highs or lows.
+*** Deep Liquidity Run Scenario:
+*** Price trades deeper, taking out sell-side stops.
+*** After that stop raid, the algorithm begins accumulation and drives price higher through the afternoon.
+*** This often leads to a strong close, especially into Friday’s session, closing the week on a high.
+** Purpose for ICT Traders
+*** Understand this structure to anticipate:
+*** When to expect a retracement or accumulation phase (10:30–11:30 window).
+*** Which side of liquidity the algorithm is likely to target during the lunch session (11:00–1:30).
+*** Where to look for optimal FVGs and order blocks aligned with that intraday bias.
+* Rule of Low Resistance Liquidity Run
+** What Is a “Low Resistance Liquidity Run”?
+*** A low resistance liquidity run means:
+*** The algorithm is running stops (liquidity) in one direction; and afterward, price moves back in the opposite direction with little resistance — meaning there are few unfilled orders to slow it down.
+*** In other words, after a liquidity grab (e.g., taking sell-side stops), price can easily rally higher because the market is “thin” in that direction.
+
+** “Down-Close Candles Will Support Price Higher”
+*** When price makes a down-close candle (a bearish candle) right before the market reverses upward, that candle often becomes a support zone.
+*** Why? Because:
+**** It usually represents the last effort of sellers (or stop raids) before the algorithm shifts direction.
+**** Smart money left buy orders inside that candle to reaccumulate long positions.
+**** So when price returns to that candle later, it tends to bounce from it.
+*** Think of it like:
+**** “The last bearish candle before a rally supports price on the way back.”
+**** That’s why ICT says:
+**** “Down close candles will support price higher.”
+** “Inefficiencies Will Leave a Portion Open”
+*** This refers to Fair Value Gaps (FVGs) — small imbalances or inefficiencies in price delivery.
+*** When price moves sharply (displacement), it often leaves gaps between candles where not all orders were transacted.
+*** The algorithm tends to revisit these imbalances later to rebalance them — but not always completely.
+*** It often leaves a portion of the gap open, signaling that the move remains efficient and the directional bias (upward or downward) is still intact.
+*** So:
+*** “Inefficiencies will leave a portion open” = not all FVGs get fully closed; the leftover imbalance shows continuation potential.
+
