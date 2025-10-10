@@ -49,6 +49,7 @@
 - [[#scalping][Scalping]]
 - [[#new-york-lunch-macro][New York Lunch Macro]]
 - [[#rule-of-low-resistance-liquidity-run][Rule of Low Resistance Liquidity Run]]
+- [[#high-resistance-liquidity-run][High resistance liquidity run]]
 
 * Top 5 ICT Concepts
 ** Liquidity
@@ -1015,3 +1016,12 @@ Reversal or continuation into close.
 *** So:
 *** “Inefficiencies will leave a portion open” = not all FVGs get fully closed; the leftover imbalance shows continuation potential.
 
+* High resistance liquidity run
+** Definition:A price move that encounters strong opposition or “resistance” after running liquidity — price cannot continue efficiently.
+** Structure Behavior: Candles are overlapping, choppy, and show heavy wicks. Movement lacks clean displacement.Price struggles to sustain direction after a liquidity raid.
+** Inefficiencies (FVGs): Fair Value Gaps are fully filled or rebalanced quickly. No portion of imbalance is left open → shows weakness or lack of continuation bias.
+** Order Blocks: Previous order blocks fail to hold as support/resistance.Price cuts through or rejects them → signals loss of algorithmic efficiency.
+** Liquidity Targeted: Usually takes internal liquidity (minor highs/lows). The move ends shortly after; it’s not a sustained trend run.
+** Algorithmic Meaning: The algorithm is rebalancing inefficiencies, not seeking new highs/lows. Indicates a potential reversal, retracement, or range-bound condition.
+** Visual Signature: No clean displacement. Price delivery looks “heavy” or slow, with constant pullbacks and overlap.
+** Trader Implication: Avoid expecting continuation after such moves. Treat it as exhaustion, rebalancing, or distribution area.
