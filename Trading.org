@@ -52,6 +52,8 @@
 - [[#high-resistance-liquidity-run][High resistance liquidity run]]
 - [[#original-consolidation][Original Consolidation]]
 - [[#step-by-step-how-model-5-works][Step-by-Step: How Model 5 Works]]
+- [[#two-swing-highs-the-same-holds-for-swing-lows][Two Swing highs (the same holds for swing lows)]]
+- [[#ict-beginner-trader-framework-in-words][ICT Beginner Trader Framework (in words)]]
 
 * Top 5 ICT Concepts
 ** Liquidity
@@ -1046,3 +1048,32 @@ Reversal or continuation into close.
 **  Reversal / Retest into the Box: After the sweep, price often reverses and returns to retest the box area;The retest is critical — the swept edge of the box usually becomes a key support/resistance.     
 ** Entry & Targeting: Enter on the retest, with predefined stop and target zones; Stop beyond the liquidity sweep; targets at the opposite side of the box, or further HTF levels. |
 
+* Two Swing highs (the same holds for swing lows)
+** The left high is slightly higher than the right high.
+*** This creates the visual impression that:
+**** The right high is lower,
+**** Traders see this as a potential double top,
+**** So many expect resistance or short entries at that level.
+**** This is priming — the algorithm is inspiring traders to sell near that area.
+** Priming is the process where the algorithm (or smart money) creates expectations in the minds of retail traders and investors — essentially setting a trap or sympathetic side
+** Sympathetic side is the side of the market where most traders’ emotions and positions are aligned — the side that’s vulnerable to being raided.
+*** So:
+**** If most traders expect buying, the sympathetic side is the buy-side.
+**** If most expect selling, the sympathetic side is the sell-side.
+*** The market maker (algorithm) uses priming to build up liquidity on that sympathetic side — then runs it.
+*** “These two are trusted for buy stops... when the right side is swept before the left, you can measure that move. That’s the advantage of the framework.”
+* ICT Beginner Trader Framework (in words)
+** First, look for smooth defended areas on the chart.
+*** These are places where price moves cleanly and seems to be repeatedly defended or rejected.
+Such areas usually show institutional defense zones — where large players are active and the market is being offered in a way that attracts retail traders.
+** Second, identify relatively equal highs or equal lows, where the left high is slightly higher than the right high, or the left low is slightly lower than the right low.
+*** These are not real support or resistance levels — they are engineered liquidity pools designed to attract stop orders above or below them.
+These areas are important because they show where the algorithm is likely to target liquidity later.
+** Third, confirm that the swings, fair value gaps (FVGs), and other key structures align across three timeframes — for example, the daily, one-hour, and five-minute charts.
+*** When all three agree on direction, it gives you directional confluence and a higher-probability trade idea.
+** Fourth, focus on the premarket session, especially between 7:00–7:30 AM, 8:00–8:30 AM, and 9:00–9:30 AM New York time.
+*** These are the windows when the market often forms a premarket range — a short consolidation where liquidity is being built up before the main move at the New York open.
+This helps you define the pre-session liquidity setup.
+** Fifth, when drawing your premarket range, make sure to exclude manipulation wicks — those sharp candle spikes that occur from stop-hunts.
+*** Instead, use the candle bodies to define the top and bottom of the range.
+This gives you accurate range boundaries that the market truly respects.
