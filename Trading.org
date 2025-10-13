@@ -133,22 +133,6 @@
 **** Price retraces into the imbalance and should respect the down-close candles (bullish OBs).
 **** These down-close candles act as support structures.
 **** If price cuts below these candles, it invalidates the order flow unless there’s a nearby swing low that must be cleared first (a sell-side liquidity raid).
-**  Special Note on Down-Close Candles in Bullish Moves
-*** In bullish swings, most candles will close up.
-*** The few down-close candles become very important.
-*** They should act as support when price retraces.
-*** If they are overlapped and broken, the bullish IOF is no longer clean.
-** Liquidity Exception
-*** If a down-close candle is violated only because price is taking a nearby swing low (sell-side liquidity), that’s still consistent with bullish IOF.
-*** After the liquidity grab, price can re-accumulate and continue higher.
-** Trading Rule
-*** Respect IOF structure.
-*** If the opposite-color candles (order blocks) are violated improperly, do not trade.
-*** Wait for a new, well-formed setup aligned with clean IOF.
-** Summary in Plain Words
-*** Bearish IOF → up-close candles = resistance. Their highs shouldn’t be broken.
-*** Bullish IOF → down-close candles = support. Their lows shouldn’t be broken.
-*** If they are broken without a liquidity reason, IOF is invalid → sit out.
 * ICT Setup Model (2022 Mentorship)
 ** Time & Anchor Points
 *** Midnight Open (00:00 EST/NY time) → reference anchor.
@@ -175,7 +159,7 @@
 ** Execution Rule
 **** Entry must be on a Fair Value Gap (FVG) in the displacement leg.
 ***** Stop placement:
-***** Daily → Hourly → 15M → 3M → 2M → 1M.
+***** Daily → Hourly → 15M → 5M → 1M.
 ***** There will always be an FVG at some fractal level.
 ** Trade Management
 *** Target: levels of liquidity (equal highs, equal lows, or imbalance fills).
@@ -192,16 +176,6 @@
 **** If liquidity was swept above highs, you want to see a sharp move down breaking a recent low → bearish setup.
 **** If liquidity was swept below lows, you want to see a sharp move up breaking a recent high → bullish setup.
 **** This structure break confirms the liquidity grab wasn’t just a continuation but the start of a reversal.
-*** Putting It Together
-**** A valid setup = liquidity run + displacement with structure break.
-**** Without the liquidity run → you don’t know where stops were taken.
-**** Without the displacement + BOS → the market hasn’t confirmed intent.
-**** So this “core principle” is basically the foundation for finding high-probability reversals.
-** Quick Bias Rule (Episode 25)
-*** Bearish = Old high taken → then old low taken.
-*** Bullish = Old low taken → then old high taken.
-** Summary in Plain Words:
-*** Use the midnight and 8:30 opens to determine premium/discount. Look for liquidity raids (old highs/lows). Require displacement + short-term break to confirm bias. Enter at the FVG. Always buy in discount, sell in premium.
 * ICT Counter-Trend Context Model
 ** Big Picture (Higher Time frame Bias)
 *** Start with the higher time frame (Daily or 4H).
@@ -324,18 +298,8 @@ Reversal or continuation into close.
 **** Step 3: Identify which liquidity gets swept first (old high or old low).
 **** Step 4: Confirm with displacement in opposite direction.
 **** Step 5: Enter on retrace to OB or FVG in killzone.
-***  Examples
-**** Bearish Day Example
-**** Asia consolidates.
-**** London takes Asia’s high (buy stops).
-**** NY AM breaks down through Asia/London low with displacement.
-**** Retrace to OB/FVG → Short.
-**** Bullish Week Example
-**** Monday sweeps previous week’s low.
-**** Wednesday breaks up with displacement.
-**** Retrace to OB/FVG → Long into Thursday.
 * Criterion to determine bias
-=> Nice — below is a practical, step-by-step workflow you can run on any chart to determine bias using the ICT idea that opposite-color candles become support/resistance (i.e. order blocks). Follow this exactly on your chart and you’ll get consistent, repeatable reads.
+=> Below is a practical, step-by-step workflow you can run on any chart to determine bias using the ICT idea that opposite-color candles become support/resistance (i.e. order blocks). Follow this exactly on your chart and you’ll get consistent, repeatable reads.
 **  Pick your timeframes
 *** Higher timeframe (HTF) = trend anchor (4H / Daily).
 *** Lower timeframe (LTF) = entries and order-block validation (1H / 15m).
@@ -1077,3 +1041,12 @@ This helps you define the pre-session liquidity setup.
 ** Fifth, when drawing your premarket range, make sure to exclude manipulation wicks — those sharp candle spikes that occur from stop-hunts.
 *** Instead, use the candle bodies to define the top and bottom of the range.
 This gives you accurate range boundaries that the market truly respects.
+** Do not look for equal highs and equal lows prior to 7:00. Just start at 7:00 for the hunt of equal lows or highs. Start at 15m, then go to 5m then go to 1m.
+*** If there is relatively equal lows below the market place, then you want to see a move the first 30 minuts go in the opposite direct. If there is relative equal highs that form after 7, 8 or 9 oclock that first 30 minutes you want to see the market drop; you want to see a measure of manipulation. 
+** Quick Example (New York session)
+*** Time: 8:20 a.m.
+*** Price forms equal highs.
+*** You wait — don’t trade yet.
+*** Around 8:45, price spikes up, takes the highs (liquidity sweep).
+*** Immediately after, price drops sharply → displacement down → structure breaks.
+**** That’s your confirmation → look for a short at FVG or OB in the new bearish leg.
