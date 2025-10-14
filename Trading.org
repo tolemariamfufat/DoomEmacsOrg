@@ -54,6 +54,7 @@
 - [[#step-by-step-how-model-5-works][Step-by-Step: How Model 5 Works]]
 - [[#two-swing-highs-the-same-holds-for-swing-lows][Two Swing highs (the same holds for swing lows)]]
 - [[#ict-beginner-trader-framework-in-words][ICT Beginner Trader Framework (in words)]]
+- [[#gaps-and-relatively-highslows][Gaps and Relatively Highs/Lows]]
 
 * Top 5 ICT Concepts
 ** Liquidity
@@ -1050,3 +1051,21 @@ This gives you accurate range boundaries that the market truly respects.
 *** Around 8:45, price spikes up, takes the highs (liquidity sweep).
 *** Immediately after, price drops sharply → displacement down → structure breaks.
 **** That’s your confirmation → look for a short at FVG or OB in the new bearish leg.
+* Gaps and Relatively Highs/Lows
+** Gaps (NWOG & NDOG) as Price Magnets
+*** The market's opening and closing prices create powerful reference points because they represent the exact beginning and end of a defined trading period, which institutions use for accounting and order flow processing.
+*** New Week Opening and Closing Gaps (NWOG/NWCG): The gap between the Friday New York Close (5:00 PM NY) and the Sunday Open (6:00 PM NY) marks a significant weekly reset. The price space within this gap is often treated as an imbalance that must eventually be filled. The transcript notes how the new week opening gap can act as support or resistance, with price respecting the levels within it [19:04].
+*** New Day Opening and Closing Gaps (NDOG/NDCG): Similarly, the hourly difference between the daily close (5:00 PM NY) and the daily open (6:00 PM NY) on instruments like futures creates a daily gap. The video shows how new day opening gaps are actively traded into, with candle bodies respecting the gap's parameters [19:22].
+** Consequent Encroachment (CE) and Quadrant Levels
+*** The most important level within any gap is the Consequent Encroachment (CE), which is the 50% midpoint of the gap's range.
+*** CE as the Core Target: The CE is the most sensitive level within the gap and acts as a powerful magnet. Price will often move to test this 50% level before continuing its overall trend. The transcript identifies the 50% level on the new week opening gap [16:32].
+*** Quadrant Levels: For larger, more significant gaps, ICT also uses quadrant levels (25% and 75%) to further refine potential reversal or reaction points [17:51].
+*** These levels (NWOG/NDOG/CE) are considered powerful because they are less frequent than Fair Value Gaps (FVGs) and are based on the market's calendar structure, which institutional systems prioritize.
+** Relative Highs and Lows (Liquidity Targets)
+*** Relative highs and lows are areas where a significant cluster of stop-loss orders and pending orders reside, creating a pool of liquidity. Price is attracted to these levels to "sweep" or "raid" the liquidity.
+*** Stop Hunt Mechanism: If two or more highs are relatively equal (Relative Equal Highs - REH), price will be drawn above them to execute the buy-stop orders of short sellers, which provides the necessary fuel for a reversal or continuation.
+*** The video confirms this concept, explaining that if a level (a high) acts as resistance and price returns to it, it’s not because the level is weak, but because it’s going back up to clear the stop losses of people who sold short above that high [25:02].
+** Price Action Mechanics and Recommendation
+*** The general rule for trading these imbalances and liquidity voids is:
+*** Gap Filling: If the current price is above a gap, it is expected to move down to fill the imbalance. If the current price is below a gap, it is expected to move up to fill it.
+*** Algorithmic Reference: The recommendation to consider opening gaps from the last 5 weeks and 5 days is based on the assumption that institutional algorithms maintain a rolling reference of recent, structurally significant gaps to inform their future order execution. By identifying and tracking these historical reference points, traders can better anticipate the algorithm's next likely target.
