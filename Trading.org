@@ -55,6 +55,10 @@
 - [[#two-swing-highs-the-same-holds-for-swing-lows][Two Swing highs (the same holds for swing lows)]]
 - [[#ict-beginner-trader-framework-in-words][ICT Beginner Trader Framework (in words)]]
 - [[#gaps-and-relatively-highslows][Gaps and Relatively Highs/Lows]]
+- [[#overlapping-fvg-and-weekly-daily-eth-and-nth-gaps][Overlapping FVG and Weekly, Daily, ETH and NTH Gaps]]
+- [[#why-this-stacking--overlapping-heuristic-makes-sense-the-intuition][Why this “stacking / overlapping” heuristic makes sense (the intuition)]]
+- [[#the-strongest-imbalances-are-not-random--theyre-nested-across-multiple-timeframes-or-sessions][The strongest imbalances are not random — they’re nested across multiple timeframes or sessions.]]
+- [[#algorithmic-symmetry][Algorithmic Symmetry]]
 
 * Top 5 ICT Concepts
 ** Liquidity
@@ -1069,3 +1073,33 @@ This gives you accurate range boundaries that the market truly respects.
 *** The general rule for trading these imbalances and liquidity voids is:
 *** Gap Filling: If the current price is above a gap, it is expected to move down to fill the imbalance. If the current price is below a gap, it is expected to move up to fill it.
 *** Algorithmic Reference: The recommendation to consider opening gaps from the last 5 weeks and 5 days is based on the assumption that institutional algorithms maintain a rolling reference of recent, structurally significant gaps to inform their future order execution. By identifying and tracking these historical reference points, traders can better anticipate the algorithm's next likely target.
+* Overlapping FVG and Weekly, Daily, ETH and NTH Gaps
+** A strong / high-probability FVG is rarely “clean” by itself — it's often reinforced by overlap with another FVG (usually of a higher or adjacent timeframe). That overlapping / stacking of FVGs gives more conviction (confluence) that price will react to that zone.
+** So it’s a confluence + probabilistic filter — you only take FVGs that overlap / stack with others (or show other confirmation) in order to increase your odds.
+* Why this “stacking / overlapping” heuristic makes sense (the intuition)
+** Here are reasons / justifications as to why many traders believe this is a useful rule:
+*** Order flow / institutional footprint
+**** If a strong FVG is created (strong institutional move), it's more likely that the same zone has unfilled interest from previous moves. So the “imbalance” gets compounded. Zones where multiple imbalances overlap are more attractive for institutions to defend / revisit.
+*** Confluence increases probability
+**** In technical analysis, levels that have multiple sources of support / resistance (FVG, prior structure, order block, liquidity zone) tend to attract more attention. An overlapping FVG adds another reason for price to react.
+*** Filtering noise
+**** Many “weak” fair value gaps will occur (small imbalances, weak impulses). But few of those will also align with other imbalances. So requiring overlap is a way to filter out low-probability ones.
+*** Multi-timeframe alignment
+**** A gap formed on a lower timeframe might be weak, but if that same price region was also a gap (or imbalance) on a higher timeframe, that gives stronger context. Traders often look for higher timeframe confluence.
+*** Zone strength & liquidity
+**** Gaps are seen as regions of latent liquidity. Overlap of gaps means more liquidity to be “filled” or more resting orders. Those zones may be more “powerful” in terms of reaction.
+* The strongest imbalances are not random — they’re nested across multiple timeframes or sessions.
+** That includes:
+*** Weekly Opening Gaps (WOGs)
+*** Daily Opening Gaps (DOGs)
+*** Electronic Trading Hours (ETH) gaps
+*** Normal Trading Hours (NTH) gaps
+** All of these can overlap each other — and when they do, they create that “stacked” or “layered” inefficiency zone where smart money often responds.
+** So, when those sessional or temporal gaps stack — for instance, a daily FVG forming inside a weekly FVG, or a NY open gap forming within an Asian session imbalance — ICT sees that as: “High probability reaction zone.”
+* Algorithmic Symmetry
+** ICT teaches that the market is not random — it’s algorithmic, meaning price delivery follows structured rules of repricing, liquidity seeking, and rebalancing.
+*** So when you see a Fair Value Gap (FVG) form (especially around an algorithmic event like the 9:30 AM NY open), you can anticipate that:
+*** The next displacement leg will mirror, expand, or rebalance relative to that original FVG.
+*** That’s why he often says things like:
+**** “The market will reprice to balance inefficiencies it created earlier.”
+**** or “The next FVG often forms opposite or equal to the first, because the algorithm delivers symmetry.”
