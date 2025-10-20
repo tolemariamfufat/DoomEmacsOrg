@@ -59,6 +59,14 @@
 - [[#why-this-stacking--overlapping-heuristic-makes-sense-the-intuition][Why this “stacking / overlapping” heuristic makes sense (the intuition)]]
 - [[#the-strongest-imbalances-are-not-random--theyre-nested-across-multiple-timeframes-or-sessions][The strongest imbalances are not random — they’re nested across multiple timeframes or sessions.]]
 - [[#algorithmic-symmetry][Algorithmic Symmetry]]
+- [[#the-common-thread--algorithmic-overlap--repricing-logic][The Common Thread — Algorithmic Overlap & Repricing Logic]]
+- [[#why-equal-highslows-form-in-overlap-zones][Why equal highs/lows form in overlap zones]]
+- [[#the-9301000-am-fair-value-gap-opening-range-powerhouse][The 9:30–10:00 AM Fair Value Gap (Opening Range Powerhouse)]]
+- [[#intraday-old-lows-and-highs-3-days-as-reference-for-algorism][Intraday Old lows and highs (3 days) as reference for algorism]]
+- [[#seek-and-destroy][Seek and Destroy]]
+- [[#premarket-concepts][Premarket Concepts]]
+- [[#mapping-high-timeframe-pd-arrays-to-lower-timeframes][Mapping High Timeframe PD Arrays to Lower Timeframes]]
+- [[#icts-precision-based-trading-philosophy][ICT’s precision-based trading philosophy]]
 
 * Top 5 ICT Concepts
 ** Liquidity
@@ -1103,3 +1111,131 @@ This gives you accurate range boundaries that the market truly respects.
 *** That’s why he often says things like:
 **** “The market will reprice to balance inefficiencies it created earlier.”
 **** or “The next FVG often forms opposite or equal to the first, because the algorithm delivers symmetry.”
+* The Common Thread — Algorithmic Overlap & Repricing Logic
+** ICT’s underlying idea is this: “Price delivery is algorithmic. Every move leaves inefficiencies. When the algorithm shifts its repricing direction, it reuses, overlaps, or inverts prior inefficiencies.”
+** Overlaps Are the Engine of Reversals and Continuation
+*** Inversion Fair Value Gap (IFVG)
+**** Definition: When price trades through a prior FVG and then later returns to that same area — but now it acts inversely (support → resistance, or resistance → support).
+**** Overlap logic: The IFVG overlaps the tail of the previous FVG. The market leaves a new imbalance directly inside or across the old one.That overlap creates a “flip zone” where the algorithm rebalances opposite direction.
+**** ICT meaning: “The algorithm reclaims that inefficiency and redefines it as a delivery point for the opposite side.”
+*** Reclaimed Fair Value Gap (RFVG)
+**** Definition: When an FVG that was once violated gets “reclaimed” (price returns above/below and closes back into it). Overlap logic: The reclaimed FVG sits directly on top of the old one.It forms a nested overlap where the algorithm invalidated the first imbalance but then reinstates it.
+**** ICT meaning:“When a fair value gap is reclaimed, the algorithm is resetting its delivery to the original inefficiency.”
+*** Breaker Block
+**** Definition: A previous bullish or bearish order block that failed (i.e. was violated) and later acts as the opposite side’s support/resistance.
+**** Overlap logic: The breaker block typically overlaps a prior FVG or OB from the same zone.  Its creation clears liquidity and fills an inefficiency, then reuses that area as an inverse level.
+**** ICT meaning: “The breaker sits where the algorithm transitions — where the old imbalance is repurposed for the new bias.”So the breaker’s efficiency comes from overlap: it’s the junction between two opposing delivery algorithms.
+*** Mitigation Block
+**** Definition: A previous order block (often opposite in direction) that is revisited to “mitigate” unfilled orders before continuing trend.
+**** Overlap logic: The mitigation block almost always overlaps a prior FVG, IFVG, or OB. That overlap allows the algorithm to rebalance orders (fill old longs/shorts) before continuing delivery.
+**** ICT meaning: “Price returns to mitigate unfilled orders within a prior inefficiency — overlap is how the algorithm rebalances.”
+* Why equal highs/lows form in overlap zones
+** An overlap zone (where a bearish and bullish breaker block meet) is an area of:
+** Previous liquidity delivery (price has traded there in both directions),
+** Institutional rebalancing (inefficiencies filled from both sides),
+** Unresolved liquidity (orders still resting there).
+** Because both buyers and sellers view that zone as important, price tends to stall there — forming relatively equal highs or lows as the algorithm builds liquidity.
+** Example: Overlap zone above price
+*** You had a bearish breaker block (from a failed rally).
+*** Later, the same region was reclaimed as a bullish breaker (price closed above it).
+*** Now that overlapping region sits as a dual-identity zone — both supply and demand in memory.
+*** When price revisits it, the algorithm often:
+**** Creates two equal highs just under that zone.
+**** Engineers buy-side liquidity above.
+**** Then sweeps it to deliver price back into the breaker for a true move.
+**** So those equal highs form because the market is coiling liquidity before it decides which side of the overlap to respect.
+**** Same logic for equal lows
+* The 9:30–10:00 AM Fair Value Gap (Opening Range Powerhouse)
+** Time Window: 9:30–10:00 AM (Real Opening Range)
+** Key Structure: First Fair Value Gap (Powerhouse)
+** Duration of Influence: Until ~3:45 PM NY Time
+** Discount Opening: FVG forms below previous day’s close
+** Midpoint Rule: 70% chance price trades back to midpoint
+** Inversion FVG: Forms after midpoint reaction, adds confluence
+** Above FVG Close: Bullish continuation
+** Below Midpoint: Leads to full gap closure (bearish rebalancing)
+** For London session opening range is formed between 1:50 and 2:10 am NY time.
+* Intraday Old lows and highs (3 days) as reference for algorism
+** Reference Points (3-Day Lookback):
+*** Always consider up to the previous three days’ highs and lows.
+*** The algorithm uses these as reference points for liquidity and range definition.
+** Intraday Range Context:
+*** When trading today, note if price is still inside the range formed by the highest high and lowest low of the past few days.
+*** This helps you know whether the market is still accumulating or distributing before a breakout.
+** Intraday Low Behavior:
+*** If an intraday low forms within that higher-timeframe range (and hasn’t made a new lower low yet), it signals potential partial profits or reaction points, not full reversals.
+** Partial Management Logic:
+*** When price first pierces below the previous day’s low, do not take partials immediately.
+*** Wait for price to retrace back up toward the previous day’s low (using it as a reference point).
+** Optimal Partial Taking:
+*** Once price drops again below the previous day’s low (the second break), that new low is where your initial partial should be taken.
+*** Then you can decide how much of the position to reduce or hold based on bias and drawdown tolerance.
+** Core Idea:
+*** The algorithm seeks liquidity beneath previous lows or above previous highs, especially from the last three days.
+*** Smart traders align their entry, partial, and continuation plans with how price interacts with those reference points.
+* Seek and Destroy
+** Lack of Clear Direction: The price action exhibits market indecision and a lack of a clear directional bias on higher timeframes, often leading to consolidation (choppy, range-bound movement).
+** Liquidity Sweep: During this phase, the market aggressively moves to "seek" and "destroy" liquidity by running stop losses (stop-loss orders placed by traders) on both sides of the market (both above swing highs and below swing lows) without establishing a sustained, definitive trend.
+** Whipsaw Action: This results in erratic, unpredictable price swings (whipsaws) that often trap retail traders who enter on false breakouts.
+** Low Probability Trading: Traders using ICT concepts are generally advised to avoid aggressive trading or breakout strategies during a Seek and Destroy day due to the low probability of clean, sustained moves.
+** The S&D profile often occurs when the market is anticipating or waiting for a major high-impact economic event (like Non-Farm Payroll or FOMC) and may consolidate for several days leading up to the news.
+* Premarket Concepts
+** Def: a set of principles and analytical steps used to establish a directional bias and identify high-probability trade setups before a major market session, particularly the New York trading session.
+** Daily Bias Determination
+*** The premarket routine starts by determining the Daily Bias—the expected direction of the price for the day—based on analysis of higher timeframe (HTF) charts. This involves identifying key levels like old highs and lows, and major Order Blocks or Fair Value Gaps (FVG) that the price is likely to be attracted to or repelled from.
+** According to ICT, premarket refers to the period before the main session’s algorithmic draw on liquidity begins.
+*** HTF like weekly and Daily
+*** For New York session, this means roughly 7:00 AM – 9:30 AM (New York time).
+*** For London session, it’s 2:00 AM – 5:00 AM (New York time).
+*** This is not a random time — ICT teaches that these windows are when algorithms engineer liquidity, setting up traps for later runs.
+** Liquidity & Imbalance Identification
+*** The market structure analysis focuses on locating two main things in the premarket phase:
+** Liquidity Pools: Identifying areas where retail traders have clustered their stop-loss orders. These are often above previous session highs (Buy-Side Liquidity - BSL) or below previous session lows (Sell-Side Liquidity - SSL). The market, driven by algorithms, will often sweep this liquidity to fill institutional orders.
+** Fair Value Gaps (FVG): Locating price inefficiencies, or gaps, left by previous sharp moves. These imbalances are considered "magnets" that the price is likely to revisit and mitigate (fill) during the active session.
+** Key Levels to Mark
+*** Premarket high
+*** Premarket low
+*** Equilibrium of that range (the midpoint)
+*** Any FVGs or Order Blocks formed
+**** These levels often act as magnets or reversal points once the main session (9:30 AM NY open) begins.
+* Mapping High Timeframe PD Arrays to Lower Timeframes
+** High Timeframe (HTF) for Bias and Targets
+*** Monthly/Weekly: These charts define the long-term market structure and key liquidity objectives (like "Old High or low" and major Liquidity Voids) that the market is likely aiming for over weeks or months. They give you the broadest sense of the overall trend and where the significant institutional money is flowing.
+*** Daily: This is often the Intermediate Timeframe that confirms the directional bias from the Weekly/Monthly and provides the most relevant PD Arrays (Order Blocks, Breaker Blocks, Fair Value Gaps) that the price is currently reacting to or is expected to react to in the coming days.
+** Lower Timeframe (LTF) for Execution
+*** Once you've identified a significant HTF PD Array (e.g., a Weekly Order Block or a Daily Fair Value Gap), you wait for the price to trade into it. When it does, you zoom down to a lower timeframe (e.g., 4-hour, 1-hour, 15-minute) to look for a Market Structure Shift (MSS) or a similar entry model confirmation to execute the trade.
+** Reliability and Confluence
+*** The higher the timeframe on which a PD Array is formed, the more significant and reliable it is considered. A Weekly Fair Value Gap is a much more powerful draw on price than a 15-minute one.
+*** Confluence is key: A trade setup is strongest when a Daily PD Array lines up exactly with a Weekly PD Array's mean threshold (50% line) or if an entry on the 15-minute chart is taken at a PD Array that is nested within a Daily PD Array.
+*** The high timeframes provide the roadmap (where price is going), and the lower timeframes provide the GPS coordinates (where exactly to enter).
+* ICT’s precision-based trading philosophy
+** Market Orders Show You Are “Chasing Price”
+*** ICT says market orders reveal impatience — they show that you’re reacting to price, not anticipating it.
+*** A market order executes immediately at the best available price, but that means you’re buying when the price is already high or selling when it’s already low.
+*** It often happens after displacement or after a liquidity run, when smart money is already positioned and preparing for a retracement.
+** Limit Orders Align with “Precision Entries”
+*** ICT wants you to think like Smart Money, not the herd.
+*** Smart Money does not chase candles. They wait for price to come back into a level of interest — like:
+**** A Fair Value Gap (FVG)
+**** A Breaker Block
+**** A Mitigation Block
+**** An Order Block (OB)
+*** Those areas represent discounts (for buys) or premiums (for sells) relative to the current move.
+*** A limit order is placed ahead of time at one of these key levels — meaning:
+*** You already know where price should react if your bias is correct.
+*** That makes your entry:
+**** Planned
+**** Precise
+**** Risk-defined
+** Limit Orders Give Better Risk-to-Reward
+*** ICT’s entries are structured around tight stops and high R multiples.
+*** Using a limit order:
+**** You get in at a better price (near the OB or FVG)
+**** Your stop loss is tighter (below/above the structure)
+**** You maximize the R:R ratio because entry is closer to invalidation
+** “Set it and Wait” — Smart Money Behavior
+*** ICT wants traders to adopt a mechanical, unemotional entry method:
+*** Identify setup
+*** Place limit order at your PD Array (FVG, OB, etc.)
+*** Walk away — let price come to you
+*** This creates discipline and detachment — two key psychological edges in ICT methodology.
