@@ -67,6 +67,10 @@
 - [[#premarket-concepts][Premarket Concepts]]
 - [[#mapping-high-timeframe-pd-arrays-to-lower-timeframes][Mapping High Timeframe PD Arrays to Lower Timeframes]]
 - [[#icts-precision-based-trading-philosophy][ICT’s precision-based trading philosophy]]
+- [[#the-first-presented-fair-value-gap-fvg][The "First Presented Fair Value Gap" (FVG)]]
+- [[#the-ict-gauntlet][The ICT Gauntlet]]
+- [[#key-aspects-of-the-950-am-macro][Key Aspects of the 9:50 AM Macro]]
+- [[#turtle-soup-and-opening-gapsranges][Turtle Soup and Opening Gaps/Ranges]]
 
 * Top 5 ICT Concepts
 ** Liquidity
@@ -1239,3 +1243,40 @@ This gives you accurate range boundaries that the market truly respects.
 *** Place limit order at your PD Array (FVG, OB, etc.)
 *** Walk away — let price come to you
 *** This creates discipline and detachment — two key psychological edges in ICT methodology.
+* The "First Presented Fair Value Gap" (FVG)
+*** What it is: The "first presented fair value gap" is identified as a 1-minute FVG that forms immediately after the 9:31 AM ET market open and is typically preceded by a raid on prior session liquidity (e.g., relative equal highs or lows) [00:12:56].
+*** Purpose: This specific 1-minute FVG is the setup that a trader should use to engage the market's directional bias for the morning session (9:30 to 10:00 AM) [00:08:31].
+** The Large Opening Premium/Discount Gap / Opening Range Gap
+*** What it is: This refers to the large price difference between the previous day's settlement (4:15 PM ET) and the 9:30 AM ET opening price when viewed on the Regular Trading Hours (RTH) chart.
+*** Relationship to the FVG: While the market action that creates the "First Presented FVG" (the 1-minute gap) occurs within the context of the large Opening Range Gap, the large gap itself is used to identify a major draw on liquidity.
+*** Key Level: ICT states that when a large Opening Range Gap occurs, you should immediately measure the gap to find its Consequent Encroachment (CE), which is the 50% midpoint [00:13:18]. He teaches there is a 70% likelihood that price will pull back into that 50% level of the Opening Range Gap [00:13:24].
+* The ICT Gauntlet
+*** The Gauntlet is a precise pattern used for high-confidence entries:
+*** It is identified as the very lowest first Sell-side Imbalance By-side Efficiency (CIBBY/bullish FVG) found within the price leg of a bullish breaker pattern-[00:15:56].
+*** It is specifically used after a pool of liquidity has been taken out at a swing low.
+*** The Gauntlet is the specific FVG you look for when the market reverses after raiding that liquidity, confirming the entry for the resulting bullish move-[00:16:13].
+* Key Aspects of the 9:50 AM Macro
+** The Time Window: The macro is typically observed from 9:50 AM EST to 10:10 AM EST (New York time). While your query specified 10:00 AM, the official macro window extends for a full 20 minutes.
+** Algorithmic Purpose: A "macro" is a short order of instructions that the algorithm runs to either:
+** Seek/Sweep Liquidity: The algorithm will aggressively move price to take out resting stop-losses (liquidity) that have been built up, especially after the New York Stock Exchange opens at 9:30 AM EST.
+** Fill Inefficiencies (FVGs): Price will rapidly move to rebalance or fill any large market inefficiencies, known as Fair Value Gaps (FVGs), created by earlier market expansion.
+** Significance: It is considered a high-probability window because it often follows the initial volatile move after the 9:30 AM open. Traders use this time to look for specific entry setups, with the most famous being the ICT Silver Bullet strategy, which often occurs around this time after a liquidity sweep has been completed.
+* Turtle Soup and Opening Gaps/Ranges
+** Turtle Soup
+*** The "Turtle Soup" setup, as described in ICT, refers to a specific type of liquidity grab or false breakout.
+*** It suggests that the market may deliberately move slightly below a significant old low (a swing low) in a bullish scenario, or slightly above a significant old high (a swing high) in a bearish scenario, only to immediately reverse. This movement is designed to trap traders who placed stop-loss orders just beyond those old highs/lows (liquidity).
+*** The ICT concept adds that this liquidity-sweeping move—the Turtle Soup—can be targeting an area that aligns with or extends to:
+** Opening Gaps
+**** New Week Opening Gap (NWOG): The difference between the previous week's closing price and the new week's opening price. Price might move to "fill" or react to this gap.
+**** New Day Opening Gap (NDOG): The difference between the previous day's closing price and the new day's opening price.
+**** Opening Range (OR) / New Day Opening Range (NDOR): The price range established during a specific, usually short, period (e.g., the first 30 or 60 minutes) of a new trading day.
+*** In essence, the Turtle Soup move below an old low or above an old high acts as a catalyst to push price into a key area like a NWOG, NDOG, or OR/NDOR, where the true directional move (the reversal) is expected to begin.
+** Price Action Movement to Premium or Discount: Reasons for movement
+*** Sweeping Liquidity (Liquidity Grab)
+**** Bullish Scenario: If the overall trend is bullish, price will often dip into the discount side of a range to grab sell-side liquidity (stop-losses below lows, or existing limit buy orders) before resuming the upward move. This is seen as smart money "filling their tanks" at a favorable price.
+**** Bearish Scenario: If the overall trend is bearish, price will often rally into the premium side of a range to grab buy-side liquidity (stop-losses above highs, or existing limit sell orders) before continuing the decline. Smart money is seen "distributing" their positions at a higher price.
+*** Rebalance Inefficiencies (Filling Voids)
+*** The market seeks to be "fairly priced." When price moves quickly, it often leaves behind areas of inefficiency or imbalance, which ICT terms "Fair Value Gaps (FVGs)" or "Liquidity Voids."
+**** Bullish Scenario (Movement to Discount): Price moves down into the discount to re-price or fill a previously created inefficiency (like an FVG) before the bullish trend continues. The FVG acts as a magnet and a likely point of support.
+**** Bearish Scenario (Movement to Premium): Price moves up into the premium to re-price or fill a previously created inefficiency before the bearish trend resumes. The FVG acts as a magnet and a likely point of resistance.
+*** In summary, price moving to discount for buying or premium for selling is done either to trap retail traders (sweeping liquidity) or to correct an imbalance in the price delivery (rebalancing inefficiencies).
