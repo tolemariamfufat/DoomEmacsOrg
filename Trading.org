@@ -71,6 +71,7 @@
 - [[#the-ict-gauntlet][The ICT Gauntlet]]
 - [[#key-aspects-of-the-950-am-macro][Key Aspects of the 9:50 AM Macro]]
 - [[#turtle-soup-and-opening-gapsranges][Turtle Soup and Opening Gaps/Ranges]]
+- [[#venom-model][Venom Model]]
 
 * Top 5 ICT Concepts
 ** Liquidity
@@ -1280,3 +1281,19 @@ This gives you accurate range boundaries that the market truly respects.
 **** Bullish Scenario (Movement to Discount): Price moves down into the discount to re-price or fill a previously created inefficiency (like an FVG) before the bullish trend continues. The FVG acts as a magnet and a likely point of support.
 **** Bearish Scenario (Movement to Premium): Price moves up into the premium to re-price or fill a previously created inefficiency before the bearish trend resumes. The FVG acts as a magnet and a likely point of resistance.
 *** In summary, price moving to discount for buying or premium for selling is done either to trap retail traders (sweeping liquidity) or to correct an imbalance in the price delivery (rebalancing inefficiencies).
+* Venom Model
+** Components
+***  Time: There’s a key window (specifically for U.S. session models) — typically the “initial range” or “box” between about 08:00-09:30 AM U.S. New York time.
+*** Liquidity zones / sweeps: Price moves to clear stop-losses (liquidity) either above recent highs or below recent lows, then reverses. This liquidity grab is the “trap” for retail traders.
+*** Market Structure Shift (MSS) / Break of Structure (BOS) / Change in State of Delivery (CISD): After the liquidity sweep, you look for a structural change in the market – e.g., lower high → lower low (for bearish) or higher low → higher high (for bullish) – which gives confirmation.
+*** Fair Value Gaps (FVGs) / Order Blocks / Imbalance zones: These mark areas where price moved too fast and left an inefficiency, which then tends to get revisited. The model uses these as precision entry zones.
+*** Bias / setup quality: The model emphasises trading one clear setup rather than many weak ones — i.e., discipline, waiting for the clean conditions.
+*** How you might apply it (step-by-step)
+** How you might apply it (step-by-step)
+*** Determine the initial range/time-window — e.g., for U.S. session systems, mark the high and low from ~08:00-09:30 NY time. (If you trade gold during the Asian session, you’d adapt the window to your session/time zone.) 
+*** Identify potential liquidity sweep — watch for price poking above the range high (for bearish setup) or below the range low (for bullish setup) and triggering stops.
+*** Wait for Market Structure Shift — after liquidity is taken, look for a clear shift (e.g., a BOS) confirming reversal intention.
+*** Locate your entry zone — typically in or around a FVG/order block that has been created as part of the structure. This gives a favourable risk-reward entry.
+*** Manage risk and target — Stop-loss is placed relative to the liquidity sweep point or structure. Target may be the opposite side of initial range, or next liquidity pool. Some backtests show 1:2 risk:reward setups.
+*** Session/time awareness — The model emphasises trade timing (liquidity is higher and moves more “institutional” at certain hours).
+*** Bias & context — Always check higher timeframe context and whether the session/liquidity conditions are favourable. If the model conditions are weak, it’s better not to trade.
