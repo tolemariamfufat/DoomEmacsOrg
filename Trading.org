@@ -72,6 +72,7 @@
 - [[#key-aspects-of-the-950-am-macro][Key Aspects of the 9:50 AM Macro]]
 - [[#turtle-soup-and-opening-gapsranges][Turtle Soup and Opening Gaps/Ranges]]
 - [[#venom-model][Venom Model]]
+- [[#icts-new-york-session-timing-model][ICT’s New York Session Timing Model]]
 
 * Top 5 ICT Concepts
 ** Liquidity
@@ -1297,3 +1298,34 @@ This gives you accurate range boundaries that the market truly respects.
 *** Manage risk and target — Stop-loss is placed relative to the liquidity sweep point or structure. Target may be the opposite side of initial range, or next liquidity pool. Some backtests show 1:2 risk:reward setups.
 *** Session/time awareness — The model emphasises trade timing (liquidity is higher and moves more “institutional” at certain hours).
 *** Bias & context — Always check higher timeframe context and whether the session/liquidity conditions are favourable. If the model conditions are weak, it’s better not to trade.
+* ICT’s New York Session Timing Model
+** Opening range and Macros
+*** 9:30 – 10:00 AM-Opening Range: The true New York equities open; creates the daily reference range. Price forms an initial high/low boundary from which liquidity is engineered.
+*** 9:50 – 10:10 AM-Macro (AM): The “macro” window. Algorithm uses this to confirm direction — either expand above or below the opening range to engineer liquidity grabs. This gives directional bias for the rest of the morning.
+*** 11:30 AM – 1:30 PM-Lunch Macro (Midday Macro): Slow time. Algorithms rebalance price inside the existing range. Often forms reversal setups or retracements into premium/discount zones before the PM move.
+*** 1:30 – 2:00 PM-Closing Opening Range (PM Opening Range):New impulse window as the algorithm starts the PM leg. Often a new range is defined that leads into the afternoon expansion.
+*** 2:50 – 3:10 PM-Macro (PM):Final “macro window.” The algorithm makes its last liquidity run — a stop raid, continuation, or reversal — before equities close. The daily range often completes here.
+** What ICT Means by “Opening Ranges Set a Trading Field”
+*** When ICT says that “opening ranges set the trading fields from or to which price action moves,” he means: The range formed during 9:30–10:00 AM becomes the structural framework of the day’s price delivery.
+*** The algorithm references this early range to decide:
+**** where to engineer liquidity (above/below it),
+**** where to expand price,
+**** and where to later return or rebalance.
+*** In other words: The opening range defines the boundaries of the algorithm’s playground — the price will often move from one side of that field to the other as it seeks liquidity.
+** How This Plays Out Intraday
+*** Example scenario:
+**** 9:30–10:00 → Market forms opening range. Suppose high = 2380 and low = 2365 on XAU/USD.
+**** 9:50–10:10 → Price runs below 2365, taking out early long stops (liquidity grab).
+**** After that raid, the algorithm shifts bullish → price rallies back above 2365, showing displacement.
+*** That run defines the daily direction.
+**** During lunch macro (11:30–1:30), price consolidates or retraces back toward equilibrium.
+**** 1:30–2:00 → A new impulse range forms; price expands again, completing the day’s profile.
+**** 2:50–3:10 → The final macro may do a small stop run or complete the daily move.
+**** So the “trading field” is the dynamic zone between the boundaries created in those key time blocks.
+** Key Takeaways
+*** Opening ranges = algorithmic anchor points.
+*** Macros = expansion or liquidity grab windows.
+*** Lunch macro = retracement/consolidation.
+*** PM opening range = second leg development.
+*** PM macro = daily range completion.
+*** Price moves from one range to the next, often reacting at those time windows because that’s when the algorithm delivers new liquidity objectives.
