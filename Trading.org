@@ -81,26 +81,15 @@
 ** PD Array
 ** The Power of 3 (Consolidation, Manipulation and Distribution)
 * PD Array
-** Bearish Pd Array Matrix
 *** Old High or low
 *** Rejection block
-*** Bearish order block
+*** Order block
 *** Fair value gap
 *** Liquidity void
-*** Bearish breaker block
-*** Bearish mitigation block
+*** Breaker block
+*** Mitigation block
 *** Suspension Block
 *** Long wicks
-** Bullish Pd Array Matrix
-*** Long wicks
-*** Suspension Block
-*** Bullish mitigation block
-*** Bullish breaker
-*** Liquidity void
-*** Fair value gap
-*** Bullish order block
-*** Rejection block
-*** Old low or high
 * ICT Market Structure and Intraweek Reversals
 ** Intraweek Market Reversals
 *** Fast Moves Early in the Week (Mon–Tue)
