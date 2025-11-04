@@ -72,7 +72,9 @@
 - [[#key-aspects-of-the-950-am-macro][Key Aspects of the 9:50 AM Macro]]
 - [[#turtle-soup-and-opening-gapsranges][Turtle Soup and Opening Gaps/Ranges]]
 - [[#venom-model][Venom Model]]
-- [[#icts-new-york-session-timing-model][ICT’s New York Session Timing Model]]
+- [[#icts-new-york-session-ranges-and-macros][ICT’s New York Session Ranges and Macros]]
+- [[#london-session-opening-range-and-macros][London Session Opening Range and Macros]]
+- [[#optimal-trade-entry-ote-often-forms-between-830-am-and-1100-am-ny-tim][Optimal Trade Entry (OTE) often forms between 8:30 AM and 11:00 AM NY tim]]
 
 * Top 5 ICT Concepts
 ** Liquidity
@@ -1287,7 +1289,7 @@ This gives you accurate range boundaries that the market truly respects.
 *** Manage risk and target — Stop-loss is placed relative to the liquidity sweep point or structure. Target may be the opposite side of initial range, or next liquidity pool. Some backtests show 1:2 risk:reward setups.
 *** Session/time awareness — The model emphasises trade timing (liquidity is higher and moves more “institutional” at certain hours).
 *** Bias & context — Always check higher timeframe context and whether the session/liquidity conditions are favourable. If the model conditions are weak, it’s better not to trade.
-* ICT’s New York Session Timing Model
+* ICT’s New York Session Ranges and Macros
 ** Opening range and Macros
 *** 9:30 – 10:00 AM-Opening Range: The true New York equities open; creates the daily reference range. Price forms an initial high/low boundary from which liquidity is engineered.
 *** 9:50 – 10:10 AM-Macro (AM): The “macro” window. Algorithm uses this to confirm direction — either expand above or below the opening range to engineer liquidity grabs. This gives directional bias for the rest of the morning.
@@ -1318,3 +1320,26 @@ This gives you accurate range boundaries that the market truly respects.
 *** PM opening range = second leg development.
 *** PM macro = daily range completion.
 *** Price moves from one range to the next, often reacting at those time windows because that’s when the algorithm delivers new liquidity objectives.
+* London Session Opening Range and Macros
+** 1:00 – 2:00 AM NY-Pre-London Session-The pre-session engineering phase. The algorithm begins raiding Asian liquidity — running stops above or below the Asian range (00:00–05:00 London). It’s where inducements form just before the true London open (7:00). Liquidity pools are set and traps are built.
+** 2:00 – 2:30 AM NY-London Opening Range-The true-London equities open: Price defines the *European reference range* that the algorithm will use for the morning. Expect initial liquidity grabs around Asian highs/lows and the creation of a session high/low boundary. |
+** 2:50 – 3:10 AM NY-London AM Macro-The first “macro window.”:  The algorithm chooses expansion direction — it will either run liquidity above or below the opening range to confirm bias. This sets the tone for the rest of the London morning.                        |
+** 4:30 – 5:30 AM NY-London Mid-Session Macro: Typically a rebalancing or continuation phase. Algorithms consolidate or retrace back into premium/discount areas of the morning move. Ideal for internal range scalps and FVG re-entries.                                         |
+** 6:00 – 6:30 AM NY-London PM Opening Range: The start of the London PM leg. Often a new impulse window leading into the *New York pre-market*. Watch for displacement and structure shifts; sets the bias before NY liquidity joins.                                           |
+** 7:50 – 8:10 AM NY-London PM Macro (Transition Macro): Final macro of the London session. Algorithm executes last liquidity grabs or reversals before handing price behavior over to New York. Often creates the *daily kill zone hand-off* setup.                                       
+* Optimal Trade Entry (OTE) often forms between 8:30 AM and 11:00 AM NY tim
+** Time-Based Logic (Liquidity & Algorithm Behavior)
+*** Between 8:30 and 11:00 AM NY time, several important things happen:
+*** 8:30 AM — Major U.S. economic news releases (e.g., CPI, NFP, GDP, etc.). These cause sharp liquidity grabs.
+*** 9:30 AM — New York Stock Exchange opens, creating volatility and a true “price delivery” range.
+*** 10:00–10:30 AM — Liquidity is often engineered and then price reverses toward the daily dealing range.
+*** The Optimal Trade Entry (OTE) typically occurs after liquidity is taken and a displacement confirms direction.
+** How the OTE Forms
+*** The OTE is based on Fibonacci retracement and market structure shift:
+**** Identify a swing high to swing low (for a buy setup) or swing low to swing high (for a sell setup) after a displacement.
+**** Measure the retracement with Fibonacci.
+**** The OTE zone is between the 61.8% and 79% retracement levels.
+**** Price retraces into this area after a liquidity grab, then resumes the trend.
+**** This pattern commonly completes between 8:30 AM and 11:00 AM because:
+**** By then, the Asian and London sessions have set liquidity pools.
+**** The New York session provides the “smart money” opportunity to enter at a discount (for buys) or a premium (for sells).
