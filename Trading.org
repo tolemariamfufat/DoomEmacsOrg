@@ -77,6 +77,8 @@
 - [[#optimal-trade-entry-ote-often-forms-between-830-am-and-1100-am-ny-tim][Optimal Trade Entry (OTE) often forms between 8:30 AM and 11:00 AM NY tim]]
 - [[#ict-trading-models-ny-time-reference][ICT Trading Models (NY Time Reference)]]
 - [[#silver-bullet-time-windows-high-probability-setups][Silver bullet time windows (High probability setups)]]
+- [[#mmxmmarket-maker-model-a-complete-institutional-price-delivery-cycle-which-typically-includes-accumulation-manipulation-or-engineered-liquidity-and-distribution-or-an-aggressive-move-its-a-patterned-movement-that-institutional-traders-use-to-enter-and-exit-large-positions-efficiently][MMXM	Market Maker Model: A complete institutional price delivery cycle, which typically includes accumulation, manipulation (or engineered liquidity), and distribution (or an aggressive move). It's a patterned movement that institutional traders use to enter and exit large positions efficiently.]]
+- [[#accumulation-manipulation-distribution-exact-mapping-to-london-and-new-york-sessions][Accumulation-Manipulation-Distribution: Exact Mapping to LONDON and NEW YORK Sessions]]
 
 * Top 5 ICT Concepts
 ** Liquidity
@@ -1410,3 +1412,42 @@ This gives you accurate range boundaries that the market truly respects.
 *** 2:00-3:00 pm
 ** London session
 *** 3:00-4:00am 
+* MMXM	Market Maker Model: A complete institutional price delivery cycle, which typically includes accumulation, manipulation (or engineered liquidity), and distribution (or an aggressive move). It's a patterned movement that institutional traders use to enter and exit large positions efficiently.
+** Original Consolidation: The first phase in a Market Maker Model or Power of Three cycle.This is the initial sideways price action where "smart money" is quietly accumulating their positions (buying or selling) before the main move. Retail traders are often trapped by the eventual breakout.
+** Distribution: A phase in the Market Maker Model.The stage where "smart money" aggressively moves the price in their intended direction and begins to unload their positions to the retail traders who are now chasing the move. It represents the final, strong directional push.
+** Redistribution: A phase that occurs after an initial distribution.This is a consolidation period that occurs within a larger trend, indicating that the "smart money" is taking a pause to either add to their existing positions or transfer positions to other large players before continuing the strong move. It's a continuation pattern.
+** MSS	Market Structure Shift: A pattern that signals a potential change in the current trend (reversal). It occurs when the price breaks decisively (with displacement) through a significant swing high (in a downtrend) or swing low (in an uptrend), suggesting that the market's internal structure is shifting.
+** SMR	Smart Money Reversal: The first stage of a Market Maker Model (MMXM).
+* Accumulation-Manipulation-Distribution: Exact Mapping to LONDON and NEW YORK Sessions
+** LONDON SESSION (2:00–5:00 AM NY Time)
+*** Accumulation (Asian Range): 8:00 PM–12:00 AM NY (Asia)
+**** Price usually creates equal highs/lows here.
+**** This is your “true accumulation” most days.
+*** Manipulation (London Judas Swing): Occurs 2:00–3:00 AM NY time
+**** London sweeps Asian HIGH → then goes down
+**** London sweeps Asian LOW → then goes up
+**** This sweep is the manipulation.
+*** Distribution
+**** 3:00–5:00 AM NY time
+**** After the Judas swing, price begins a strong trend:
+**** Distribution continues until New York pre-session begins.
+** NEW YORK SESSION (8:30–11:30 AM NY Time)
+*** Accumulation: Happens during:
+**** 7:00–8:30 AM NY
+**** Pre-NY range
+**** Revisits London’s range
+**** Consolidation before news
+*** Manipulation: Occurs at:
+**** 8:30 AM (news)
+**** 9:30 AM (NYSE open)
+**** 10:00 AM (macro data release)
+**** NY will usually sweep:
+***** London high OR
+***** New York pre-session high
+***** Then reverse with displacement.
+*** Distribution
+**** From:
+**** 9:30–11:00 AM
+**** Or extended into 1:00 PM
+**** This is when New York delivers the true trend of the day.
+
