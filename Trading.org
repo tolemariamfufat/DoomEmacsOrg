@@ -79,6 +79,7 @@
 - [[#silver-bullet-time-windows-high-probability-setups][Silver bullet time windows (High probability setups)]]
 - [[#mmxmmarket-maker-model-a-complete-institutional-price-delivery-cycle-which-typically-includes-accumulation-manipulation-or-engineered-liquidity-and-distribution-or-an-aggressive-move-its-a-patterned-movement-that-institutional-traders-use-to-enter-and-exit-large-positions-efficiently][MMXM	Market Maker Model: A complete institutional price delivery cycle, which typically includes accumulation, manipulation (or engineered liquidity), and distribution (or an aggressive move). It's a patterned movement that institutional traders use to enter and exit large positions efficiently.]]
 - [[#accumulation-manipulation-distribution-exact-mapping-to-london-and-new-york-sessions][Accumulation-Manipulation-Distribution: Exact Mapping to LONDON and NEW YORK Sessions]]
+- [[#turtle-soup-model-and-smart-money-reversals][Turtle Soup Model and Smart Money Reversals]]
 
 * Top 5 ICT Concepts
 ** Liquidity
@@ -1451,3 +1452,30 @@ This gives you accurate range boundaries that the market truly respects.
 **** Or extended into 1:00 PM
 **** This is when New York delivers the true trend of the day.
 
+* Turtle Soup Model and Smart Money Reversals
+*** The fundamental idea is that as a Turtle Soup Model Trader, you are framing your entries around a Smart Money Reversal (SMR).
+*** Turtle Soup: This is a classic setup where price aggressively moves past a previous, obvious high or low (liquidity pool), triggering the stop-losses of breakout traders or the entry of late trend-followers, only to immediately reverse. Smart Money (market makers/institutional traders) often uses this liquidity (the "soup") to enter their position opposite to the crowd.
+*** Smart Money Reversal (SMR): This is the fractal (smaller, repeating pattern) part of a larger Market Maker Buy/Sell Model (MMBM/MMSM). It represents the exact turning point where the larger move is initiated.
+** Low-Risk Entry Mechanism (The SMR)
+*** The SMR is identified by one of two specific Price Delivery (PD) Array patterns:
+*** Inversion Fair Value Gap (Inversion FVG): An existing Fair Value Gap (FVG - a three-candle space/inefficiency) that has been traded through and then acts as support or resistance upon the first retest.
+*** First Presented Fair Value Gap (FVG): The very first FVG that appears after the market has turned or the curve (reversal) begins.
+*** This SMR provides the initial low-risk entry point, framing the reason for taking the trade and representing the "First Stage Accumulation" (in a Buy Model) or "Distribution" (in a Sell Model).
+** The "Unicorn" Setup: Second Stage Reaccumulation/Redistribution
+*** If you miss the initial SMR entry, or if you want a higher-conviction, high-momentum setup, you wait for the market to confirm the reversal and then look for the second stage. This is referred to as the "Unicorn" setup.
+*** Logic: Wait for the market to complete its initial move ("deliver") away from the SMR.
+*** Entry: The trade is taken on the first retracement back down into inefficiency (like an FVG or Order Block). This retracement is the "Second Stage Reaccumulation" (in a Buy Model) or "Redistribution" (in a Sell Model).
+*** The Power of the Unicorn: This stage is highly anticipated because, once it forms, the move is expected to be immediate, quick, and powerful ("goes off to the races") as it sweeps up remaining liquidity. It’s considered "big bang for your buck" due to the high probability and high reward potential.
+** Trade Management and Conviction
+*** The lecture stresses that understanding the stages of the Market Maker Model is crucial for conviction and trade management.
+*** Price Action Rules for Retracements:
+*** When the price retraces against you (e.g., in the second stage):
+*** Wicks and Inefficiencies: Grade them. You expect price to penetrate these areas, but how it does so is key.
+*** Consequent Encroachment (CE): This is the 50% midpoint of any PD array (like an FVG or Order Block). It must be respected.
+*** Acceptable Retracement: The bodies of the candles are allowed to only close in the upper half (above the CE) of the gap, wick, or inefficiency. Wicks can drop lower to scare you ("traverse by their wicks"), but the closing price (the body) must hold the upper half.
+*** Warning Sign: If a candle body closes below the Consequent Encroachment (CE) of the relevant PD array, it signals a deeper risk. The advice is to cut half the position if your position size allows for it.
+*** Model Failure: The lecture asserts that the Second Stage Reaccumulation in an MMBM should never trade back down through once it forms. If it does, the model is wrong, and you should be stopped out. "Second stage reaccumulation in a market maker buy model never gets a stop hunt on it. It never does."
+** Stop-Loss Management (Working Class Hero Model):
+*** The method emphasizes tight, aggressive stop-loss management to lock in unrealized potential:
+*** Initial Setup: You enter long and your stop-loss is placed below the relevant low (e.g., below the SMR low).
+*** Move Stop to Breakeven/Lock-in Profit: Once the trade moves higher and creates the first new swing low after your entry, the stop-loss is moved up immediately right below that new low. This locks in a guaranteed profit (or at least breakeven), managing your risk actively.
