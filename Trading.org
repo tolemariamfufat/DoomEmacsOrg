@@ -1486,3 +1486,4 @@ This gives you accurate range boundaries that the market truly respects.
 *** It finds support sequentially at 0.25 → 0.50 → 0.75.
 *** After internal rebalancing, it breaks upward strongly.
 *** This is ICT’s demonstration that “wicks are inefficiencies” and price fills them with a mechanical, step-wise pattern.
+** A DR is used to map premium/discount, liquidity, support/resistance, and consolidation behavior so you can anticipate where the algorithm will send price next. 
