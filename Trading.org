@@ -80,6 +80,7 @@
 - [[#mmxmmarket-maker-model-a-complete-institutional-price-delivery-cycle-which-typically-includes-accumulation-manipulation-or-engineered-liquidity-and-distribution-or-an-aggressive-move-its-a-patterned-movement-that-institutional-traders-use-to-enter-and-exit-large-positions-efficiently][MMXM	Market Maker Model: A complete institutional price delivery cycle, which typically includes accumulation, manipulation (or engineered liquidity), and distribution (or an aggressive move). It's a patterned movement that institutional traders use to enter and exit large positions efficiently.]]
 - [[#accumulation-manipulation-distribution-exact-mapping-to-london-and-new-york-sessions][Accumulation-Manipulation-Distribution: Exact Mapping to LONDON and NEW YORK Sessions]]
 - [[#turtle-soup-model-and-smart-money-reversals][Turtle Soup Model and Smart Money Reversals]]
+- [[#a-daily-bullish-candles-top-wick-is-treated-like-an-internal-gap][A daily bullish candle's top wick is treated like an internal gap.]]
 
 * Top 5 ICT Concepts
 ** Liquidity
@@ -1479,3 +1480,9 @@ This gives you accurate range boundaries that the market truly respects.
 *** The method emphasizes tight, aggressive stop-loss management to lock in unrealized potential:
 *** Initial Setup: You enter long and your stop-loss is placed below the relevant low (e.g., below the SMR low).
 *** Move Stop to Breakeven/Lock-in Profit: Once the trade moves higher and creates the first new swing low after your entry, the stop-loss is moved up immediately right below that new low. This locks in a guaranteed profit (or at least breakeven), managing your risk actively.
+* A daily bullish candle's top wick is treated like an internal gap.
+** When price returns:
+*** It rejects the very top (1.0).
+*** It finds support sequentially at 0.25 → 0.50 → 0.75.
+*** After internal rebalancing, it breaks upward strongly.
+*** This is ICT’s demonstration that “wicks are inefficiencies” and price fills them with a mechanical, step-wise pattern.
