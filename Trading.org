@@ -81,6 +81,10 @@
 - [[#accumulation-manipulation-distribution-exact-mapping-to-london-and-new-york-sessions][Accumulation-Manipulation-Distribution: Exact Mapping to LONDON and NEW YORK Sessions]]
 - [[#turtle-soup-model-and-smart-money-reversals][Turtle Soup Model and Smart Money Reversals]]
 - [[#a-daily-bullish-candles-top-wick-is-treated-like-an-internal-gap][A daily bullish candle's top wick is treated like an internal gap.]]
+- [[#a-monday-of-nfp-week-monday-before-nfp-friday][A. Monday of NFP Week (Monday Before NFP Friday)]]
+- [[#b-wednesday-before-nfp-friday-the-high-probability-day][B. Wednesday Before NFP Friday (The High-Probability Day)]]
+- [[#trade-on-premarket-sessions-if][Trade on Premarket sessions if]]
+- [[#trade-after-930-if-there-are-highmedium-news-impact-on-830][Trade after 9:30 if there are high/medium news impact on 8:30]]
 
 * Top 5 ICT Concepts
 ** Liquidity
@@ -1486,4 +1490,21 @@ This gives you accurate range boundaries that the market truly respects.
 *** It finds support sequentially at 0.25 → 0.50 → 0.75.
 *** After internal rebalancing, it breaks upward strongly.
 *** This is ICT’s demonstration that “wicks are inefficiencies” and price fills them with a mechanical, step-wise pattern.
-** A DR is used to map premium/discount, liquidity, support/resistance, and consolidation behavior so you can anticipate where the algorithm will send price next. 
+** A DR is used to map premium/discount, liquidity, support/resistance, and consolidation behavior so you can anticipate where the algorithm will send price next.
+* A. Monday of NFP Week (Monday Before NFP Friday)
+** Purpose: Monday during NFP week often gives a high-probability Judas Swing to set the week’s bias.
+*** Rules
+**** Expect a Judas Swing during AM session (NY 8:30–10:00). Look for:
+**** Liquidity raid → return inside range
+**** Previous day’s high/low taking
+**** PD Array (FVG/OB) for reversal
+* B. Wednesday Before NFP Friday (The High-Probability Day)
+** Wednesday is the most important day in NFP week.
+*** Expect a clean algorithmic setup because:
+*** Liquidity builds Mon–Tue
+*** Smart money positions before Friday
+* Trade on Premarket sessions if
+** No high/medium impact news
+** Trade from 7-8:30
+** Avoid trading after 9:30
+* Trade after 9:30 if there are high/medium news impact on 8:30
