@@ -83,7 +83,7 @@
 - [[#a-daily-bullish-candles-top-wick-is-treated-like-an-internal-gap][A daily bullish candle's top wick is treated like an internal gap.]]
 - [[#a-monday-of-nfp-week-monday-before-nfp-friday][A. Monday of NFP Week (Monday Before NFP Friday)]]
 - [[#b-wednesday-before-nfp-friday-the-high-probability-day][B. Wednesday Before NFP Friday (The High-Probability Day)]]
-- [[#trade-on-premarket-sessions-if][Trade on Premarket sessions if]]
+- [[#trade-on-premarket-sessions-if-no-highmedium-impact-news][Trade on Premarket sessions if no high/medium impact news]]
 - [[#trade-after-930-if-there-are-highmedium-news-impact-on-830][Trade after 9:30 if there are high/medium news impact on 8:30]]
 - [[#why-the-first-fvg-after-930-is-important-as-enty-for-900-10-am-and-130-200-pm-ny-session-and-for-130-200-am-london-session][Why the First FVG After 9:30 Is Important as Enty (for 9:00-10 am and 1:30-2:00 pm NY session and for 1:30-2:00 am London session)]]
 
@@ -1504,7 +1504,7 @@ This gives you accurate range boundaries that the market truly respects.
 *** Expect a clean algorithmic setup because:
 *** Liquidity builds Mon–Tue
 *** Smart money positions before Friday
-* Trade on Premarket sessions if
+* Trade on Premarket sessions if no high/medium impact news
 ** No high/medium impact news
 ** Trade from 7-8:30
 ** Avoid trading after 9:30
