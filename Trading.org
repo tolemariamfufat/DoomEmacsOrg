@@ -85,6 +85,7 @@
 - [[#b-wednesday-before-nfp-friday-the-high-probability-day][B. Wednesday Before NFP Friday (The High-Probability Day)]]
 - [[#trade-on-premarket-sessions-if][Trade on Premarket sessions if]]
 - [[#trade-after-930-if-there-are-highmedium-news-impact-on-830][Trade after 9:30 if there are high/medium news impact on 8:30]]
+- [[#why-the-first-fvg-after-930-is-important-as-enty-for-900-10-am-and-130-200-pm-ny-session-and-for-130-200-am-london-session][Why the First FVG After 9:30 Is Important as Enty (for 9:00-10 am and 1:30-2:00 pm NY session and for 1:30-2:00 am London session)]]
 
 * Top 5 ICT Concepts
 ** Liquidity
@@ -1508,3 +1509,25 @@ This gives you accurate range boundaries that the market truly respects.
 ** Trade from 7-8:30
 ** Avoid trading after 9:30
 * Trade after 9:30 if there are high/medium news impact on 8:30
+* Why the First FVG After 9:30 Is Important as Enty (for 9:00-10 am and 1:30-2:00 pm NY session and for 1:30-2:00 am London session)
+** Creates a Judas swing (a false move to grab liquidity)
+** Shows the true direction (displacement) after that liquidity grab
+*** But only if these conditions are met:
+**** Price must take liquidity first
+***** Before the FVG is reliable, the move right after must take:
+- A previous swing high/low
+- A session liquidity pool
+- Equal highs/lows
+- A buy-side or sell-side pocket
+- If liquidity is not taken first, the FVG is lower probability.
+**** There must be displacement
+***** The move that creates the FVG should be:
+- Strong
+- One-directional
+- Breaking structure (BMS / SMR)
+- Weak displacement = weak FVG.
+**** The FVG must be the first clean one
+***** ICT emphasizes “first clean FVG after the turn” because:
+- It usually marks the algorithm’s chosen direction
+- It provides a low-risk entry
+- The stop can be placed below/above the swing that was used for liquidity
