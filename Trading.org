@@ -86,6 +86,7 @@
 - [[#trade-on-premarket-sessions-if-no-highmedium-impact-news][Trade on Premarket sessions if no high/medium impact news]]
 - [[#trade-after-930-if-there-are-highmedium-news-impact-on-830][Trade after 9:30 if there are high/medium news impact on 8:30]]
 - [[#why-the-first-fvg-after-930-is-important-as-enty-for-900-10-am-and-130-200-pm-ny-session-and-for-130-200-am-london-session][Why the First FVG After 9:30 Is Important as Enty (for 9:00-10 am and 1:30-2:00 pm NY session and for 1:30-2:00 am London session)]]
+- [[#a-valid-fvg-must-come-from][A valid FVG must come from:]]
 
 * Top 5 ICT Concepts
 ** Liquidity
@@ -1531,3 +1532,11 @@ This gives you accurate range boundaries that the market truly respects.
 - It usually marks the algorithm’s chosen direction
 - It provides a low-risk entry
 - The stop can be placed below/above the swing that was used for liquidity
+FIRST: The Rule of FVG Validity (ICT Core Requirements)
+* A valid FVG must come from:
+** Liquidity grab (take a high/low first)
+** Displacement (strong, fast, one-directional move)
+** Market structure shift (SMR/BMS)
+** Reasonable FVG size (not too wide)
+** The FIRST FVG after the turn (the one ICT always prefers)
+*** If ANY of these 5 are missing → type invalid or low-quality FVG.
