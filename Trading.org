@@ -88,6 +88,9 @@
 - [[#why-the-first-fvg-after-930-is-important-as-enty-for-900-10-am-and-130-200-pm-ny-session-and-for-130-200-am-london-session][Why the First FVG After 9:30 Is Important as Enty (for 9:00-10 am and 1:30-2:00 pm NY session and for 1:30-2:00 am London session)]]
 - [[#a-valid-fvg-must-come-from][A valid FVG must come from:]]
 - [[#the-three-macros-of-the-day][The three macros of the day]]
+- [[#the-4-price-levels-that-keep-your-bias-perfect-these-four-numbers-alone-tell-you-70-of-the-daily-bias][The 4 PRICE LEVELS that keep your bias perfect-These four numbers alone tell you 70% of the daily bias:]]
+- [[#putting-it-together-your-new-ict-workflow][Putting it together: Your new ICT workflow]]
+- [[#ict-definition-of-displacement][ICT Definition of Displacement]]
 
 * Top 5 ICT Concepts
 ** Liquidity
@@ -1545,7 +1548,53 @@ FIRST: The Rule of FVG Validity (ICT Core Requirements)
 ** Midnight – 1:00 a.m. NY Time → “The Midnight Macro”
 ** 10:50 – 11:10 a.m. NY Time → “The Benediction Macro” (ICT’s Power of 3 Late Session Move)
 ** The Final Hour (3:00 – 4:00 p.m. NY) → “PM Session Macro”
-
-
-
-
+* The 4 PRICE LEVELS that keep your bias perfect-These four numbers alone tell you 70% of the daily bias:
+** ⃣ Midnight Open
+*** Direction relative to midnight shows intraday delivery:
+*** Above midnight = bullish intention
+*** Below midnight = bearish intention
+** ️⃣ Yesterday’s Equilibrium (50%)
+*** This one level tells you:
+*** If today opened in premium or discount
+*** Whether early move is Judas or distribution
+*** Whether the day is likely trending or mean-reverting
+** ️⃣ Yesterday’s High
+** ️⃣ Yesterday’s Low
+** ⭐ ONLY AFTER you have these four do you look at:
+*** Opening gap high/low
+*** First displacement
+*** Session timing (London, NYO, 9:30, etc.)
+*** Now the time makes sense because it's anchored to price.
+* Putting it together: Your new ICT workflow
+** Here is the simplest and most accurate bias workflow ICT traders use (copy/paste this):
+** Step 1 — Write 4 prices on paper (not on chart):
+*** Midnight open
+*** Yesterday’s equilibrium
+*** Yesterday’s high
+*** Yesterday’s low
+** Step 2 — Compare today’s open to equilibrium
+*** If open > EQ → expect first move = down
+*** If open < EQ → expect first move = up
+*** You already saw how you misread this today.
+** Step 3 — Compare price to midnight
+*** Above midnight → bullish pressure
+*** Below midnight → bearish pressure
+*** This tells you intraday orderflow.
+** Step 4 — Identify the draw on liquidity
+*** Which is closer?
+*** Yesterday high? (buyside)
+*** Yesterday low? (sellside)
+*** This gives you the day’s “magnet”.
+** Step 5 — FIRST displacement decides the direction
+*** Not the retracement.
+*** Not the Judas.
+*** Not the time of day.
+*** The FIRST displacement confirms the model
+* ICT Definition of Displacement
+** A move is a displacement only if it:
+*** takes liquidity
+*** expands away with speed (acceleration)
+*** breaks a structural level (swing high or swing low)
+***  usually leaves an imbalance/FVG
+*** If there is no BOS →
+*** It is just volatility, not displacement.
