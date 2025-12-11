@@ -91,6 +91,7 @@
 - [[#the-4-price-levels-that-keep-your-bias-perfect-these-four-numbers-alone-tell-you-70-of-the-daily-bias][The 4 PRICE LEVELS that keep your bias perfect-These four numbers alone tell you 70% of the daily bias:]]
 - [[#putting-it-together-your-new-ict-workflow][Putting it together: Your new ICT workflow]]
 - [[#ict-definition-of-displacement][ICT Definition of Displacement]]
+- [[#ict-daily-bias-checklist][ICT DAILY BIAS CHECKLIST]]
 
 * Top 5 ICT Concepts
 ** Liquidity
@@ -1598,3 +1599,84 @@ FIRST: The Rule of FVG Validity (ICT Core Requirements)
 ***  usually leaves an imbalance/FVG
 *** If there is no BOS →
 *** It is just volatility, not displacement.
+* ICT DAILY BIAS CHECKLIST
+(Use this every morning before trading)
+** STEP 1 — Mark the 5 Key Levels
+*** Midnight Open (00:00 NY)
+*** London Open (02:00 NY)
+*** NY Open (8:30 NY)
+*** Yesterday’s High (PDH)
+*** Yesterday’s Low (PDL)
+*** Yesterday’s Equilibrium (EQ = (High + Low)/2)
+These 6 levels run the entire day.
+** STEP 2 — Identify the Day Type Using Midnight vs EQ
+This alone determines 70% of the bias.
+*** If Midnight Open < Yesterday’s EQ → BULLISH DAY
+**** → Algorithm wants to deliver to buy side
+**** → Expect raid on PDH
+**** → Expect NY Judas down, then expansion up
+*** If Midnight Open > Yesterday’s EQ → BEARISH DAY
+**** → Algorithm wants to deliver to sell side
+**** → Expect raid on PDL
+**** → Expect NY Judas up, then expansion down
+** STEP 3 — Confirm With London Open
+*** London gives confirmation of direction:
+Bullish confirmation:
+**** London Open > Midnight → accumulation below → bullish continuation
+Bearish confirmation:
+**** London Open < Midnight → distribution above → bearish continuation
+If London is opposite, expect range or delayed Judas.
+** STEP 4 — Final Confirmation From 8:30 NY Open
+*** The MOST important confirmation.
+Bullish NY Session:
+**** 8:30 open > Midnight
+**** → Favor longs
+**** → Expect Judas down
+**** → Expansion to PDH
+Bearish NY Session:
+**** 8:30 open < Midnight
+**** → Favor shorts
+**** → Expect Judas up
+**** → Expansion to PDL
+This is EXACTLY where most traders lose — they ignore where 8:30 is relative to midnight.
+
+** STEP 5 — What You Should Expect Based on Bias
+*** ⭐ Bullish Day Expectations
+**** Judas swing down between 8:30–9:30
+**** Entry after BOS + FVG in discount
+**** First target = EQ
+**** Final target = PDH
+**** Overshoot levels = inefficiencies above PDH
+
+*** ⭐ Bearish Day Expectations
+**** Judas swing up into premium
+**** Entry after BOS + FVG
+**** First target = EQ
+**** Final target = PDL
+**** Overshoot = inefficiencies below PDL
+** STEP 6 — Liquidity Map
+*** To refine entries:
+*** Bullish day: Look below price
+*** Asia sell-side
+*** London low
+*** Internal sell-side
+*** FVGs in discount
+*** Repricing zones below 8:30
+*** Bearish day: Look above price
+*** Asia buy-side
+*** London high
+*** Internal buy-side
+*** Repricing zones above 8:30
+*** This tells you where Judas will strike.
+** FINAL RESULT — Simple Yes/No Bias
+Use this final rule:
+*** ✔ If Midnight & 8:30 are both pointing the same direction → that’s the day's bias.
+❌ If they conflict → expect range, choppy day, or delayed move.
+EXAMPLE: TODAY (the corrected data)
+Midnight = 25523
+EQ = 25705
+→ Midnight < EQ → Bullish
+London > Midnight → Bullish confirmation
+8:30 = 25685 > Midnight → NY bullish confirmation
+Day bias = Bullish → target PDH 25878
+
