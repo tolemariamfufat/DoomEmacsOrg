@@ -92,6 +92,8 @@
 - [[#putting-it-together-your-new-ict-workflow][Putting it together: Your new ICT workflow]]
 - [[#ict-definition-of-displacement][ICT Definition of Displacement]]
 - [[#ict-daily-bias-checklist][ICT DAILY BIAS CHECKLIST]]
+- [[#the-only-3-ict-entry-models-you-really-need][The Only 3 ICT Entry Models You Really Need]]
+- [[#your-final-3-part-ict-trading-model][Your Final 3-Part ICT Trading Model]]
 
 * Top 5 ICT Concepts
 ** Liquidity
@@ -1680,3 +1682,107 @@ London > Midnight → Bullish confirmation
 8:30 = 25685 > Midnight → NY bullish confirmation
 Day bias = Bullish → target PDH 25878
 
+* The Only 3 ICT Entry Models You Really Need
+** Liquidity Sweep → Market Structure Shift (MSS)
+*** (The foundation)
+*** “I don’t trade without a raid on liquidity.” — ICT
+*** What you look for
+*** Sweep of:
+*** Previous day high/low
+*** Session high/low
+*** Equal highs/lows
+*** Immediate displacement
+*** MSS on 1m–5m
+*** This tells you manipulation is done.
+** Fair Value Gap (FVG) Entry — at Consequent Encroachment
+*** (The execution engine)
+*** What it does
+*** Gives precise entries
+*** Tight stops, high R:R
+*** How ICT enters
+*** First clean FVG after MSS
+*** Entry at 50% of FVG (CE)
+*** Rules
+*** Must be in:
+**** HTF bias
+**** Kill zone (London / NY)
+**** Not chasing price
+**** This is where ICT actually clicks buy/sell.
+** Judas Swing (Time-Based Manipulation)
+*** (The timing filter)
+*** What it does
+*** Filters bad trades
+*** Explains why price lies at the open
+*** When
+*** London Open
+*** NY Open (especially 9:30–10:00)
+*** What it looks like
+*** Fast move against true daily bias
+*** Liquidity raid
+*** Sharp reversal
+*** This prevents you from trading the wrong direction early.
+** How the 3 Work Together (Real ICT Flow)
+** Judas Swing creates manipulation
+** Liquidity is swept
+** MSS confirms direction
+** Enter on FVG (CE)
+** Target opposing liquidity
+*** Why These 3 Beat the Other 9
+*** Model	Why Not Needed Daily
+**** OB / Breaker / Mitigation	Just locations for FVG
+**** OTE	Optional confluence
+**** Silver Bullet	Just a time window
+**** Turtle Soup	Special case
+* Your Final 3-Part ICT Trading Model
+** TIME → Silver Bullet (WHEN)
+*** This is your clock — nothing else.
+*** NY Silver Bullet
+*** 10:00 – 11:00 NY time
+Ignore everything outside this window
+*** Why ICT uses it:
+*** Institutions deliver price during this hour.
+** REASON → Liquidity + Market Structure Shift (WHY)
+*** This gives you permission to trade.
+*** You ONLY trade if:
+*** Price takes liquidity:
+*** PDH / PDL
+*** Session high / low
+*** Equal highs / lows
+*** AND you see displacement
+*** AND a Market Structure Shift on 1m–5m
+*** No liquidity raid = no trade.
+** ENTRY → Fair Value Gap (HOW)
+*** This is the execution.
+*** Mark the first clean FVG after MSS
+*** Enter at 50% (Consequent Encroachment)
+*** Stop:
+*** Above/below the displacement high/low
+*** Target:
+*** Opposing liquidity
+*** EQ → PDH/PDL
+** Where OTE & Order Block Fit (Correctly)
+*** They are filters, not requirements.
+*** Order Block
+*** If FVG overlaps an OB → higher probability
+*** If not → trade is still valid
+*** OTE (62–79%)
+*** If FVG CE sits inside OTE → even better
+*** If not → ignore Fibonacci
+** One-Page Daily Checklist (Use This)
+Before clicking buy/sell, ask:
+*** Am I in Silver Bullet time?
+*** Has liquidity been taken?
+*** Did I see displacement + MSS?
+*** Is there a clean FVG?
+*** Is entry in premium/discount?
+*** Is my target clear liquidity?
+*** If any answer is NO → you do nothing.
+*** What You Stop Doing From Now On
+❌ Chasing OBs
+❌ Forcing OTE
+❌ Trading random FVGs
+❌ Trading outside time windows
+*** Final Truth (ICT Style)
+“The market only moves to seek liquidity.
+Your job is to enter after it’s taken.”
+This model alone is enough for mastery.
