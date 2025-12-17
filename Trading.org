@@ -94,6 +94,7 @@
 - [[#ict-daily-bias-checklist][ICT DAILY BIAS CHECKLIST]]
 - [[#the-only-3-ict-entry-models-you-really-need][The Only 3 ICT Entry Models You Really Need]]
 - [[#your-final-3-part-ict-trading-model][Your Final 3-Part ICT Trading Model]]
+- [[#no-trade-filter][No-trade filter]]
 
 * Top 5 ICT Concepts
 ** Liquidity
@@ -1783,6 +1784,32 @@ Before clicking buy/sell, ask:
 ❌ Trading random FVGs
 ❌ Trading outside time windows
 *** Final Truth (ICT Style)
+* No-trade filter
 “The market only moves to seek liquidity.
 Your job is to enter after it’s taken.”
 This model alone is enough for mastery.
+** Phase 1: Market Narrative (The Context)
+***  [ ] Premium/Discount Check: Is price Above Yesterday’s EQ (25041)?
+**** If Yes: Bearish Framework (Look for Sells).
+**** If No: Bullish Framework (Look for Buys).
+*** [ ] Midnight Open Rule: Is price Above 00:00 EST (25100)?
+**** If Yes: Deep Premium (Wait for a "Judas Swing" or Reversal).
+**** If No: Deep Discount (Wait for Buy Setup).
+*** [ ] ADR Check: Has London already moved 80% of the Average Daily Range?
+**** STAND-DOWN: If yes, NY is likely a slow grind or reversal; low probability.
+** Phase 2: Pre-NY Validation (The Setup)
+*** [ ] Asia Range Displacement: Was the Asia range broken with a clean body close and displacement?
+**** STAND-DOWN: Still inside Asia range or only "wicking" the boundaries.
+*** [ ] Liquidity Sweep Check: Has only ONE side of liquidity been taken (Yesterday's High or Low)?
+**** STAND-DOWN: Both sides were swept before 9:30 AM (Seek & Destroy Day).
+** Phase 3: NY Execution (9:30 AM – 10:10 AM EST)
+*** [ ] 8:30 AM News Reaction: Did the news create a "spike and fail" (Judas) or "spike and hold" (Trend)?
+*** [ ] SMT Divergence: Is USTECH (NQ) making a Higher High while S&P 500 (ES) is making a Lower High?
+Crucial for Bearish Bias confirmation.
+*** [ ] The 10:00 AM Rule: Has a Market Structure Shift (MSS) + Displacement FVG formed by 10:00 AM?
+**** STAND-DOWN: No clear displacement by the 9:50–10:10 AM Macro window.
+** Phase 4: The Entry & Risk Kill-Switches
+*** [ ] FVG Respect Test: Does price tap the FVG and show immediate rejection?
+**** STAND-DOWN: Price "slices" through the FVG or creates multiple overlapping FVGs.
+*** [ ] $1M Account Filter: Would I risk $2,500 on this setup if I had a $1M account?
+**** If "No" (feels like a gamble): Close the chart.
