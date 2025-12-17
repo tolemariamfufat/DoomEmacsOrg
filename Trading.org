@@ -95,6 +95,7 @@
 - [[#the-only-3-ict-entry-models-you-really-need][The Only 3 ICT Entry Models You Really Need]]
 - [[#your-final-3-part-ict-trading-model][Your Final 3-Part ICT Trading Model]]
 - [[#no-trade-filter][No-trade filter]]
+- [[#adr-formula][ADR Formula:]]
 
 * Top 5 ICT Concepts
 ** Liquidity
@@ -1813,3 +1814,8 @@ Crucial for Bearish Bias confirmation.
 **** STAND-DOWN: Price "slices" through the FVG or creates multiple overlapping FVGs.
 *** [ ] $1M Account Filter: Would I risk $2,500 on this setup if I had a $1M account?
 **** If "No" (feels like a gamble): Close the chart.
+* ADR Formula:
+** 5-day ADR = (D1 range + D2 range + D3 range + D4 range + D5 range) ÷ 5
+** (Current Day Range ÷ ADR) × 100
+Example:
+280 ÷ 220 = 1.27 → 127%
