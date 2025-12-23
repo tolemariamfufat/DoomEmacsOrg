@@ -96,6 +96,7 @@
 - [[#your-final-3-part-ict-trading-model][Your Final 3-Part ICT Trading Model]]
 - [[#no-trade-filter][No-trade filter]]
 - [[#adr-formula][ADR Formula:]]
+- [[#in-the-ict-methodology-being-married-to-a-bias-is-the-fastest-way-to-lose-here-is-how-to-mechanically-shift-your-brain-from-what-i-want-to-what-i-see][In the ICT methodology, being "married" to a bias is the fastest way to lose. Here is how to mechanically shift your brain from "What I want" to "What I see."]]
 
 * Top 5 ICT Concepts
 ** Liquidity
@@ -1819,3 +1820,28 @@ Crucial for Bearish Bias confirmation.
 ** (Current Day Range ÷ ADR) × 100
 Example:
 280 ÷ 220 = 1.27 → 127%
+* In the ICT methodology, being "married" to a bias is the fastest way to lose. Here is how to mechanically shift your brain from "What I want" to "What I see."
+** The "Opposite Thesis" Rule
+*** Before every trade, you must argue against yourself.
+*** The Action: If you are looking for a Buy, you must find at least 3 reasons why someone would Short the market right now.
+*** The Logic: If you see a Bearish FVG, a Break of Structure (BOS) to the downside, or price failing to reach an old high, you cannot ignore those. If the "Short Case" looks stronger than your "Long Case," you must step away.
+** Trust the "Draw on Liquidity" (DOL)
+*** Bias isn't a feeling; it’s a destination. If the market is moving down, it is likely heading toward a Draw on Liquidity (an old low or an unfilled FVG below).
+*** Correction: Stop asking "Is it bullish?" Ask "Where is the market going to get its next 'sip' of liquidity?"
+*** If the nearest "pool" of money is below the current price (Sell-side Liquidity), the market wants to go down, regardless of how much you want it to go up.
+** The "Institutional Pivot" Checklist
+*** Use a physical or digital checklist. If these points aren't met, you cannot enter a long trade:
+*** Market Structure Shift (MSS): Did price actually break a recent High with a strong displacement candle? (If not, it’s still bearish).
+*** PD Array Alignment: Is price in a "Discount" zone (below the 50% level of the recent range)? Buying in "Premium" (the top 50%) is a trap.
+*** Midnight Open Test: If price is trading below the Midnight Open, the algorithm is in a "Sell Program." You should not be looking for longs until price reclaims that level.
+** Psychological "Reset" Technique
+*** When you feel yourself getting "attached" to a bullish idea:
+*** Step Away: Close your charts for 5 minutes.
+*** Inversion: When you come back, invert your scale (Alt + I on TradingView). Look at the chart upside down. If the "downward" move now looks like a perfect "upward" trend, you are clearly in a bearish market and your bullish bias was wrong.
+** Summary Table
+*** Old habit - "I think it's gone down too far, it must bounce."
+*** New habit -"Price is seeking Sell-side Liquidity; I will wait for a sweep."
+*** Old habit- "I missed the move up, I'll buy the next green candle."
+*** New habit- "Price is in Premium; I will wait for a return to a Discount FVG."
+*** Old habit- "The news was good, it has to go up."
+*** New habit- "Price is reacting to the news by raiding liquidity; I will follow the tape."
