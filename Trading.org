@@ -97,6 +97,8 @@
 - [[#no-trade-filter][No-trade filter]]
 - [[#adr-formula][ADR Formula:]]
 - [[#in-the-ict-methodology-being-married-to-a-bias-is-the-fastest-way-to-lose-here-is-how-to-mechanically-shift-your-brain-from-what-i-want-to-what-i-see][In the ICT methodology, being "married" to a bias is the fastest way to lose. Here is how to mechanically shift your brain from "What I want" to "What I see."]]
+- [[#10-principles-for-managing-and-growing-small-accounts][10 principles for managing and growing small accounts:]]
+- [[#10-principles-organized-for-survival-motion-and-direction-framework][10 principles organized for Survival, Motion, and Direction framework:]]
 
 * Top 5 ICT Concepts
 ** Liquidity
@@ -1845,3 +1847,45 @@ Example:
 *** New habit- "Price is in Premium; I will wait for a return to a Discount FVG."
 *** Old habit- "The news was good, it has to go up."
 *** New habit- "Price is reacting to the news by raiding liquidity; I will follow the tape."
+
+* 10 principles for managing and growing small accounts:
+** Focus on "The Draw on Liquidity"
+Before entering any trade, you must identify where the market is going next. A small account cannot afford to "guess" or sit through long drawdowns. You should only trade when there is a clear target, such as Previous Day High/Low or a Fair Value Gap (FVG).
+** Trade Only During "Kill Zones"
+Volatility is your friend when your margin is tight, but only if it’s predictable. ICT mandates trading only during specific windows:
+London Kill Zone: 2:00 AM – 5:00 AM EST
+New York Kill Zone: 7:00 AM – 10:00 AM EST If the setup happens outside these times, you ignore it.
+** One Setup, One Move (Selectivity)
+Small account traders often overtrade to "speed up" growth. ICT teaches that you only need one high-probability setup per week. If you hit your target for the week, you stop. Forcing trades leads to the "death by a thousand cuts."
+** Use "Higher Timeframe" (HTF) Context
+Never trade a 1-minute or 5-minute chart in isolation. A small account survival strategy requires you to identify the trend on the Daily or 4-Hour chart first. You only look for lower timeframe entries that align with that HTF bias.
+** Risk No More Than 1% Per Trade
+On a small account (e.g., $1,000), a 1% risk is only $10. Many beginners find this "boring" and risk 5–10% to make money faster. ICT warns that this is the fastest way to blow the account. You must survive long enough for the power of compounding to kick in.
+** Pay Yourself (Partial Profits)
+When a trade moves in your favor, take partial profits at the first liquidity level. For a small account, seeing the balance grow—even by a tiny amount—is crucial for psychological stability.
+** Move to Break Even Quickly
+Once the price reaches a "logical" point (like a 1:1 risk-to-reward ratio or the first internal liquidity grab), move your stop loss to the entry price. Your primary goal is to remove the risk of a losing trade as soon as possible.
+** Master the "Optimal Trade Entry" (OTE)
+For small accounts, entry precision is everything. ICT’s OTE (typically the 62% to 79% Fibonacci retracement level) allows for the tightest possible stop loss, which maximizes your potential reward-to-risk ratio.
+** Avoid the "Lotto" Mentality
+Do not trade high-impact news (like NFP or CPI) with a small account. The slippage and extreme volatility can bypass your stop loss and wipe out a small balance in seconds. Wait for the "post-news" displacement to trade.
+** Process Over Profits
+The goal of a small account isn't to buy a Lamborghini; it is to prove you can follow a system. If you can grow a $1,000 account to $2,000 by following the rules, you have the skill to manage $100,000. Focus on the execution, not the dollar amount.
+
+* 10 principles organized for Survival, Motion, and Direction framework:
+** Phase A: Survival (Protecting the Capital)
+This phase is about staying in the game long enough to learn.
+*** Treat every dollar as the last: If you lose a dollar on a $500 account, it’s much harder to replace than on a $50,000 account. Protect your "seed" capital at all costs.
+*** Stop trying to get rich this week: Small accounts tempt you to use high leverage to "flip" the account. This is gambling, not trading.
+*** Never trade without peace of mind: If you are trading to pay rent or out of anger (revenge trading), your "Logic Center" is offline. ICT often says, "If you're worried about the money, you've already lost."
+** Phase B: Motion (Developing the Habit)
+This phase focuses on the mechanics of professional behavior.
+*** Only take the clearest opportunities: You don't need to catch every move. You only need the "Silver Bullet" or the "Bread and Butter" setups that scream at you from the screen.
+*** Keep a journal: You cannot fix what you do not measure. A journal proves to you that your edge works, which builds the confidence needed to scale later.
+*** Celebrate small gains: In a small account, a $10 profit might feel insignificant, but it is a percentage victory. Celebrate the discipline it took to get that green trade.
+** Phase C: Direction (Long-Term Mastery)
+This phase ensures you don't burn out and stay focused on the "Why."
+*** Build a routine (Trade then Leave): Set your "Kill Zone" hours. Once they are over, close the laptop. Staring at the charts all day leads to "ghost patterns" and overtrading.
+*** Find a small circle of support: Trading is lonely. Find a few like-minded students of the ICT mentorship to bounce ideas off of, but avoid "signal groups" that cloud your judgment.
+*** Focus on small weekly progress: If you grow your account by just 2% a week, the math of compounding becomes a weapon. You aren't looking for a "home run"; you're looking for "base hits."
+*** Remember why you started: When you hit a losing streak (and you will), reconnecting with your original goal—whether it's freedom, family, or a new career—will provide the grit to keep studying.
