@@ -100,6 +100,8 @@
 - [[#10-principles-for-managing-and-growing-small-accounts][10 principles for managing and growing small accounts:]]
 - [[#10-principles-organized-for-survival-motion-and-direction-framework][10 principles organized for Survival, Motion, and Direction framework:]]
 - [[#event-horizon][Event Horizon]]
+- [[#physics-of-price-model]["Physics of Price" model:]]
+- [[#the-observer-effect][The observer effect]]
 
 * Top 5 ICT Concepts
 ** Liquidity
@@ -2000,3 +2002,46 @@ To truly master this, look for these three things to happen simultaneously:
 *** Time is inside a 20-minute Macro.
 *** PD Array: There is a Fair Value Gap (FVG) or Order Block right at that quadrant line.
 When these three align, you aren't just guessing; you are reading the algorithm's schedule.
+* "Physics of Price" model:
+** The Dark Matter: Central Bank Dealing Range (IPDA)
+In physics, Dark Matter is the invisible mass that holds galaxies together; without it, they would fly apart.
+*** The Trading Connection: The Central Bank Dealing Ranges (the 20, 40, and 60-day look-back periods) are the "Dark Matter" of the market.
+*** You cannot see the "Dealing Range" as a single candle, but it provides the gravitational structure that dictates where every Order Block and FVG will form. It is the underlying "code" that prevents price from moving randomly.
+** The Black Holes: Voids and Propulsion/Vacuum Blocks
+A Black Hole is an area of such intense gravity that "normal" physics (support and resistance) ceases to exist.
+*** The Trading Connection: Liquidity Voids and Vacuum/Propulsion Blocks are the Black Holes.
+*** When price enters a Void, it doesn't "walk"—it "warps." There is no opposing liquidity to slow it down. Just as light cannot escape a black hole, once price enters a wide Liquidity Void after crossing an Event Horizon, it is "sucked" through that space at maximum velocity until it hits a rebalancing point.
+** The Singularity: Old Highs, Lows, and Gaps
+The Singularity is the point of infinite density at the center of the black hole—the ultimate destination.
+*** The Trading Connection: Old Highs/Lows (Liquidity) and Old Gaps (NWOG/NDOG) are the Singularities.
+*** Every move in the market is an attempt by the algorithm to reach a Singularity to "neutralize" the price. The closer price gets to an Old High (Buy Side Liquidity), the higher the "gravitational pull," which is why you see those massive, explosive "runs on stops" right at the target.
+** Entanglement: Market Maker Models (Symmetry)Quantum Entanglement suggests that two particles are linked regardless of distance; what happens to one happens to the other.
+*** The Trading Connection: The Market Maker Buy/Sell Models are the Entanglement of the algorithm.
+*** The "Original Consolidation" on the left side of the curve is entangled with the "Distribution" on the right side. The algorithm "remembers" the price levels from the rise and mirrors them exactly on the fall. If there was a "gap" at $1.20$ on the way up, there is a mathematical requirement for that gap to be addressed or "entangled" on the way down.
+** The "Unified Field" Theory of Your Model
+By combining these, you’ve built a logic that explains why price behaves differently in different "zones":
+*** In the Dark Matter (Dealing Range): Price is efficient and moves in "orbits" (consolidations).
+*** At the Event Horizon (Inversion/50% levels): Price makes a decision to leave its current orbit.
+*** In the Black Hole (Void): Price accelerates and loses all "friction."
+*** At the Singularity (Target): The move ends, the energy is neutralized, and a new "Dealing Range" is established.
+* The observer effect 
+In the ICT framework, the "Observer Effect" is represented by Time Macros. In quantum physics, the act of observing a particle forces it to "collapse" into a single state (position or velocity). Similarly, the arrival of a specific Time Macro forces the "Dark Matter" of the Central Bank Dealing Range to reveal its hand and choose a direction.
+Without the "Time" element, "Price" remains in a state of superposition (consolidation), where it could go either way.
+** The Macros as the "Collapsing Function"
+ICT identifies specific 20-minute windows where the algorithm is programmed to execute "short orders of instructions." These are the moments when the Event Horizon is either defended or breached.
+*** 9:50 AM – 10:10 AM EST: The "Silver Bullet" window. This is the most famous macro where the algorithm seeks liquidity after the 9:30 AM equity open.
+*** 10:50 AM – 11:10 AM EST: Often the "Energy Injection" that creates the final leg of the AM expansion.
+*** 02:33 AM – 03:00 AM EST: The London Open macro that often sets the "Judas Swing" for the day.
+** Time-Based Event Horizons
+You can think of these time windows as temporal event horizons.
+*** The 8:30 AM Horizon: Before 8:30 AM (News), price is often erratic. After 8:30 AM, the "Dark Energy" of the news release pushes price toward its true destination.
+*** The 10:00 AM Horizon: This is the most critical for your theory. 10:00 AM is often the "Point of No Return" for the morning trend. If price is above the Midnight Open at 10:00 AM and hits a *** Reclaimed FVG, the algorithm will likely launch price into a "Black Hole" expansion that doesn't stop until 11:00 AM.
+** The Unified "Quantum" Checklist
+To trade this model, you look for the alignment of all your physics components:
+*** Dark Matter (Bias): Is the 20/40/60-day range Bullish or Bearish?
+*** The Event Horizon (Setup): Has price crossed the 50% Mean Threshold of a Breaker or an Inversion FVG?
+*** The Observer Effect (Time): Is the clock hitting 9:50 AM?
+*** The Black Hole (Execution): Is there a Liquidity Void between the current price and the Singularity (Old High/Low)?
+** Entanglement and the "Power of Three"
+The Power of Three (AMD) is the ultimate entanglement. The Accumulation (Dark Matter) is mathematically linked to the Distribution (The Singularity). You cannot have one without the other.
+By using your Quadrant Theory, you are measuring the "decay" of the manipulation phase. Once the manipulation has traveled 2 standard deviations from the Midnight Open, the entanglement "snaps," and price is pulled violently toward the opposite Singularity.
