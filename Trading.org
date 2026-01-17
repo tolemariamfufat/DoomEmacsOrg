@@ -104,6 +104,9 @@
 - [[#the-observer-effect][The observer effect]]
 - [[#quantum-ict-unified-theory][Quantum-ICT Unified Theory.]]
 - [[#this-mt5-quantum-entry-checklist-is-designed-to-be-followed-linearly-in-your-physics-model-you-cannot-reach-the-singularity-without-first-passing-through-the-tunnel-and-the-event-horizon][This MT5 Quantum Entry Checklist is designed to be followed linearly. In your physics model, you cannot reach the Singularity without first passing through the Tunnel and the Event Horizon.]]
+- [[#the-mirror-calculation-step-by-step][The "Mirror" Calculation Step-by-Step]]
+- [[#fractal-entanglement][Fractal Entanglement]]
+- [[#my-unified-field-theory-reference-final-summary][My Unified Field Theory Reference (Final Summary)]]
 
 * Top 5 ICT Concepts
 ** Liquidity
@@ -2094,3 +2097,60 @@ Take Profit 2: -4.0 Standard Deviation (The Terminal Horizon).
 ** Phase 4: Risk Control (Gravity Shield)
 [ ] Set the Invalidation: Place your Stop Loss behind the Breaker Block or the start of the Tunneling move.
 [ ] Body vs. Wick: If a candle Body closes back through the Event Horizon (the original FVG), the "Quantum State" has failed—exit the trade immediately. Wicks are allowed to "test" the horizon, but bodies must not return.
+* The "Mirror" Calculation Step-by-Step
+If we are looking for a Bearish reversal (because the Judas was Bullish), we follow this "Physics" math:
+** Find the Origin: Mark the 00:00 Midnight Open price line. This is your "Equilibrium" (the 0 point).
+** Measure the "Seed" (The Mass): Look at the consolidation before the Judas Swing (usually the 00:00–00:30 range). Measure from the Midnight Open up to the High of that small range.
+*** Example: Midnight is at 1.1000. The High of the 00:00–00:30 range is 1.1010. The "Mass" is 10 pips.
+** Project the Symmetry: Now, take those 10 pips and project them above that High.
+*** Calculation: $1.1010 + 10 \text{ pips} = 1.1020$.
+** The Result: 1.1020 is your Symmetry Point.
+** Why this is "Quantum Symmetry"
+Think of the Midnight Open as the Center of Gravity. The algorithm often moves in "equal chunks" of the initial range.
+*** 1x the Range: The initial consolidation.
+*** 2x the Range: The Judas Swing (The Tunneling).
+*** The Turn: Once the Judas Swing reaches that 2x distance (the Symmetry Point), it has "exhausted" the local fuel. It has moved as far away from the center of gravity as it can without a new injection of energy.
+** A Visual Correction for your Example:
+*** If you are at 10:00 AM and the Judas Swing went UP (Bullish) from the Midnight Open:
+*** The Goal: You are likely looking for a Short (Distribution to the downside).
+*** The Search: You are looking for the "Symmetry Point" above price to find where the Bullish Judas will fail.
+***  The Trap: If price passes that Symmetry Point and keeps going without a Market Structure Shift (MSS), it means the "Tunnel" has become a "Wormhole" (as we discussed) and it’s heading for a much higher HTF Singularity.
+** Summary of the "Mirror" Logic
+**** The Anchor: Midnight Open.
+**** The Measure: Distance from Midnight Open to the Consolidation High/Low.
+**** The Projection: Add that same distance to the edge of the range.
+**** The "Double" Rule: Effectively, you are looking for the Judas Swing to be exactly twice the size of the initial midnight "Seed" before it reverses.
+** The Nasdaq "Quantum" Specifics (09:30–10:00)
+*** For Nasdaq, the 09:30 AM open is like a Supernova.
+*** The Mass: Between 08:30 (when news drops) and 09:30, price usually coils.
+*** The Tunnel (Judas): At exactly 09:30, Nasdaq will often "tunnel" violently in the wrong direction to hit a 15m or 1H Old High/Low.
+*** The Symmetry: If that 09:30–10:00 Judas Swing is 50 points deep, you can often project a 100-point expansion (the -2.0 Standard Deviation) for the rest of the morning.
+* Fractal Entanglement
+If the London session creates a specific "Tunnel" and "Symmetry Point," that measurement remains a valid "Gravitational Pull" for the New York session several hours later.
+** The Inter-Session Entanglement
+In physics, entangled particles stay connected even when separated by distance. In trading, sessions stay connected by the Central Bank Dealing Range.
+*** The London Judas (The Source): The manipulation that happens at 01:30–02:00 NY time creates a "Shadow" target.
+*** The NY Open (The Reflection): When Nasdaq or Forex opens at 09:30 AM, it often "seeks" the Standard Deviation targets created by the London range, not just its own local range.
+** How to Map the Fractal Targets
+To see the "Big Picture" targets for the entire day, follow this protocol:
+*** Measure the London "Mass" (00:00–00:30): This is your primary anchor.
+*** Project the -2.0 to -4.0 Standard Deviations.
+*** Observation: Often, the New York session's "Wormhole" or expansion will end exactly at the -4.0 Standard Deviation of the London Midnight Seed.
+** The "Fractal Overlap" (Hyper-Confluence)
+The highest probability trades occur when the Local NY Symmetry and the Macro London Entanglement land on the same price.
+*** Calculation A: NY Judas Swing (09:30 AM) projects a target at 1.1050.
+*** Calculation B: London Midnight Seed (00:00 AM) -4.0 SD projects a target at 1.1051.
+*** The Result: You have found a Supermassive Singularity. This is where you exit 100% of your position.
+** The "Entropy" of the Day
+As the day moves from London to NY PM (afternoon), the "Entropy" (disorder) increases.
+*** London: High order, very symmetrical.
+*** NY AM: Moderate order, usually follows the London trend.
+*** NY PM: High entropy. Price often "decays" back to the Equilibrium (the 50% point of the entire daily range).
+* My Unified Field Theory Reference (Final Summary)
+** Potential EnergyAccumulation (Mass)Use 00:00–00:30 or 07:30–08:30 box.
+** Quantum TunnelingJudas SwingMust happen in specific Time Windows.
+** Mirror SymmetryThe "Double Rule"Judas depth $\approx$ Accumulation height.
+** Event HorizonFair Value Gap (FVG)Entrance at 25%-50% / Stop at the edge.
+** EntanglementStandard DeviationsProjections (-2.0, -4.0) are the final targets.
+** WormholeHigh-Impact NewsSkips local levels for HTF Singularities.
+
