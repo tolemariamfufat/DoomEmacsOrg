@@ -107,6 +107,9 @@
 - [[#the-mirror-calculation-step-by-step][The "Mirror" Calculation Step-by-Step]]
 - [[#fractal-entanglement][Fractal Entanglement]]
 - [[#my-unified-field-theory-reference-final-summary][My Unified Field Theory Reference (Final Summary)]]
+- [[#symmetry-of-the-manipulation-judas-and-the-total-capacity-of-the-algorithm-midnight-seed][Symmetry of the Manipulation (Judas) and the Total Capacity of the Algorithm (Midnight Seed).]]
+- [[#algorithmic-geometry][Algorithmic Geometry]]
+- [[#quantum-ict-unified-field-cheat-sheet][Quantum ICT Unified Field Cheat Sheet]]
 
 * Top 5 ICT Concepts
 ** Liquidity
@@ -2153,4 +2156,67 @@ As the day moves from London to NY PM (afternoon), the "Entropy" (disorder) incr
 ** Event HorizonFair Value Gap (FVG)Entrance at 25%-50% / Stop at the edge.
 ** EntanglementStandard DeviationsProjections (-2.0, -4.0) are the final targets.
 ** WormholeHigh-Impact NewsSkips local levels for HTF Singularities.
-
+* Symmetry of the Manipulation (Judas) and the Total Capacity of the Algorithm (Midnight Seed).
+** The Judas Swing (-2.0 SD) is the "Recoil": Like a spring being pulled back and released. If you pull it 50 units (Judas), it naturally snaps forward 100 units (-2.0). This is the Internal Balance of the move.
+** The Midnight Seed (-4.0 SD) is the "Fuel Tank": It defines the total amount of energy available for the entire day. Even if there is no clear Judas Swing, the "Mass" of that 00:00–00:30 range tells you the maximum distance the "Dark Energy" can push price before the trend runs out of oxygen.
+** Use the Judas -2.0 SD when you want a High-Probability Exit. Because it's based on symmetry, the algorithm almost always hits this level to balance the "fake" move.
+** Use the Midnight -4.0 SD when you are in a Strong Trend (Wormhole). If price blasts through the Judas symmetry, it is being pulled by the "Macro Gravity" of the Midnight Seed toward that 4.0 level.
+** The Unified View
+*** The most beautiful part of this theory is that they often land on the same price. If the Judas Swing is exactly twice the size of the Midnight Seed:
+**** The -2.0 SD of the Judas Swing = The -4.0 SD of the Midnight Seed.
+*** When these two different measurements point to the same "Coordinate in Space-Time," you have found a Singularity. Price will stop there as if it hit a brick wall.
+* Algorithmic Geometry
+** The Geometry of the Midnight Seed
+*** If the "Mass" (the 00:00–00:30 range) is 10 pips:
+**** 1.0 SD = 10 pips.
+**** 4.0 SD = 40 pips away from the range.
+**** Total distance from the top of the box to the -4.0 target = 40 pips.
+** The Geometry of the Judas Swing
+*** Now, imagine a Standard Judas Swing. A "perfect" Judas Swing often moves twice the distance of the initial Midnight Seed to find liquidity.
+*** If the Midnight Seed was 10 pips, the Judas Swing "tunnels" out of the box and travels 20 pips.
+*** Now, you take your Fibonacci tool and measure that 20-pip Judas Swing as your "New Unit" (1.0).
+** The Convergence (The Singularity)
+*** Look what happens when we project the Judas Swing's symmetry:
+**** The Judas Unit = 20 pips.
+**** The -2.0 SD of the Judas = 2 x 20 pips = 40 pips.
+*** The Result:
+**** The -4.0 of the Midnight Seed (4 x 10) = 40 pips.
+**** The -2.0 of the Judas Swing (2 x 20) = 40 pips.
+***** They land on the exact same price. ---
+** Why does the algorithm do this?
+*** It is a Self-Validating System. The algorithm uses different "racks" of price to confirm the same destination.
+*** The Midnight Seed sets the "Global" target for the day (The 40-pip limit).
+*** The Judas Swing creates the "Local" energy to get there. By moving 20 pips in the wrong direction, it "loads" the spring to travel exactly 40 pips in the right direction (the -2.0 SD).
+** How to use this on MT5
+*** When you see the Judas Swing finish its turn and start the Distribution:
+**** Draw your Fib on the Midnight Seed (00:00–00:30). Mark the -4.0.
+**** Draw your Fib on the Judas Swing (the high-to-low of the manipulation). Mark the -2.0.
+**** The Target: If those two lines are sitting right on top of each other, that is your "Terminal Singularity." Do not look for more profit beyond that point. The "Fuel" (Midnight Seed) and the "Recoil" (Judas Swing) have both been fully exhausted at the same time.
+* Quantum ICT Unified Field Cheat Sheet
+** THE GEOMETRY OF PRICE (The Double-Fib)
+*** Measurement A: The Global Fuel (The Seed)
+*** Anchor: Fibonacci High to Low of the Midnight Seed (00:00–00:30).
+*** The Law: The algorithm is designed to expand this range by a factor of 4.
+*** Target: The -4.0 Standard Deviation.
+*** Measurement B: The Local Recoil (The Judas)
+*** Anchor: Fibonacci High to Low of the Judas Swing (The Manipulation move).
+*** The Law: A symmetrical "equal and opposite reaction" occurs at a 2:1 ratio.
+*** Target: The -2.0 Standard Deviation.
+** The Singularity (The "Double-Fib" Confluence)
+*** Rule: When the -4.0 SD of the Seed overlaps with the -2.0 SD of the Judas, you have found a Mathematical Singularity. Price has a 90%+ probability of stopping or reversing here.
+** THE PHYSICS RULES (Execution)
+*** The Proportionality Law
+**** Shallow Tunnel: Judas Swing is < 1.5x the size of the Mass. Target the -4.0 SD of the Judas.
+**** Deep Tunnel: Judas Swing is > 2.0x the size of the Mass. Target the -2.0 SD of the Judas (Symmetry is reached faster).
+*** The Event Horizon (Entry)
+**** The FVG: The first Fair Value Gap after the Market Structure Shift (MSS).
+**** The Entry: 25% to 50% of the FVG.
+**** Invalidation: If a 1-min candle body closes back through the FVG, the "fusion" has failed.
+*** The Wormhole Alert (High-Impact News)
+**** The Behavior: Price ignores local Standard Deviations.
+**** The Target: Look for Macro Singularities (Old Weekly Highs/Lows or All-Time Highs). Use the -4.0 SD of the Yearly range.
+*** The 3-Bar Exhaustion Rule (Exit): When price enters the Singularity Zone (the overlap), watch the 1-minute chart:
+**** Candle 1: Hits the target.
+**** Candle 2: Small body (loss of heat).
+**** Candle 3: Inside Bar or Harami.
+**** ACTION: Close trade. Energy is exhausted.
