@@ -102,6 +102,8 @@
 - [[#event-horizon][Event Horizon]]
 - [[#physics-of-price-model]["Physics of Price" model:]]
 - [[#the-observer-effect][The observer effect]]
+- [[#quantum-ict-unified-theory][Quantum-ICT Unified Theory.]]
+- [[#this-mt5-quantum-entry-checklist-is-designed-to-be-followed-linearly-in-your-physics-model-you-cannot-reach-the-singularity-without-first-passing-through-the-tunnel-and-the-event-horizon][This MT5 Quantum Entry Checklist is designed to be followed linearly. In your physics model, you cannot reach the Singularity without first passing through the Tunnel and the Event Horizon.]]
 
 * Top 5 ICT Concepts
 ** Liquidity
@@ -2045,3 +2047,50 @@ To trade this model, you look for the alignment of all your physics components:
 ** Entanglement and the "Power of Three"
 The Power of Three (AMD) is the ultimate entanglement. The Accumulation (Dark Matter) is mathematically linked to the Distribution (The Singularity). You cannot have one without the other.
 By using your Quadrant Theory, you are measuring the "decay" of the manipulation phase. Once the manipulation has traveled 2 standard deviations from the Midnight Open, the entanglement "snaps," and price is pulled violently toward the opposite Singularity.
+
+* Quantum-ICT Unified Theory.
+** The Origin: Mass and Potential Energy
+Accumulation (The Seed): Price starts in a state of "Gravitational Collapse" (Consolidation). This range represents the Mass of the system.
+The Energy Barrier: The Midnight Open (00:00 NY) acts as the primary electrical wall. Price remains in a state of superposition until it interacts with a Time Macro.
+** The Ignition: Quantum Tunneling
+*** The Judas Swing (Manipulation): This is the Quantum Tunneling event. Price "leaks" through the Midnight Open into a forbidden zone (Discount/Premium) to find fusion fuel (Liquidity).
+*** The Fusion (MSS): When price grabs liquidity and creates a Market Structure Shift, the "Quantum State" collapses. Fusion occurs, and a new "Price Universe" is born.
+** The Boundary: The Event Horizon
+*** The Fair Value Gap (FVG): This is the Event Horizon. Once a candle body closes past the 50% midpoint (Consequent Encroachment) of the first FVG after an MSS, price enters a "Point of No Return."
+*** Inversion (IFVG): When an old FVG is "collapsed" (sliced through), it becomes an Inversion Event Horizon, signaling that the old gravitational field has been neutralized.
+** The Expansion: Dark Energy and Entanglement
+*** Dark Energy: Represented by Time Macros (e.g., 10:50 AM) and News. It expands the space between price levels, driving the Distribution phase.
+*** Entanglement: The "Tunnel" (Judas Swing) and the "Expansion" (Distribution) are a linked pair. Measuring the depth of the tunnel allows you to predict the height of the expansion.
+** The Map: Standard Deviation Orbits
+*** The Projection: Using the Fibonacci tool on the Entangled Root (00:00–00:30 range) or the Judas Tunnel:
+**** -1.0 to -1.5: Breaking Orbit (Inner Planets).
+**** -2.0 to -2.5: The Profit Singularity (Primary Target).
+**** -4.0: The Terminal Event Horizon (Exhaustion/Supernova).
+** The Law of Proportionality
+*** The Spring Effect: The deeper the Tunneling (Judas) relative to the Mass (Accumulation), the higher the velocity of the move.
+*** The Signature: A small accumulation followed by a deep, fast manipulation leads to a "Black Hole" expansion that rarely retests the Event Horizon.
+** The Interstellar Jump: The Wormhole
+*** High-Impact News: Acts as a Wormhole that rips through local space-time.
+*** The Jump: Price "skips" the local solar system (15m/1H levels) and teleports directly to Macro Singularities such as Monthly Highs or All-Time Highs (ATH).
+*** The Vacuum: These moves leave behind "Wormhole Gaps" (Volume Imbalances) that remain empty until the interstellar move is completed.
+** The Observer Effect (The Macro)
+*** The Time Windows: Gravity only "activates" during specific windows (Macros). If price hits an Event Horizon outside of a Macro, it is likely "Noise." If it hits during a Macro, the algorithm is executing its instructions.
+* This MT5 Quantum Entry Checklist is designed to be followed linearly. In your physics model, you cannot reach the Singularity without first passing through the Tunnel and the Event Horizon.
+** Phase 1: The Pre-Ignition (Observation)
+[ ] Identify the Mass: Draw a box around the Accumulation (Consolidation) before the session opens (00:00–00:30 or 08:30–09:30 NY).
+[ ] Locate the Barrier: Mark the Midnight Open price with a horizontal line. This is your "Zero-Point Gravity."
+[ ] Wait for the Macro: Ensure you are within a Dark Energy window (e.g., 09:50–10:10 AM or 10:50–11:10 AM).
+** Phase 2: The Ignition (The Entry Trigger)
+[ ] Confirm Tunneling: Did price "tunnel" past the Midnight Open/Consolidation to sweep liquidity (The Judas Swing)?
+[ ] Witness the Fusion: Look for the Market Structure Shift (MSS) on the 1m or 5m chart. This is the "Big Bang" of the new trend.
+[ ] Map the Event Horizon: Identify the first Fair Value Gap (FVG) created by the MSS.
+[ ] Enter the Black Hole: Place your entry at the 25% or 50% (Consequent Encroachment) of that FVG.
+Physics Note: If the Proportionality Law is high (deep tunnel), enter at the 25% "Surface" because price may not reach the 50% core.
+** Phase 3: The Projection (Targeting)
+[ ] Calculate Entanglement: Anchor your Fibonacci tool from the Midnight Open to the Low/High of the Judas Tunnel.
+[ ] Set the Singularities: * Take Profit 1: -2.0 Standard Deviation (The Primary Orbit).
+Take Profit 2: -4.0 Standard Deviation (The Terminal Horizon).
+[ ] Identify the Wormhole: If High-Impact News is active, ignore the -2.0 SD and look for the HTF Singularity (Old Weekly/Monthly Highs).
+** Phase 4: Risk Control (Gravity Shield)
+[ ] Set the Invalidation: Place your Stop Loss behind the Breaker Block or the start of the Tunneling move.
+[ ] Body vs. Wick: If a candle Body closes back through the Event Horizon (the original FVG), the "Quantum State" has failed—exit the trade immediately. Wicks are allowed to "test" the horizon, but bodies must not return.
