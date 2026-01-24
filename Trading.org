@@ -113,6 +113,11 @@
 - [[#the-3-key-rules-of-a-breakaway-gap][The 3 Key Rules of a Breakaway Gap:]]
 - [[#the-4-rules-of-a-propulsion-block][The 4 Rules of a Propulsion Block]]
 - [[#the-5-absolute-rules-of-a-valid-order-block][The 5 Absolute Rules of a Valid Order Block]]
+- [[#the-3040-pip-manipulation-filter][The 30–40 Pip Manipulation Filter]]
+- [[#entry-relative-to-0000-vs-entry-relative-to-macros]["Entry relative to 00:00" vs. "Entry relative to Macros"]]
+- [[#what-is-the-930-opening-range-gap-org][What is the 9:30 Opening Range Gap (ORG)?]]
+- [[#confirming-the-trend-the-930-setup][Confirming the Trend: The 9:30 Setup]]
+- [[#using-the-30-40-pip-boundary-with-the-org][Using the 30-40 Pip Boundary with the ORG]]
 
 * Top 5 ICT Concepts
 ** Liquidity
@@ -2248,3 +2253,26 @@ As the day moves from London to NY PM (afternoon), the "Entropy" (disorder) incr
 *** The Strict Limit: For an OB to remain valid, the candle bodies must not close past the Mean Threshold.
 *** The Outcome: If a candle body closes past the 50% level, the order flow has shifted, and the block is likely failing.
 ** The "Freshness" (Mitigation) Rule The first return to an Order Block is the highest probability trade. Every time price returns to the block thereafter, it "collects" more of the remaining orders, making the block weaker. By the third or fourth touch, the "wall" is gone.
+* The 30–40 Pip Manipulation Filter
+** According to the video and ICT core principles, the Midnight Open (00:00 NY Time) is your anchor.
+*** The Rule: High-probability manipulation usually stays within 30 pips of the Midnight Open.
+*** The "Stress Test" (40 Pips): If price moves beyond 40 pips away from the 00:00 Open, the algorithm is likely "spooling" (expanding) in that direction. At that point, the reversal setup becomes low probability—the market isn't "trapping," it's "leaving."
+* "Entry relative to 00:00" vs. "Entry relative to Macros"
+** You noted that this manipulation can be used as a setup for entry. This connects your two concepts:
+*** Standard Deviation (Measure): Tells you how far the algorithm projects the move (the target).
+*** 30–40 Pip Filter (Boundary): Tells you where the manipulation should end before reversing.
+*** Entry Logic: If price runs 25–30 pips away from 00:00 into a Higher Timeframe (HTF) level (like a 15m Fair Value Gap or Order Block) during the 2:00 AM or 8:30 AM window, that is your Optimal Trade Entry (OTE).
+* What is the 9:30 Opening Range Gap (ORG)?
+** Definition: It is the price difference between the closing price of the regular session (4:00 PM the previous day) and the 9:30 AM opening price today [00:43].
+** The Function: This gap acts as a "magnetic zone."
+** If 9:30 opens with a gap, the algorithm often retraces to fill that gap (partially or fully) before making the "real" move of the day [04:43].
+** The 30-40 Pip Rule Connection: If this retracement back to the ORG stays within the 30-40 pip range of the Midnight Open, it is a high-probability "Institutional Rebalance" [04:58].
+* Confirming the Trend: The 9:30 Setup
+** ICT explains that the ORG helps you distinguish between High Resistance and Low Resistance liquidity:
+** The Fake-Out (Manipulation): If price drops at 9:30 into the ORG and hits a Fair Value Gap (FVG) or Order Block within that gap, it is likely just cleaning up the "Opening Range" [04:15].
+** The Confirmation: Once the gap is tested (even if only 1/4 of it is filled), look for a Market Structure Shift (MSS) with displacement away from the gap [05:21].
+** The Trend: If the DXY (Dollar Index) fails to make a new high while the index is filling its ORG, this SMT Divergence confirms that the 9:30 move is a real expansion toward your targets (like your 25,693) [05:53].
+* Using the 30-40 Pip Boundary with the ORG
+** You can use the 40-pip filter to "stress test" the 9:30 open:
+** If 9:30 stays within 40 pips of Midnight: The ORG fill is a high-probability "Buy/Sell" setup. You can enter as price leaves the gap.
+** If 9:30 runs 40+ pips away from Midnight WITHOUT filling the ORG: This is a Runaway Gap. It means the market has so much momentum it doesn't need to rebalance. In this case, do not wait for a retracement—the "Shortest Path" to liquidity is already in play.
