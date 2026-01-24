@@ -110,6 +110,9 @@
 - [[#symmetry-of-the-manipulation-judas-and-the-total-capacity-of-the-algorithm-midnight-seed][Symmetry of the Manipulation (Judas) and the Total Capacity of the Algorithm (Midnight Seed).]]
 - [[#algorithmic-geometry][Algorithmic Geometry]]
 - [[#quantum-ict-unified-field-cheat-sheet][Quantum ICT Unified Field Cheat Sheet]]
+- [[#the-3-key-rules-of-a-breakaway-gap][The 3 Key Rules of a Breakaway Gap:]]
+- [[#the-4-rules-of-a-propulsion-block][The 4 Rules of a Propulsion Block]]
+- [[#the-5-absolute-rules-of-a-valid-order-block][The 5 Absolute Rules of a Valid Order Block]]
 
 * Top 5 ICT Concepts
 ** Liquidity
@@ -2220,3 +2223,28 @@ As the day moves from London to NY PM (afternoon), the "Entropy" (disorder) incr
 **** Candle 2: Small body (loss of heat).
 **** Candle 3: Inside Bar or Harami.
 **** ACTION: Close trade. Energy is exhausted.
+* The 3 Key Rules of a Breakaway Gap:
+** The Location: It appears right after a Liquidity Raid or a Market Structure Shift (MSS). It is the gap that forms when the algorithm decides to leave a price level behind forever (or for a long time).
+** The Retracement Rule: If price comes back to a Breakaway Gap, it should not close more than 50% (Consequent Encroachment) into the gap. Usually, it just kisses the top/bottom and takes off.
+** The "Left Open" Signature: While a normal FVG is a "to-do list" item for the algorithm to fill later, the Breakaway Gap is a "seal." If it gets filled, it is no longer a Breakaway Gap—it's just a failed FVG.
+* The 4 Rules of a Propulsion Block
+** The "Tested Once" Rule A Propulsion Block is not a fresh Order Block. It is an Order Block that has already been traded back into. * Scenario: Price creates a Down-close candle (Bullish OB), price rallies, then drops back down into that candle (the first test). The candle that price forms while bouncing out of that first test becomes your Propulsion Block.
+** The "Aggressive Displacement" Rule The candle must lead to a sharp, impulsive move that breaks a Short-Term High/Low (MSS). This confirms that the "Smart Money" has finished their accumulation and is now "propelling" the price.
+** The "Mean Threshold" Sensitivity (The Strict Rule) Similar to your rule that "no body is entertained in a Breakaway Gap," the Propulsion Block has a very strict boundary:
+*** The Rule: Price should ideally only touch the Open or the Wick of the Propulsion Block.
+*** The Limit: The candle bodies must not close past the Mean Threshold (50%) of the Propulsion Block. If the body closes past 50%, the "propulsion" is lost, and it’s just a regular, weak Order Block.
+** The "Immediate Result" Rule A true Propulsion Block must result in an immediate expansion toward your target (like your 25,300 level). If price lingers or "hangs out" around the Propulsion Block for several candles, it is failing. It should act like a hot stove—price touches it and jumps away instantly.
+* The 5 Absolute Rules of a Valid Order Block
+** The "Last Opposite Candle" Rule
+*** Bullish OB: The last bearish (down-close) candle before a strong move up.
+*** Bearish OB: The last bullish (up-close) candle before a strong move down.
+*** Note: If there are consecutive candles of the same color, the entire cluster can be treated as one Order Block.
+** The "Liquidity Raid" Requirement (High Probability) A high-probability OB doesn't just form in thin air. It forms after the market has swept liquidity (previous highs/lows). The OB is the footprint of the institutions buying/selling the very liquidity that retail traders used for their stop losses.
+** The "Displacement" Rule (Non-Negotiable) After the OB candle forms, price must leave that area with aggressive speed.
+*** The Signal: It must create a Market Structure Shift (MSS) and leave a Fair Value Gap (FVG) immediately after the block.
+*** If price grinds away slowly, it is NOT an Order Block; it’s just a consolidation.
+** The "Mean Threshold" (50%) Rule This is the rule for your "body" observation:
+*** Rule: The Mean Threshold is the exact 50% midpoint of the Order Block candle (from open to close, or sometimes wick to wick if the wicks are small).
+*** The Strict Limit: For an OB to remain valid, the candle bodies must not close past the Mean Threshold.
+*** The Outcome: If a candle body closes past the 50% level, the order flow has shifted, and the block is likely failing.
+** The "Freshness" (Mitigation) Rule The first return to an Order Block is the highest probability trade. Every time price returns to the block thereafter, it "collects" more of the remaining orders, making the block weaker. By the third or fourth touch, the "wall" is gone.
