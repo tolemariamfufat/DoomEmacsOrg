@@ -122,6 +122,14 @@
 - [[#the-average-daily-range-adr-filter][The Average Daily Range (ADR) Filter]]
 - [[#the-integrated-institutional-strategy][The Integrated "Institutional" Strategy]]
 - [[#summary-note-for-your-tape-reading][Summary Note for your Tape Reading]]
+- [[#how-to-calculate-the-weekly-averages][How to Calculate the Weekly Averages]]
+- [[#weekly-averages-for-knowing-overbought-and-oversold-levels][Weekly Averages for knowing Overbought and oversold levels]]
+- [[#the-value-bracket-institutional-rsi][The "Value Bracket" (Institutional RSI)]]
+- [[#two-layered-approach][Two layered approach]]
+- [[#the-adr-use-a-rolling-5-day-average][The ADR: Use a ROLLING 5-Day Average]]
+- [[#the-mid-week-shift-wednesdaythursday][The "Mid-Week Shift" (Wednesday/Thursday)]]
+- [[#checklist][Checklist]]
+- [[#the-pro-tape-reading-rule][The "Pro" Tape Reading Rule:]]
 
 * Top 5 ICT Concepts
 ** Liquidity
@@ -2304,3 +2312,39 @@ As the day moves from London to NY PM (afternoon), the "Entropy" (disorder) incr
 ** Set the Target: Your target should be the un-swept Session Highs or the opposite end of the ADR.
 * Summary Note for your Tape Reading
 *** "I use the Weekly EQ to tell me WHERE to buy, and the ADR to tell me HOW MUCH room the market has left to move. If the market is at a Discount (Price) and the tank is full (ADR), I have a high-probability trade."
+* How to Calculate the Weekly Averages
+** To calculate these, you don't look at the single highest or lowest candle. Instead, you average the daily peaks and troughs:
+** Average Weekly High: Sum of all 5 Daily Highs $\div$ 5.
+** Average Weekly Low: Sum of all 5 Daily Lows $\div$ 5.
+* Weekly Averages for knowing Overbought and oversold levels
+** Why is this important for Session Trading?
+** This creates a "Value Zone" that is much more accurate than just a single price line.
+** The "True" Premium/Discount: In a bullish week, the Average Weekly High (25,503.2) acts as a "Value Ceiling." If price is trading above this average, it is considered "Overbought" on a weekly basis, even if it hasn't reached the absolute high (25,728) yet.
+** The Re-balancing Magnet: When price is trending, it rarely returns to the absolute Weekly Low (24,903). Instead, it often drops to the Average Weekly Low (25,152) to find support.
+* The "Value Bracket" (Institutional RSI)
+** Think of these levels as a rubber band:
+*** Overbought (The Average High: 25,503): When price is trading above this level, the "rubber band" is stretched to the upside. Any 9:30 AM move that continues higher is considered high-risk because the market is already in a Weekly Premium.
+*** Oversold (The Average Low: 25,152): When price is trading below this level, the rubber band is stretched to the downside. This is the Weekly Discount. This is where you look for those 300-point "snap-back" rallies.
+* Two layered approach
+** In the ICT methodology, you do not use a single, static number all week. Instead, you use a two-layered approach: one part stays fixed to give you "Long-term Narrative," and the other part updates daily to give you "Intraday Precision."
+** The Weekly EQ: Keep it FIXED
+** You should stick to the 25,315.5 level (your previous week's EQ) throughout the entire upcoming week.
+*** Why? The algorithm uses the previous week’s range as the "Anchor." Institutions have their stop-losses and pending orders parked relative to last week's highs and lows.
+*** The Logic: If you change your Weekly EQ every day by adding Monday's data, you lose sight of where the original "Institutional Discount" was. Think of last week's EQ as your "Compass"—it doesn't move just because you took a few steps.
+* The ADR: Use a ROLLING 5-Day Average
+** Unlike the EQ, your ADR should update every day.
+*** Why? ADR measures Volatility, which is like the "weather." If Monday has a massive 600-point range, the "Average" volatility has increased. You need to know this so you don't set your Take Profit too small on Tuesday.
+*** The Calculation for Tuesday: 1. Drop the oldest day (last week's Monday). 2. Add the newest day (this week's Monday). 3. Recalculate the sum and divide by 5.
+* The "Mid-Week Shift" (Wednesday/Thursday)
+** By the time you reach Wednesday or Thursday, you should add one more level to your chart: the Current Week's EQ.
+** Monday-Tuesday: Use only the Previous Week's EQ.
+** Wednesday-Friday: Mark the 50% level of the current week's High and Low.
+** If the market is bullish, it will often "retrace" to the Current Week's EQ on Wednesday or Thursday before one final expansion into Friday. This is known as the London/NY Mid-Week Reversal.
+* Checklist
+** MondayPrevious- 5 DaysPrevious Week's- EQ Only
+** TuesdayRolling (Drop last Mon, add this Mon)-Previous Week's EQ (The Anchor)
+** WednesdayRolling (Drop last Tue, add this Tue) Anchor EQ + Current Week's Midpoint
+** ThursdayRolling (Drop last Wed, add this Wed)Anchor EQ + Current Week's Midpoint
+* The "Pro" Tape Reading Rule:
+*** "Use Previous Week's Levels to find the Direction (The Why). Use the Rolling ADR to find the Distance (The How Far)."
+*** If you keep updating your EQ daily, you will find yourself "chasing the price" and potentially buying at a local high that is actually a Weekly Premium. Stay anchored to that 25,315.5 level—it is your safety net.
