@@ -134,6 +134,7 @@
 - [[#the-adr-3512-is-a-ruler-it-only-cares-about-the-distance-between-the-lowest-point-of-the-day-and-the-highest-point-of-the-day][The ADR (351.2) is a Ruler. It only cares about the distance between the lowest point of the day and the highest point of the day.]]
 - [[#icts-adr-and-the-rolling-adr-the-hybrid-solution-how-to-actually-trade-tomorrow][ICT's ADR and the Rolling ADR: The Hybrid Solution (How to actually trade tomorrow)]]
 - [[#overbought-and-oversold-issues][Overbought and oversold issues]]
+- [[#magnet-hierarchy][Magnet Hierarchy]]
 
 * Top 5 ICT Concepts
 ** Liquidity
@@ -2393,3 +2394,11 @@ As the day moves from London to NY PM (afternoon), the "Entropy" (disorder) incr
 *** Scale: Just today (The 24-hour cycle).
 *** Logic: Even in a very strong weekly trend, the market can only move so many points in a single day before it needs to "breathe."
 *** Analogy: A world-class marathon runner (the market) can run 26 miles (the Weekly Trend), but they can't sprint at 20mph for the whole trip. If they sprint for 2 miles (ADR/2), they have to slow down to a walk (Retracement) even if they haven't reached the finish line yet.
+* Magnet Hierarchy
+** 1. NWOG (CE)-Extreme-All Week
+** 2. Week EQ High-Multi-Day
+** 3. Midnight Open-High 24 Hours
+** 4. Session EQ-High -(Acute) - Current Session (2-4 hrs)
+** 5. NDOG-Medium-24 Hours
+** 6. 9:30 AM Range-Medium-Morning Session
+** 7. Rolling EQ Low Fluid / Sentiment
