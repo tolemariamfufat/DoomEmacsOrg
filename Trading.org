@@ -118,6 +118,10 @@
 - [[#what-is-the-930-opening-range-gap-org][What is the 9:30 Opening Range Gap (ORG)?]]
 - [[#confirming-the-trend-the-930-setup][Confirming the Trend: The 9:30 Setup]]
 - [[#using-the-30-40-pip-boundary-with-the-org][Using the 30-40 Pip Boundary with the ORG]]
+- [[#the-weekly-equilibrium-eq-filter][The Weekly Equilibrium (EQ) Filter]]
+- [[#the-average-daily-range-adr-filter][The Average Daily Range (ADR) Filter]]
+- [[#the-integrated-institutional-strategy][The Integrated "Institutional" Strategy]]
+- [[#summary-note-for-your-tape-reading][Summary Note for your Tape Reading]]
 
 * Top 5 ICT Concepts
 ** Liquidity
@@ -2276,3 +2280,27 @@ As the day moves from London to NY PM (afternoon), the "Entropy" (disorder) incr
 ** You can use the 40-pip filter to "stress test" the 9:30 open:
 ** If 9:30 stays within 40 pips of Midnight: The ORG fill is a high-probability "Buy/Sell" setup. You can enter as price leaves the gap.
 ** If 9:30 runs 40+ pips away from Midnight WITHOUT filling the ORG: This is a Runaway Gap. It means the market has so much momentum it doesn't need to rebalance. In this case, do not wait for a retracement—the "Shortest Path" to liquidity is already in play.
+* The Weekly Equilibrium (EQ) Filter
+** Purpose: To define the "Institutional Fair Value" for the week and identify high-probability reversal zones.
+** Definition: The 50% mark of the Previous Week's Range (High to Low).
+** The 50% Rule: * Premium (Above EQ): Market is "expensive." Look for Sell-Side targets or wait for a retracement.
+** Discount (Below EQ): Market is "cheap." Look for Buy-Side setups (The "Gift").
+** The "Magnet" Effect: In a trending week, the market often returns to the Weekly EQ to pick up orders before expanding.
+** The Failure Swing: If the price reverses before hitting the Weekly EQ (like your 25,222 bounce), it signals extreme strength in the current trend direction.
+* The Average Daily Range (ADR) Filter
+** Purpose: To measure the "Fuel Tank" and avoid trading into exhaustion.
+** The Calculation: Sum the distance of the last 5 Daily Ranges (High minus Low) and divide by 5.
+** The 30% Rule: If the market uses less than 30% of its ADR by the session open, expect a Large Expansion (Trending Day).
+** The 80%–100% Rule: If the market has already moved nearly 100% of its ADR before the 9:30 AM or 1:30 PM windows, it is Exhausted.
+** Action: Do not chase breakouts. Look for mean reversion back to Equilibrium.
+** The News Multiplier: * No News: Respect the 100% ADR limit strictly.
+** High-Impact News: Price can stretch to 125%–150% of the ADR.
+* The Integrated "Institutional" Strategy
+** How to combine them for the 9:30 AM Open:
+** Locate the "Gift": If your bias is Bullish and price is moving below the Midnight Open, check its distance to the Weekly EQ.
+** Measure the Tank: Check how many points of the ADR have been used during this downward move.
+** Identify the Reversal Zone: * If the move is 190 points down (50% of ADR) and it hits a HTF Level (like your 25,222 floor) just above the Weekly EQ, the "trap" is complete.
+** Confirm the Shift: Wait for MSS + Displacement (The 306-point rally signature).
+** Set the Target: Your target should be the un-swept Session Highs or the opposite end of the ADR.
+* Summary Note for your Tape Reading
+*** "I use the Weekly EQ to tell me WHERE to buy, and the ADR to tell me HOW MUCH room the market has left to move. If the market is at a Discount (Price) and the tank is full (ADR), I have a high-probability trade."
