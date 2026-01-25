@@ -132,6 +132,8 @@
 - [[#the-pro-tape-reading-rule][The "Pro" Tape Reading Rule:]]
 - [[#adr-ict-the-mathematical-breakdown][ADR-ICT: The Mathematical Breakdown]]
 - [[#the-adr-3512-is-a-ruler-it-only-cares-about-the-distance-between-the-lowest-point-of-the-day-and-the-highest-point-of-the-day][The ADR (351.2) is a Ruler. It only cares about the distance between the lowest point of the day and the highest point of the day.]]
+- [[#icts-adr-and-the-rolling-adr-the-hybrid-solution-how-to-actually-trade-tomorrow][ICT's ADR and the Rolling ADR: The Hybrid Solution (How to actually trade tomorrow)]]
+- [[#overbought-and-oversold-issues][Overbought and oversold issues]]
 
 * Top 5 ICT Concepts
 ** Liquidity
@@ -2372,3 +2374,22 @@ As the day moves from London to NY PM (afternoon), the "Entropy" (disorder) incr
 *** The Calculation of the Range:
 **** Daily High (25,714) - Daily Low (25,410)} = 304 points
 *** The Result: Even though the price "moved" a total of 494 points (190 down + 304 up), the Daily Range is only 304 points.Since 304 is less than your ADR of 351.2, the algorithm stayed perfectly within its "allotted fuel" for the day.
+* ICT's ADR and the Rolling ADR: The Hybrid Solution (How to actually trade tomorrow)
+** Use the ICT Style to find your Direction, and use the Rolling ADR to find your Exit.
+** Step-by-Step for Monday:
+*** Direction (ICT): Look at your Weekly EQ (25,315.5). If price is above it and moving toward the Weekly High (25,728), your direction is BULLISH.
+*** The Entry (ICT): Wait for the 9:30 AM Manipulation (The "Gift"). Look for a drop into a 15m Fair Value Gap or a sweep of a session low.
+*** The Target (Rolling ADR): Once you are in the trade, look at your ADR (351.2).
+*** If your ICT target (the Weekly High) is 200 points away, and the market has only moved 100 points so far today, the ADR says: "Go for it, there's plenty of fuel left."
+*** If your target is 500 points away, but the ADR is only 351, the ADR says: "Be careful. The market might stall before reaching your target. Take partial profits at 350 points."
+* Overbought and oversold issues
+** The Weekly Boundaries (The "Macro" Overbought)
+*** When I said "Price above Weekly High is Overbought," I was talking about the Trend.
+*** Scale: The entire 5-day week.
+*** Logic: If price is above last week's average high, it is "expensive" for the week.
+*** Analogy: Buying a house in a neighborhood where prices just hit an all-time high. It might keep going up, but you are paying a "Premium."
+** The ADR/2 Boundaries (The "Micro" Overbought)
+*** The ADR/2 formula is for Intraday Overbought.
+*** Scale: Just today (The 24-hour cycle).
+*** Logic: Even in a very strong weekly trend, the market can only move so many points in a single day before it needs to "breathe."
+*** Analogy: A world-class marathon runner (the market) can run 26 miles (the Weekly Trend), but they can't sprint at 20mph for the whole trip. If they sprint for 2 miles (ADR/2), they have to slow down to a walk (Retracement) even if they haven't reached the finish line yet.
