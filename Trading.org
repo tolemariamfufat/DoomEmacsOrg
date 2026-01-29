@@ -2420,7 +2420,7 @@ As the day moves from London to NY PM (afternoon), the "Entropy" (disorder) incr
 *** Visual: Three distinct, symmetrical "pushes" into a liquidity zone (High, Higher High, Final Higher High).
 *** Logic: Used to engineer liquidity. Each drive traps more "counter-trend" traders. It is the "Last Gasp" of a trend before a major reversal.
 *** Entry: Look for SMT Divergence on the 3rd drive and a displacement move back through the 2nd drive’s low/high.
-** 5. The Swing Failure Pattern (SFP - The Classic Reclaim)
+** 5. The Swing Failure Pattern (SFP - The Classic Reclaim)-Reclaimed FVG
 *** Visual: Price trades above a previous high or below a previous low, but the body of the candle closes back inside the range.
 *** Logic: Shows a lack of "Acceptance." The algorithm refuses to deliver price at that new level, signaling that the move was purely a manipulation.
 *** Entry: Confirmed when the next candle creates a CISD (closing above/below the previous candle's open).
