@@ -135,6 +135,7 @@
 - [[#icts-adr-and-the-rolling-adr-the-hybrid-solution-how-to-actually-trade-tomorrow][ICT's ADR and the Rolling ADR: The Hybrid Solution (How to actually trade tomorrow)]]
 - [[#overbought-and-oversold-issues][Overbought and oversold issues]]
 - [[#magnet-hierarchy][Magnet Hierarchy]]
+- [[#ict-reversal-signatures-the-5-institutional-styles][ICT Reversal Signatures: The 5 Institutional Styles]]
 
 * Top 5 ICT Concepts
 ** Liquidity
@@ -2402,3 +2403,24 @@ As the day moves from London to NY PM (afternoon), the "Entropy" (disorder) incr
 ** 5. NDOG-Medium-24 Hours
 ** 6. 9:30 AM Range-Medium-Morning Session
 ** 7. Rolling EQ Low Fluid / Sentiment
+* ICT Reversal Signatures: The 5 Institutional Styles
+** 1. The Rejection Wick (The Liquidity Grab)
+*** Visual: A long wick that pierces a key liquidity level (PDH/PDL) but results in a fast, aggressive snap-back.
+*** Logic: The "Stop Run" is completed instantly. The wick does the work of collecting money, and the body stays far away from the level.
+*** Entry: Look for a Market Structure Shift (MSS) on the 1m chart immediately after the wick forms.
+** 2. The Big Pair (Large Range Displacement Reversal)
+*** Visual: A massive Red candle immediately followed by an equal or larger Green candle (or vice versa).
+*** Logic: Instantaneous Rebalance. The algorithm switches from Sell-side to Buy-side delivery so fast that no Fair Value Gap (FVG) is left behind.
+*** Entry: Focus on the Mean Threshold (50%) of the candle pair or a Change in State of Delivery (CISD).
+** 3. The Breaker Block (The Failed Support/Resistance)
+*** Visual: Price makes a High (1), drops to a Low (2), rallies to a Higher High (3), then crashes through the Low (2).
+*** Logic: The "Up-close" or "Down-close" candles at the Low (2) become the Breaker. The market "breaks" the support and flips it into a ceiling.
+*** Entry: Sell/Buy the retest of the Breaker Zone (the failed swing point).
+** 4. The Three-Drive Pattern (Staircase Exhaustion)
+*** Visual: Three distinct, symmetrical "pushes" into a liquidity zone (High, Higher High, Final Higher High).
+*** Logic: Used to engineer liquidity. Each drive traps more "counter-trend" traders. It is the "Last Gasp" of a trend before a major reversal.
+*** Entry: Look for SMT Divergence on the 3rd drive and a displacement move back through the 2nd drive’s low/high.
+** 5. The Swing Failure Pattern (SFP - The Classic Reclaim)
+*** Visual: Price trades above a previous high or below a previous low, but the body of the candle closes back inside the range.
+*** Logic: Shows a lack of "Acceptance." The algorithm refuses to deliver price at that new level, signaling that the move was purely a manipulation.
+*** Entry: Confirmed when the next candle creates a CISD (closing above/below the previous candle's open).
