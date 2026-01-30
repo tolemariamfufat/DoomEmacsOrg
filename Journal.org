@@ -23,3 +23,75 @@
 *** The Best Action: On these days, the "model" is often to do nothing. As ICT says, "The best trade is sometimes the one you don't take."
 ** Why it happened today
 *** Since today (Jan 28, 2026) was an FOMC day, the market almost always goes into "Seek and Destroy" mode during the morning session. The big institutions are waiting for the 2:00 PM news, so the morning is just "noise" to trap retail liquidity before the real move.
+** Why you should wait (The "No Entry" Rules)
+*** Trend is King: If the higher timeframe (HTF) trend is bullish, the algorithm is in a "Buy Program." A 1m rejection and a small FVG are often just the market "creating a wick" or seeking a discount to buy more.
+*** Inducement vs. Reversal: That small 1m FVG is likely an inducement. The market creates a small bearish sign to trick retail traders into selling, only to run their stops as it continues the bullish trend.
+*** Internal vs. External: If you haven't swept a major External Range Liquidity (ERL) level (like a previous session high), a 1m shift is very low probability.
+** How to handle this specific scenario
+*** If the trend is bullish and you see a 1m rejection:
+*** Don't Sell: Instead, look at that 1m bearish FVG as a "Target" for a retracement.
+*** The "Buy" Model: Wait for price to trade down through that bearish FVG. If price pulls back, hits a Discount PD Array (like a bullish Order Block or the 50% Equilibrium), and then shows a bullish sign, that is your entry to go Long.
+*** Inversion FVG: If price trades back up and closes above that 1m bearish FVG, it becomes an Inversion FVG—a very strong support level for a bullish continuation.
+** A 1-minute FVG against the trend is a speed bump, not a brick wall. Do not trade against the HTF trend unless the market has cleared major liquidity and shifted structure with displacement.
+** The "Bullish Only" Model
+*** If the trend is bullish, your trade management should look like this:
+*** The Entry: Wait for a retracement into a Discount zone (below 50% of your anchored range) or a Bullish PD Array (Order Block or FVG).
+*** The Take Profits (TP):
+*** TP1: The first Internal Range High (recent swing high).
+*** TP2: The External Range Liquidity (the major high of your range).
+*** TP3: The "Unfinished Business" (your target at 25,899).
+** When can you ever go short in a bullish trend?
+*** There is only one scenario where ICT suggests a counter-trend short, and even then, it is for advanced traders:
+*** ERL is Swept: Price hits a major HTF target (like a Daily or Weekly high).
+*** Market Structure Shift (MSS): You see a clear shift on a lower timeframe with heavy displacement (multiple 5m or 15m bearish candles).
+*** The Objective: You aren't "reversing the trend"; you are simply trading the retracement back down to the 50% Equilibrium or a Bullish FVG.
+*** Rule of Thumb: If you are a beginner or intermediate, ignore the shorts. It is much easier and more profitable to catch a 50-point move in the direction of the trend than a 10-point move against it.
+** Why we treat Bearish FVGs as "Targets," not "Entries"
+*** When the trend is bullish:
+*** Bearish FVG = A Magnet: Price will pull back into it. You don't sell it; you wait for price to reach it and then look for a Bullish reversal to go long.
+*** Inversion: If price runs above a bearish FVG and stays there, it is a massive signal that the trend is very strong. This is an Inversion FVG, and it now acts as a floor for more buying.
+** In a Bullish Trend, I am a Discount Buyer. I do not sell Premium unless a Major HTF level is hit and confirmed by a structural shift. My bearish FVGs are where I look to take profits or re-enter longs, not where I enter shorts.
+** Institutional Sponsorship versus Retail Pattern Recognition.
+*** The "Mean Threshold" Rule (The 50% Filter)
+**** In ICT, a bullish Order Block or Breaker is only valid as long as the price does not close below its 50% level (Mean Threshold).
+**** The Error: Placing your stop loss too tight, right at the top of the block.
+**** The Fix: If the price trades into your entry zone and starts "hanging around" the bottom half of the candle, it is no longer a high-probability setup. Institutions protect the 50% mark. If it closes below that 50%, the "deep retracement" you fear is actually a Market Structure Shift in disguise.
+*** SMT Divergence (The "Unseen" Confirmation)
+**** If you are trading USTech (NQ), you must look at the S&P 500 (ES) at the same time.
+**** The Trap: NQ sweeps a low and starts moving up, so you enter. But ES failed to sweep its corresponding low.
+**** The Lesson: This is a "crack in correlation." If one asset sweeps and the other doesn't, the one that didn't sweep is often the real trend. If you enter on the sweep without checking the other asset, you are often catching a "fake" move that will inevitably reverse for a deeper run.
+*** Seek and Destroy vs. Trend
+**** Recall your lesson on Seek and Destroy. On days where the price is balanced around the Midnight Open at 9:30 AM, the "stop hunt" you see is often just the first half of the trap.
+**** The Behavior: S&D profiles are designed to sweep the low, move up (inducing you to buy), and then immediately reverse to sweep the high, then back to the low.
+**** The Fix: On S&D days, don't trade the first stop hunt. Wait for the market to sweep both sides of the morning range before looking for a late-session expansion.
+*** How to Place a "Professional" Stop Loss
+**** Tight Stop-high Risk-Placed right at the bottom of a 1m FVG. Easily hit by "noise."
+**** Structural Stop-Medium Risk-Placed below the Mean Threshold (50%) of the 5m Order Block.
+**** Institutional Stop-Low Risk-Placed below the Swing Low that created the displacement. If this level breaks, your entire "Long" thesis is officially wrong.
+*** When the price turns back for a "deep retracement" after you enter, look at the speed.
+**** Slow drift down: This is a rebalance; stay in the trade.
+**** Fast "Slam" down: This is a change in state of delivery. Exit manually before it hits your stop. The algorithm has shifted.
+** A target is only as strong as the timeframe it lives on. If a 15-minute 'Fair Value' level stands in the way of a 1-minute 'Liquidity' level, the Fair Value usually wins.
+** Institutional Order Flow
+*** The ERL $\rightleftarrows$ IRL RuleThe most fundamental rule ICT teaches is that price only moves between two points:
+*** External Range Liquidity (ERL): Major Highs and Lows.Internal Range Liquidity (IRL): Fair Value Gaps (FVG).
+**** The Cycle: After price sweeps ERL (a stop hunt), its next magnetic target is IRL (the FVG you entered on). Once it hits that IRL, its next magnetic target is the Opposing ERL.
+** High Resistance vs. Low Resistance Liquidity Runs
+*** This is the rule that explains why price sometimes "passes one or two stop hunts unexpectedly."
+*** Low Resistance Liquidity Run (LRLR) — The "Runner"
+*** If the market has "Unfinished Business" and the path is clear, it will slice through stop hunts like butter.
+*** The Signature: Large, energetic candles with very small wicks.
+*** The Rule: If price creates Relative Equal Highs or Relative Equal Lows, the algorithm views this as "Low Resistance." It will not stop at the first high; it will run through all of them in one surge to reach the "true" pool of money.
+** High Resistance Liquidity Run (HRLR) — The "Grind"
+*** If the market is moving into a zone where institutions are heavily "absorbing" orders, the move will be slow and messy.
+*** The Signature: Overlapping candles, many wicks, and frequent small retracements.
+*** The Rule: In an HRLR, you should take profits at TP1 (the first internal high) because the market is likely to reverse and "Deep Retrace" before ever reaching TP2.
+** The "State of Delivery" Rule
+*** Check your Higher Timeframe (HTF).
+*** Rule: If the Daily/4-hour chart has just tapped a Discount Order Block, the 1m/5m "stop hunts" on the way up will be ignored by the price. The market is in a "Seeking ERL" state, and it will run through every minor resistance until it hits the major HTF high.
+*** Reversal Rule: If price has already hit its HTF Target, any 1m/5m bullish move you take is high-risk. It will likely reverse before hitting your "stop hunt" target because the "Big Money" has already exited.
+** The "Priority of Fair Value" Rule
+*** In the ICT hierarchy, Higher Timeframe (HTF) Internal Range Liquidity (IRL) usually takes priority over Lower Timeframe (LTF) External Range Liquidity (ERL).
+*** The Trap: You enter on a 1m FVG and target a 1m swing high (BSL).
+*** The Reality: Price moves up, but it slams into a 15m Bearish FVG (a horizontal zone of resistance) just before reaching your 1m target.
+*** The Result: The algorithm considers the market "rebalanced" once it hits that 15m FVG. It has fulfilled its higher-level purpose, so it no longer needs to reach that tiny 1m stop hunt. It reverses, and you get caught wondering why it "turned early."
