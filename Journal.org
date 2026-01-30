@@ -12,4 +12,14 @@
 ** I do not chase the first impulsive candle. I wait for the 'Test of Strength.' If the market can't hold its own midpoint, the move is a lie. The Change in State of Delivery is only real when the body definitively 'swallows' the previous open after a successful defense of the 50% level.
 29-01-2026
 ** I now have five styles to look for: The Rejection Wick, the Big Pair, the Three-Drive Exhaustion, the Breaker Flip, and the SFP Body Reclaim. I will categorize every reversal I see into one of these five buckets to see which one the current algorithm prefers.
-
+* 30-01-2026
+** The "Seek and Destroy" Signature
+*** The Balanced Start: Price spent the morning (London and Pre-Market) oscillating around the Midnight Open (25,751). It went low (25,542) and then high (25,794), but by 9:30 AM, it was essentially "home" again.
+*** Expansion in Both Directions: In a Seek and Destroy profile, the market will sweep the Buy Side Liquidity (BSL) and the Sell Side Liquidity (SSL) multiple times. It doesn't want to leave any stops untouched.
+*** The Consolidation Trap: After 9:30 AM, price traded between 25,832 and 25,713. This range is designed to "induce" traders. It looks like it's breaking out to the upside, so people buy; then it reverses and sweeps the lows, so people sell.
+** Key Takeaways for your Rules
+*** If Price = MO at 9:30 AM: Expect a "Z-Day" or Seek and Destroy. This is usually the lowest probability day for a trend trader.
+*** No Displacement: If you see "choppy" moves that take out a high and then immediately take out a low without leaving a clean Fair Value Gap (FVG), you are in S&D.
+*** The Best Action: On these days, the "model" is often to do nothing. As ICT says, "The best trade is sometimes the one you don't take."
+** Why it happened today
+*** Since today (Jan 28, 2026) was an FOMC day, the market almost always goes into "Seek and Destroy" mode during the morning session. The big institutions are waiting for the 2:00 PM news, so the morning is just "noise" to trap retail liquidity before the real move.
