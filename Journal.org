@@ -94,4 +94,39 @@
 *** In the ICT hierarchy, Higher Timeframe (HTF) Internal Range Liquidity (IRL) usually takes priority over Lower Timeframe (LTF) External Range Liquidity (ERL).
 *** The Trap: You enter on a 1m FVG and target a 1m swing high (BSL).
 *** The Reality: Price moves up, but it slams into a 15m Bearish FVG (a horizontal zone of resistance) just before reaching your 1m target.
-*** The Result: The algorithm considers the market "rebalanced" once it hits that 15m FVG. It has fulfilled its higher-level purpose, so it no longer needs to reach that tiny 1m stop hunt. It reverses, and you get caught wondering why it "turned early."
+*** The Result: The algorithm considers the market "rebalanced" once it hits that 15m FVG. It has fulfilled its higher-level purpose, so it no longer needs to reach that tiny 1m stop hunt. It reverses, and you get caught wondering why it "turned
+* 31-01-2026
+** Internal Candlestick Pullbacks (ICT "Liquidity Sweeps")
+*** The Video Says: A valid internal pullback happens when a candle sweeps the low of a previous impulse candle [04:50].
+*** ICT Connection: This is exactly how ICT explains Price Action and Liquidity. A move isn't just a move; it must "take something" to be valid. ICT teaches that the market moves from liquidity to liquidity. When a candle takes the low of a previous candle, it is a "mini stop hunt" that provides the fuel for the next leg.
+** The 38.2% Fibonacci Rule (ICT "Discount/Premium")
+*** A structural pullback must reach at least the 38.
+*** ICT uses the 50% Equilibrium level as his primary filter. While this video uses 38.2% as a "minimum," the logic is the same: Do not buy in Premium and do not sell in Discount. ICT teaches that a high-probability "Optimal Trade Entry" (OTE) happens between 62% and 79%. Both systems agree that a move that doesn't retrace deep enough is just "internal noise" or "engineered liquidity" [07:30].
+** Sweeping Pullbacks (ICT "Inducement")
+*** The most powerful pullback is one that creates equal highs/lows and then sweeps them right before hitting an Order Block [12:06].
+*** This is a classic ICT Inducement. The market creates "Retail Support" (Equal Lows) to trick traders into buying. Then, the algorithm sweeps those stops (the "Sweeping Pullback") into a higher-timeframe Order Block before the real move starts.
+** Validating Points of Interest (POIs)
+*** An Order Block or FVG is only "high quality" if it was created by a leg that had a valid structural pullback [08:53].
+*** This aligns with Institutional Sponsorship. ICT teaches that not every FVG is tradable. You want to see "Displacement" that leaves behind a gap after a liquidity hunt. The video’s "mechanical rules" for pullbacks are just a different way of ensuring the move you are trading has real institutional weight behind it.
+** I will not treat a sideways move as a pullback. I need to see a candle low swept (Internal) or a move to the 38.2%-50% level (Structural) before I consider my Order Block or FVG valid for entr
+** In a bullish move, candles are making higher highs and higher lows. To the algorithm, the "trend" on that specific timeframe hasn't paused until a candle's low is taken out.
+*** The Impulse: Candle 1, 2, and 3 all have higher lows. The move is "clean."
+*** The Validation: Candle 4's high is the "Current High." If Candle 5 trades below the low of Candle 4, the Internal Pullback is now valid.
+*** The Trap: If price just moves sideways (inside bars) without taking that low, the "impulse leg" is technically still active.
+** How this fits with ICT logic
+*** Stop Hunting at the Micro Level: Every time a candle low is swept in an uptrend, the market is grabbing "Internal Range Liquidity" to fuel the next push up.
+*** The "Change in State of Delivery": If you are in a bullish trend and a candle finally sweeps a previous low, ICT looks for the next candle to close back above the high of the "sweeping" candle. This confirms the pullback is over and the trend is resuming.
+** A pullback isn't just price moving down; it's price taking liquidity from the previous candle. This validates the high. If the HTF trend is bullish, I expect this 'internal sweep' to hold and lead to a new high.
+** I will not enter a long just because a low was swept. I will wait for a Candle Close above the high of the candle that did the sweeping. This is my 'Green Light' that the algorithm has finished its discount and is ready to expand again.
+** Engineered Liquidity
+** The "Chain" of Sweeps: Why it happens
+*** When price passes through the most recent short-term sweep low to hit a preceding structural sweep low, it’s doing what’s called deep mitigation.
+*** The First Sweep (The Bait): Price takes out a candle low. This looks like the "pullback" is starting, but it doesn't have enough "fuel" (orders) to reverse the whole trend yet.
+*** The Second Sweep (The Liquidity Run): Price continues lower to sweep a major Swing Low or a Structural Low. This is where the "Big Money" resting orders are actually sitting.
+*** The Goal: By taking out multiple levels of lows, the market clears out everyone who put their stop losses "too tight" on the first pullback.
+** How to handle this in your trading
+*** If you observe price sweeping multiple lows, don't panic and think the trend is dead. Instead, use these two filters:
+*** Look for the HTF PD Array: Is there a Higher Timeframe Fair Value Gap (FVG) or Order Block sitting just below that second sweep low? If yes, the market is likely just reaching for that "higher quality" zone before reversing.
+*** The "Double Sweep" Confirmation: A "Double Sweep" (taking a short-term low and a structural low) is actually a higher probability setup than a single sweep. It shows the market has completely cleaned the books.
+** Pro Tip: If price sweeps the first low and then stagnates or moves sideways, expect it to run the second low. Smart money likes to "engineer" those equal-ish lows to make retail traders feel safe buying there, only to sweep them all at once.
+** I will not be fooled by the first sweep. If there is a cleaner structural low or an HTF FVG just below, I will wait for price to reach into that 'True Discount' before looking for my Change in State of Delivery.
